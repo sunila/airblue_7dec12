@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag
+END
+altera-jtag.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/altera-jtag.h
+END
+altera-jtag.awb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/altera-jtag.awb
+END
+altera-jtag.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/altera-jtag.bsv
+END
+altera-jtag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/altera-jtag.cpp
+END

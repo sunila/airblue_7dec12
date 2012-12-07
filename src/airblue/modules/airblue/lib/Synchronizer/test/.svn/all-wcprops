@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/airblue/!svn/ver/247/trunk/modules/airblue/lib/Synchronizer/test
+END
+SynchronizerDiffTest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/airblue/!svn/ver/168/trunk/modules/airblue/lib/Synchronizer/test/SynchronizerDiffTest.bsv
+END
+airblue_synchronizer_diff_test.awb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/airblue/!svn/ver/168/trunk/modules/airblue/lib/Synchronizer/test/airblue_synchronizer_diff_test.awb
+END
+packet.data
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/168/trunk/modules/airblue/lib/Synchronizer/test/packet.data
+END
+SynchronizerTest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/airblue/!svn/ver/247/trunk/modules/airblue/lib/Synchronizer/test/SynchronizerTest.bsv
+END
+airblue_synchronizer_test.awb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/airblue/!svn/ver/247/trunk/modules/airblue/lib/Synchronizer/test/airblue_synchronizer_test.awb
+END
+SynchronizerPacketGenFile.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/airblue/!svn/ver/168/trunk/modules/airblue/lib/Synchronizer/test/SynchronizerPacketGenFile.bsv
+END
+airblue_synchronizer_packetgen_file.awb
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/airblue/!svn/ver/168/trunk/modules/airblue/lib/Synchronizer/test/airblue_synchronizer_packetgen_file.awb
+END
+SynchronizerPacketGenRandom.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/airblue/!svn/ver/168/trunk/modules/airblue/lib/Synchronizer/test/SynchronizerPacketGenRandom.bsv
+END
+airblue_synchronizer_packetgen_random.awb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/airblue/!svn/ver/168/trunk/modules/airblue/lib/Synchronizer/test/airblue_synchronizer_packetgen_random.awb
+END
+nextRandData.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/172/trunk/modules/airblue/lib/Synchronizer/test/nextRandData.c
+END

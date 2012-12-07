@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/RRR/CBusRF
+END
+CBusRFControl.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/RRR/CBusRF/CBusRFControl.rrr
+END
+cbus_rf_control.awb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/RRR/CBusRF/cbus_rf_control.awb
+END

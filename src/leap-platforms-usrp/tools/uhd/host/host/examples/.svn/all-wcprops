@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples
+END
+benchmark_rx_rate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/benchmark_rx_rate.cpp
+END
+latency_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/latency_test.cpp
+END
+rx_samples_to_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/rx_samples_to_file.cpp
+END
+rx_timed_samples.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/rx_timed_samples.cpp
+END
+ascii_art_dft.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/ascii_art_dft.hpp
+END
+test_pps_input.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/test_pps_input.cpp
+END
+tx_timed_samples.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/tx_timed_samples.cpp
+END
+test_async_messages.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/test_async_messages.cpp
+END
+rx_ascii_art_dft.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/rx_ascii_art_dft.cpp
+END
+tx_waveforms.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/tx_waveforms.cpp
+END
+rx_samples_to_udp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/rx_samples_to_udp.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/examples/CMakeLists.txt
+END

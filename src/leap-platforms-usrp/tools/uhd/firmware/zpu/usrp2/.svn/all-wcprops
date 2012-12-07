@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2
+END
+ethernet.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2/ethernet.c
+END
+eth_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2/eth_phy.h
+END
+sd.c
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2/sd.c
+END
+memory_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2/memory_map.h
+END
+sd.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2/sd.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2/CMakeLists.txt
+END

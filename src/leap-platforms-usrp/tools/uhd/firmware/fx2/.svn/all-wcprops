@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/.gitignore
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/AUTHORS
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/CMakeLists.txt
+END

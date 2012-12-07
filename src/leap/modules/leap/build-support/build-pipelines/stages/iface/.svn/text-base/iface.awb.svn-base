@@ -1,0 +1,23 @@
+#/********************************************************************
+#* Python libraries for XST synthesis tool
+#********************************************************************/
+
+%name Interface builder
+%desc Build tool for LEAP interfaces
+
+%attributes tool
+
+%provides iface_tool
+
+%notes README
+
+%scons %library iface.py
+
+%param --global EXTRA_DICTS " " "A set of extra dictionary files"
+%param --global GENERATE_VICO 0 "True if we are building a vico target"
+
+
+
+
+
+

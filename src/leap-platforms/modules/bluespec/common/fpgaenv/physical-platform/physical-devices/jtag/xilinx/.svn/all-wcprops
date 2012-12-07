@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx
+END
+jtag-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/jtag-device.cpp
+END
+jtag-device-physical.awb
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/jtag-device-physical.awb
+END
+jtag_control.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/jtag_control.vhd
+END
+mdm_core.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/mdm_core.vhd
+END
+jtag-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/jtag-import.bsv
+END
+bscan_virtex.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/bscan_virtex.vhd
+END
+jtag-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/jtag-device.h
+END
+jtag_srl_fifo.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/jtag_srl_fifo.vhd
+END
+mdm.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/mdm.vhd
+END

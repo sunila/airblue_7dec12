@@ -1,0 +1,6 @@
+This directory contains alternative implementations of ChannelIO, which takes
+a physical channel abstraction and multiplexes it among many users.
+
+basic/              Baseline ChannelIO implementations.
+null/               Empty ChannelIO implementation.
+

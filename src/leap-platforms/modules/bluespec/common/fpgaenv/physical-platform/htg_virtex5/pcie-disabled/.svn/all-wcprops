@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-disabled
+END
+htg-v5-pcie-disabled.awb
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-disabled/htg-v5-pcie-disabled.awb
+END
+htg-v5-pcie-disabled.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-disabled/htg-v5-pcie-disabled.bsv
+END
+htg-v5-pcie-disabled.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-disabled/htg-v5-pcie-disabled.sdf
+END
+htg-v5-pcie-disabled.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-disabled/htg-v5-pcie-disabled.ucf
+END

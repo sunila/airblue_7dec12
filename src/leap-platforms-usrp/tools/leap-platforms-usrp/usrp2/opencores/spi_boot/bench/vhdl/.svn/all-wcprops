@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl
+END
+tb_pack-p.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb_pack-p.vhd
+END
+tb_elem-mmc-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb_elem-mmc-c.vhd
+END
+tb_rl-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb_rl-c.vhd
+END
+tb_rl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb_rl.vhd
+END
+tb-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb-c.vhd
+END
+tb.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb.vhd
+END
+tb_elem-full-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb_elem-full-c.vhd
+END
+tb_elem.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb_elem.vhd
+END
+card-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/card-c.vhd
+END
+card.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/card.vhd
+END
+tb_elem-minimal-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb_elem-minimal-c.vhd
+END
+tb_elem-sd-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi_boot/bench/vhdl/tb_elem-sd-c.vhd
+END

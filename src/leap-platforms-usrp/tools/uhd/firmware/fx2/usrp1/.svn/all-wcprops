@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1
+END
+usrp_gpif.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/usrp_gpif.c
+END
+usrp_gpif_inline.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/usrp_gpif_inline.h
+END
+usrp_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/usrp_common.c
+END
+fpga_rev2.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/fpga_rev2.c
+END
+fpga_load.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/fpga_load.c
+END
+usrp_regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/usrp_regs.h
+END
+usb_descriptors.a51
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/usb_descriptors.a51
+END
+eeprom_io.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/eeprom_io.c
+END
+gpif.gpf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/gpif.gpf
+END
+fpga_rev2.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/fpga_rev2.h
+END
+eeprom_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/eeprom_io.h
+END
+gpif.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/gpif.c
+END
+board_specific.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/board_specific.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/CMakeLists.txt
+END
+usrp_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/usrp1/usrp_main.c
+END

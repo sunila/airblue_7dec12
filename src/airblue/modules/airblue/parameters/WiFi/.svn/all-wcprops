@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/airblue/!svn/ver/411/trunk/modules/airblue/parameters/WiFi
+END
+BasicMACPhyParameters.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/411/trunk/modules/airblue/parameters/WiFi/BasicMACPhyParameters.bsv
+END
+ViterbiParameters.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/256/trunk/modules/airblue/parameters/WiFi/ViterbiParameters.bsv
+END
+Preambles.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/airblue/!svn/ver/377/trunk/modules/airblue/parameters/WiFi/Preambles.bsv
+END
+airblue_wifi_parameters_with_shim.awb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/airblue/!svn/ver/89/trunk/modules/airblue/parameters/WiFi/airblue_wifi_parameters_with_shim.awb
+END
+MACDataTypes.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/airblue/!svn/ver/373/trunk/modules/airblue/parameters/WiFi/MACDataTypes.bsv
+END
+airblue_wifi_parameters_no_shim.awb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/airblue/!svn/ver/89/trunk/modules/airblue/parameters/WiFi/airblue_wifi_parameters_no_shim.awb
+END
+FPGAParameters.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/153/trunk/modules/airblue/parameters/WiFi/FPGAParameters.bsv
+END
+FFTParameters.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/parameters/WiFi/FFTParameters.bsv
+END
+MACPhyParameters.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/74/trunk/modules/airblue/parameters/WiFi/MACPhyParameters.bsv
+END
+ProtocolParameters.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/408/trunk/modules/airblue/parameters/WiFi/ProtocolParameters.bsv
+END

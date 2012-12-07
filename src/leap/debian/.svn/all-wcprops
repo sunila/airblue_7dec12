@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/leap/!svn/ver/190/branches/v11.09/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/leap/!svn/ver/182/branches/v11.09/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/leap/!svn/ver/156/branches/v11.09/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/leap/!svn/ver/190/branches/v11.09/debian/changelog
+END
+leap-bin.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/leap/!svn/ver/156/branches/v11.09/debian/leap-bin.dirs
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/leap/!svn/ver/156/branches/v11.09/debian/copyright
+END
+leap-bin.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/leap/!svn/ver/156/branches/v11.09/debian/leap-bin.postinst
+END
+leap-bin.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/leap/!svn/ver/156/branches/v11.09/debian/leap-bin.postrm
+END
+leap-bin.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/leap/!svn/ver/156/branches/v11.09/debian/leap-bin.preinst
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/leap/!svn/ver/163/branches/v11.09/debian/rules
+END
+leap-bin.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/leap/!svn/ver/156/branches/v11.09/debian/leap-bin.prerm
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/leap/!svn/ver/156/branches/v11.09/debian/README.Debian
+END
+leap-bin.docs
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/leap/!svn/ver/156/branches/v11.09/debian/leap-bin.docs
+END

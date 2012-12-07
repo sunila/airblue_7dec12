@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif
+END
+FILES
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/FILES
+END
+etharp.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/etharp.c
+END
+slipif.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/slipif.c
+END
+loopif.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/loopif.c
+END
+ethernetif.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ethernetif.c
+END

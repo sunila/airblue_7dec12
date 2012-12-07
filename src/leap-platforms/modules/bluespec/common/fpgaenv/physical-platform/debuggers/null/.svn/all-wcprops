@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/null
+END
+null-debugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/null/null-debugger.h
+END
+null-debugger.awb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/null/null-debugger.awb
+END
+null-debugger.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/null/null-debugger.bsv
+END
+null-debugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/null/null-debugger.cpp
+END

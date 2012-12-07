@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial
+END
+serial-physical-channel-loopback.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/serial-physical-channel-loopback.bsv
+END
+serial-physical-channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/serial-physical-channel.cpp
+END
+SerialStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/SerialStream.h
+END
+serial-physical-channel-8bit.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/serial-physical-channel-8bit.cpp
+END
+PosixSignalHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/PosixSignalHandler.h
+END
+serial-physical-channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/serial-physical-channel.h
+END
+PosixSignalDispatcher.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/PosixSignalDispatcher.cpp
+END
+serial-physical-channel.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/serial-physical-channel.bsv
+END
+serial-physical-channel-8bit.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/serial-physical-channel-8bit.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/README
+END
+PosixSignalDispatcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/PosixSignalDispatcher.h
+END
+serial-physical-channel-loopback.awb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/serial-physical-channel-loopback.awb
+END
+SerialPort.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/SerialPort.cpp
+END
+serial-physical-channel.awb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/serial-physical-channel.awb
+END
+SerialStreamBuf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/SerialStreamBuf.cpp
+END
+SerialPort.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/SerialPort.h
+END
+serial-physical-channel-8bit.awb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/serial-physical-channel-8bit.awb
+END
+SerialStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/SerialStream.cpp
+END
+SerialStreamBuf.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/serial/SerialStreamBuf.h
+END

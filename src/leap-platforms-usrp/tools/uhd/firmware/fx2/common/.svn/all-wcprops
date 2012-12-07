@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common
+END
+fpga_regs_standard.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fpga_regs_standard.v
+END
+usb_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usb_common.c
+END
+isr.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/isr.h
+END
+_startup.a51
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/_startup.a51
+END
+usb_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usb_common.h
+END
+usrp_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usrp_common.h
+END
+init_gpif.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/init_gpif.c
+END
+fpga_regs_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fpga_regs_common.h
+END
+i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/i2c.c
+END
+eeprom_boot.a51
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/eeprom_boot.a51
+END
+usrp_commands.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usrp_commands.h
+END
+usb_descriptors.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usb_descriptors.h
+END
+fx2utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fx2utils.c
+END
+i2c.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/i2c.h
+END
+fpga.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fpga.h
+END
+usrp_config.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usrp_config.h
+END
+fx2utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fx2utils.h
+END
+fpga_regs_common.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fpga_regs_common.v
+END
+usb_requests.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usb_requests.h
+END
+spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/spi.c
+END
+delay.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/delay.c
+END
+syncdelay.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/syncdelay.h
+END
+spi.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/spi.h
+END
+usrp_globals.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usrp_globals.h
+END
+usrp_interfaces.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usrp_interfaces.h
+END
+delay.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/delay.h
+END
+_startup.a51.brittle
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/_startup.a51.brittle
+END
+eeprom_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/eeprom_init.c
+END
+usrp_spi_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usrp_spi_defs.h
+END
+timer.c
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/timer.c
+END
+fpga_load.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fpga_load.h
+END
+fpga_regs0.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fpga_regs0.h
+END
+fpga_regs_standard.h
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fpga_regs_standard.h
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/.gitignore
+END
+timer.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/timer.h
+END
+fx2regs.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/fx2regs.h
+END
+usrp_i2c_addr.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usrp_i2c_addr.h
+END
+vectors.a51
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/vectors.a51
+END
+isr.c
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/isr.c
+END
+usrp_ids.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/common/usrp_ids.h
+END

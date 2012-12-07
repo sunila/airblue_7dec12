@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/bench/verilog
+END
+tst_bench_top.v
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/bench/verilog/tst_bench_top.v
+END
+wb_master_model.v
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/bench/verilog/wb_master_model.v
+END
+spi_slave_model.v
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/bench/verilog/spi_slave_model.v
+END
+i2c_slave_model.v
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/bench/verilog/i2c_slave_model.v
+END

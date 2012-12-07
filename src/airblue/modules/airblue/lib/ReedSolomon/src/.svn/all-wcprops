@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/ReedSolomon/src
+END
+airblue_reed_decoder.awb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/52/trunk/modules/airblue/lib/ReedSolomon/src/airblue_reed_decoder.awb
+END
+ReedEncoder.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/ReedSolomon/src/ReedEncoder.bsv
+END
+airblue_reed_encoder.awb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/52/trunk/modules/airblue/lib/ReedSolomon/src/airblue_reed_encoder.awb
+END
+ReedDecoder.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/ReedSolomon/src/ReedDecoder.bsv
+END

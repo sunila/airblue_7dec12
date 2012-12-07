@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/sim
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/sim/.gitignore
+END
+CODE_DEBUG.sav
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/sim/CODE_DEBUG.sav
+END
+cversim
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/sim/cversim
+END
+iversim
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/sim/iversim
+END

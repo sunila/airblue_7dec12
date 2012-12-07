@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/windriver32/include
+END
+windrvr.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/windriver32/include/windrvr.h
+END
+wd_ver.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/windriver32/include/wd_ver.h
+END

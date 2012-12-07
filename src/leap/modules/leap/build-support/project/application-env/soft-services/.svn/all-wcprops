@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/build-support/project/application-env/soft-services
+END
+application-env-hybrid-soft-service.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/application-env-hybrid-soft-service.cpp
+END
+application-env-hybrid-soft-service.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/application-env-hybrid-soft-service.h
+END
+application-env-hybrid-soft-service.awb
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/application-env-hybrid-soft-service.awb
+END
+application-env-hybrid-soft-service.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/application-env-hybrid-soft-service.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/README
+END

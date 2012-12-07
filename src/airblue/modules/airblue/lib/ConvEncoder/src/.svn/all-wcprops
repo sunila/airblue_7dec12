@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/airblue/!svn/ver/244/trunk/modules/airblue/lib/ConvEncoder/src
+END
+airblue_convolutional_encoder.awb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/airblue/!svn/ver/208/trunk/modules/airblue/lib/ConvEncoder/src/airblue_convolutional_encoder.awb
+END
+ConvEncoder.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/244/trunk/modules/airblue/lib/ConvEncoder/src/ConvEncoder.bsv
+END

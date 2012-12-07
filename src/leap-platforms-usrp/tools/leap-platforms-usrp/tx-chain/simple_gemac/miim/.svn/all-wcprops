@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/simple_gemac/miim
+END
+eth_miim.v
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/simple_gemac/miim/eth_miim.v
+END
+eth_shiftreg.v
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/simple_gemac/miim/eth_shiftreg.v
+END
+eth_outputcontrol.v
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/simple_gemac/miim/eth_outputcontrol.v
+END
+eth_clockgen.v
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/simple_gemac/miim/eth_clockgen.v
+END

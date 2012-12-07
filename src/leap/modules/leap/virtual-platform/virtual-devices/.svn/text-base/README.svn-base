@@ -1,0 +1,6 @@
+This directory contains definitions of Virtual Devices, part of the LEAP
+virtual platform.
+
+devices/                Descriptions of individual virtual devices.
+virtual-device-sets/    Arrangements of virtual devices into groups.
+

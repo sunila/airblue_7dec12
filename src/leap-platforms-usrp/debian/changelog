@@ -1,0 +1,9 @@
+leap-platforms-usrp (11.09~svn20110925r017+lucid) lucid; urgency=low
+
+  [ Joel Emer ]
+
+  * r017
+      Start of work on v11.09 release
+
+
+ -- Joel Emer <emer@csail.mit.edu>  Sun, 25 Sep 2011 10:15:10 -0400

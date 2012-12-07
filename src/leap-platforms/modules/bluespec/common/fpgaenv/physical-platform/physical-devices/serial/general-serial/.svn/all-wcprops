@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/general-serial
+END
+general-serial-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/general-serial/general-serial-device.awb
+END
+general-serial-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/general-serial/general-serial-device.bsv
+END

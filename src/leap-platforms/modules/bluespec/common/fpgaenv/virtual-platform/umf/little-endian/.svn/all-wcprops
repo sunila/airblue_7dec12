@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/virtual-platform/umf/little-endian
+END
+umf-little-endian.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/virtual-platform/umf/little-endian/umf-little-endian.cpp
+END
+umf-awb-size-hacks.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/virtual-platform/umf/little-endian/umf-awb-size-hacks.h
+END
+umf-little-endian.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/virtual-platform/umf/little-endian/umf-little-endian.h
+END
+umf-allocator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/virtual-platform/umf/little-endian/umf-allocator.cpp
+END
+umf-little-endian.awb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/virtual-platform/umf/little-endian/umf-little-endian.awb
+END
+umf-little-endian.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/virtual-platform/umf/little-endian/umf-little-endian.bsv
+END
+umf-allocator.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/virtual-platform/umf/little-endian/umf-allocator.h
+END

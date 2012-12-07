@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera
+END
+AvalonJtag.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/AvalonJtag.bsv
+END
+AvalonMasterDriver.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/AvalonMasterDriver.bsv
+END
+mkAvalonWrapperInstance_0.v
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/mkAvalonWrapperInstance_0.v
+END
+mkAvalonWrapperInstance.v
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/mkAvalonWrapperInstance.v
+END
+jtag-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/jtag-device.cpp
+END
+jtag_uart_0.v
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/jtag_uart_0.v
+END
+jtag-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/jtag-device.h
+END
+avalon_jtag.v
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/avalon_jtag.v
+END
+avalon_jtag.awb
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/avalon_jtag.awb
+END
+avalon_jtag_black_box.v
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/altera/avalon_jtag_black_box.v
+END

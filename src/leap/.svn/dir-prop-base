@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 108
+Makefile
+config.log
+config.status
+autom4te.cache
+build-arch-stamp
+build-indep-stamp
+config.guess
+config.sub
+
+K 13
+svn:mergeinfo
+V 66
+/branches/leap:108
+/branches/v11.06:110-145
+/branches/v2011-06:109
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/serdes
+END
+serdes_rx.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/serdes/serdes_rx.v
+END
+serdes_tx.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/serdes/serdes_tx.v
+END
+Makefile.srcs
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/serdes/Makefile.srcs
+END
+serdes.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/serdes/serdes.v
+END
+serdes_fc_rx.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/serdes/serdes_fc_rx.v
+END
+serdes_fc_tx.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/serdes/serdes_fc_tx.v
+END
+serdes_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/serdes/serdes_tb.v
+END

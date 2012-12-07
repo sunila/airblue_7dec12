@@ -1,0 +1,14 @@
+#/********************************************************************
+#* Python libraries for XST synthesis tool
+#********************************************************************/
+
+%name Xilinx NGD
+%desc Xilinx NGD
+%attributes tool
+
+%provides xilinx_ngd
+
+%notes README
+
+%scons %library XILINX_NGD.py
+

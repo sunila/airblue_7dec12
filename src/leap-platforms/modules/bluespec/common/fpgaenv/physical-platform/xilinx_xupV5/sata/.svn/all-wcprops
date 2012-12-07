@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata
+END
+xilinx-xup-sata.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx-xup-sata.h
+END
+xilinx.download
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx.download
+END
+xilinx.ut
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx.ut
+END
+xilinx-xup-sata.awb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx-xup-sata.awb
+END
+xilinx.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx.sdc
+END
+xilinx-xup-sata.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx-xup-sata.bsv
+END
+xilinx.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx.sdf
+END
+xilinx-xup-sata.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx-xup-sata.ucf
+END
+xilinx.xst
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx.xst
+END
+xilinx-xup-sata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/sata/xilinx-xup-sata.cpp
+END

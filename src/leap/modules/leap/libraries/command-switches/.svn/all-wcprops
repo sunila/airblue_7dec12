@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/command-switches
+END
+command-switch-processor.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/command-switches/command-switch-processor.h
+END
+default-switches.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/command-switches/default-switches.h
+END
+command-switches.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/command-switches/command-switches.cpp
+END
+command-switch-processor.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/command-switches/command-switch-processor.cpp
+END
+command-switches.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/command-switches/command-switches.h
+END
+standard-command-switches.awb
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/command-switches/standard-command-switches.awb
+END
+default-switches.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/command-switches/default-switches.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/command-switches/README
+END

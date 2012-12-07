@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard
+END
+db_xcvr2450.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard/db_xcvr2450.cpp
+END
+db_rfx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard/db_rfx.cpp
+END
+db_unknown.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard/db_unknown.cpp
+END
+db_wbx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard/db_wbx.cpp
+END
+db_dbsrx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard/db_dbsrx.cpp
+END
+db_tvrx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard/db_tvrx.cpp
+END
+db_basic_and_lf.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard/db_basic_and_lf.cpp
+END
+db_dbsrx2.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard/db_dbsrx2.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/usrp/dboard/CMakeLists.txt
+END

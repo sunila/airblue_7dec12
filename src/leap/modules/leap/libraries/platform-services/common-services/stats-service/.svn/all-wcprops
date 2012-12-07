@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/stats-service
+END
+stats-local.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/stats-service/stats-local.bsv
+END
+stats-service.awb
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/stats-service/stats-service.awb
+END
+stats-service.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/stats-service/stats-service.bsv
+END
+stats-service.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/stats-service/stats-service.bsh
+END
+stats-service-null.awb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/stats-service/stats-service-null.awb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/stats-service/README
+END

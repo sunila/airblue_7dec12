@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MACPhy_Loopback/WiFi
+END
+WiFiFPGAMACPacketGenWiresTest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MACPhy_Loopback/WiFi/WiFiFPGAMACPacketGenWiresTest.bsv
+END
+airblue_wifi_mac_phy_loopback.awb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/airblue/!svn/ver/229/trunk/modules/airblue/MACPhy_Loopback/WiFi/airblue_wifi_mac_phy_loopback.awb
+END
+Transceiver.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MACPhy_Loopback/WiFi/Transceiver.bsv
+END

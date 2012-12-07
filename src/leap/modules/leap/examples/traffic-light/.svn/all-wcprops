@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/traffic-light
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/traffic-light/README
+END
+traffic-light-system.awb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/traffic-light/traffic-light-system.awb
+END
+traffic-light-system.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/traffic-light/traffic-light-system.bsv
+END

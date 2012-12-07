@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/airblue/!svn/ver/254/trunk/scripts/aggregation/soft_phy
+END
+aggregate-ber-bins.pl
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/199/trunk/scripts/aggregation/soft_phy/aggregate-ber-bins.pl
+END
+plot-ber.gp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/airblue/!svn/ver/199/trunk/scripts/aggregation/soft_phy/plot-ber.gp
+END
+aggregate-ber-packets.py
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/254/trunk/scripts/aggregation/soft_phy/aggregate-ber-packets.py
+END
+plot-packets.gp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/airblue/!svn/ver/224/trunk/scripts/aggregation/soft_phy/plot-packets.gp
+END

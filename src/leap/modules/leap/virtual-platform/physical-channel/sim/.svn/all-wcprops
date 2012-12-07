@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/sim
+END
+sim-physical-channel.awb
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/sim/sim-physical-channel.awb
+END
+sim-physical-channel.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/sim/sim-physical-channel.bsv
+END
+sim-physical-channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/sim/sim-physical-channel.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/sim/README
+END
+sim-physical-channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/sim/sim-physical-channel.h
+END

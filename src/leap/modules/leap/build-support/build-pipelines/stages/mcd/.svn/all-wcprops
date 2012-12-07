@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/mcd
+END
+bufg.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/mcd/bufg.tcl
+END
+mcd.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/mcd/mcd.tcl
+END
+MCD.py
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/mcd/MCD.py
+END
+mcd-tcl.awb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/mcd/mcd-tcl.awb
+END
+mcd.awb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/mcd/mcd.awb
+END
+MCDTcl.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/mcd/MCDTcl.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/mcd/README
+END

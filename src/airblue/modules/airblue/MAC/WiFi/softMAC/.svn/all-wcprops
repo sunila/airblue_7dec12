@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/airblue/!svn/ver/287/trunk/modules/airblue/MAC/WiFi/softMAC
+END
+globalregistry.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/globalregistry.h
+END
+packet_ieee80211.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/packet_ieee80211.h
+END
+packetdissectors.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/packetdissectors.h
+END
+macaddr.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/airblue/!svn/ver/287/trunk/modules/airblue/MAC/WiFi/softMAC/macaddr.h
+END
+packetsignatures.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/packetsignatures.h
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/util.h
+END
+endian_magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/endian_magic.h
+END
+airblue-softmac.awb
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/287/trunk/modules/airblue/MAC/WiFi/softMAC/airblue-softmac.awb
+END
+packetdissectors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/packetdissectors.cpp
+END
+macaddr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/airblue/!svn/ver/287/trunk/modules/airblue/MAC/WiFi/softMAC/macaddr.cpp
+END
+packet.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/packet.h
+END
+packetdissectors.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/packetdissectors.cc
+END
+util.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/airblue/!svn/ver/284/trunk/modules/airblue/MAC/WiFi/softMAC/util.cpp
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p
+END
+u2p_init.h
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/u2p_init.h
+END
+bootconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/bootconfig.h
+END
+spif.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/spif.c
+END
+spi_flash_read.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/spi_flash_read.c
+END
+eth_phy.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/eth_phy.h
+END
+spi_flash_private.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/spi_flash_private.h
+END
+spi_flash.c
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/spi_flash.c
+END
+memory_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/memory_map.h
+END
+bootloader_utils.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/bootloader_utils.c
+END
+xilinx_s3_icap.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/xilinx_s3_icap.c
+END
+spi_flash.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/spi_flash.h
+END
+ethernet.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/ethernet.c
+END
+bootloader_utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/bootloader_utils.h
+END
+xilinx_s3_icap.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/xilinx_s3_icap.h
+END
+udp_fw_update.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/udp_fw_update.c
+END
+u2p_init.c
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/u2p_init.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/usrp2p/CMakeLists.txt
+END

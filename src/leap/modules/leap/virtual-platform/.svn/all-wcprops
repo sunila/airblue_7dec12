@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/leap/!svn/ver/170/branches/v11.09/modules/leap/virtual-platform
+END
+std-virtual-platform.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/std-virtual-platform.cpp
+END
+std-virtual-platform.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/std-virtual-platform.h
+END
+fpga-environment.awb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/fpga-environment.awb
+END
+std-virtual-platform.awb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/std-virtual-platform.awb
+END
+std-virtual-platform.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/std-virtual-platform.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/README
+END

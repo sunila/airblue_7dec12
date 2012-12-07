@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/leap/!svn/ver/156/branches/v11.09/scripts/bmark
+END
+run.bmark
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/leap/!svn/ver/156/branches/v11.09/scripts/bmark/run.bmark
+END
+setup-bmark
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/leap/!svn/ver/156/branches/v11.09/scripts/bmark/setup-bmark
+END

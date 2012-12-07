@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec
+END
+SERDES_TOP.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/SERDES_TOP.bsv
+END
+XUPV5_SERDES_UG.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/XUPV5_SERDES_UG.bsv
+END
+sata-bluespec.awb
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/sata-bluespec.awb
+END
+serdes_ip.v
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/serdes_ip.v
+END
+bsc_gtp_attributes.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/bsc_gtp_attributes.ucf
+END
+XUPV5_SERDES.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/XUPV5_SERDES.bsv
+END
+serdes_tile.v
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/serdes_tile.v
+END
+diff_clock.v
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/diff_clock.v
+END
+serdes.v
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/serdes.v
+END
+bsc_serdes_top.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/bsc_serdes_top.ucf
+END
+DiffClock.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/DiffClock.bsv
+END
+mgt_usrclk_source.v
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/sata-bluespec/mgt_usrclk_source.v
+END

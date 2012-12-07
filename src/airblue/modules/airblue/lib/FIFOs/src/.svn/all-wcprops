@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/FIFOs/src
+END
+FIFOD.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/FIFOs/src/FIFOD.bsv
+END
+airblue_special_fifos.awb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/FIFOs/src/airblue_special_fifos.awb
+END
+StreamFIFONew.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/FIFOs/src/StreamFIFONew.bsv
+END
+BitStreamFIFO.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/FIFOs/src/BitStreamFIFO.bsv
+END
+StreamFIFOOld.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/FIFOs/src/StreamFIFOOld.bsv
+END
+StreamFIFO.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/airblue/!svn/ver/241/trunk/modules/airblue/lib/FIFOs/src/StreamFIFO.bsv
+END
+StreamFIFOHybrid.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/FIFOs/src/StreamFIFOHybrid.bsv
+END

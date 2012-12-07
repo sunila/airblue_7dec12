@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface
+END
+platforms-module.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/platforms-module.h
+END
+llpi.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/llpi.cpp
+END
+llpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/llpi.h
+END
+vico-llpi.awb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/vico-llpi.awb
+END
+hybrid-llpi.awb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/hybrid-llpi.awb
+END
+vico-llpi.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/vico-llpi.bsv
+END
+llpi.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/llpi.bsv
+END
+platforms-module.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/platforms-module.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/README
+END

@@ -1,0 +1,10 @@
+
+[Global]
+Buildorder=1000
+Version=1
+Lock=asim-platforms
+Description=Description of platforms
+Name=leap-platforms
+Tag=v11.09
+CSN=CSN-leap-platforms-570
+Dependencies=leap/v11.09

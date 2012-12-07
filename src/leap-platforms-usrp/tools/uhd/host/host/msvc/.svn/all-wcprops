@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/msvc
+END
+inttypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/msvc/inttypes.h
+END
+stdint.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/msvc/stdint.h
+END

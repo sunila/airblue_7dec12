@@ -1,0 +1,48 @@
+
+[Global]
+SaveParameters=0
+Description=Hello World Demo using hybrid streams for ACP M2
+File=hello_hybrid_acp
+Version=2.2
+Name=Hello World for ACP M2
+DefaultBenchmark=config/bm/leap/demos.cfx/benchmarks/null.cfg
+Type=Leap
+Class=Asim::Model
+DefaultRunOpts=
+RootName=HW/SW Hybrid Pipeline Build
+RootProvides=model
+
+[Model]
+DefaultAttributes=hello unconnected hybrid project acp
+model=HW/SW Hybrid Pipeline Build
+
+[Base Hybrid Application Environment]
+File=modules/leap/build-support/project/application-env/base/application-env-hybrid-base.awb
+Packagehint=leap
+
+[Base Hybrid Application Environment/Requires]
+hybrid_application=Hello World
+
+[Hello World]
+File=modules/leap/examples/hello-world/hello-world.awb
+Packagehint=leap
+
+[Hybrid ACP M2 Compute Environment - No Central Cache (Nallatech)/Params]
+XST_INSERT_IOBUF=0
+
+[Default Hybrid Project Common Utilities]
+File=config/pm/leap/submodels/common/project-common-default.apm
+Packagehint=leap
+
+[Hybrid ACP M2 Compute Environment - No Central Cache (Nallatech)]
+File=config/pm/leap/submodels/fpgaenv/fpgaenv-acp-m2c-nallatech-no-cache.apm
+Packagehint=leap-platforms-acp
+
+[HW/SW Hybrid Pipeline Build/Requires]
+project_common=Default Hybrid Project Common Utilities
+fpgaenv=Hybrid ACP M2 Compute Environment - No Central Cache (Nallatech)
+application_env=Base Hybrid Application Environment
+
+[HW/SW Hybrid Pipeline Build]
+File=modules/leap/build-support/project/project-pipeline.awb
+Packagehint=leap

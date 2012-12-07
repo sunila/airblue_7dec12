@@ -1,0 +1,11 @@
+
+%name Simulation Clocks Device
+%desc Simulation Clocks Device
+
+%provides clocks_device
+
+%sources -t BSV -v PUBLIC  sim-clocks-device.bsv
+
+%param CRYSTAL_CLOCK_FREQ 50 "Input (Crystal) Clock Frequency"
+
+%param --global MODEL_CLOCK_FREQ 50  "Desired model clock frequency (integer)."

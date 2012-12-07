@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/front-panel/hybrid
+END
+hybrid-fp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/front-panel/hybrid/hybrid-fp.cpp
+END
+hybrid-fp-command-switches.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/front-panel/hybrid/hybrid-fp-command-switches.cpp
+END
+hybrid-fp.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/front-panel/hybrid/hybrid-fp.rrr
+END
+hybrid-fp.h
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/front-panel/hybrid/hybrid-fp.h
+END
+hybrid-fp.awb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/front-panel/hybrid/hybrid-fp.awb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/front-panel/hybrid/README
+END
+hybrid-fp.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/front-panel/hybrid/hybrid-fp.bsv
+END

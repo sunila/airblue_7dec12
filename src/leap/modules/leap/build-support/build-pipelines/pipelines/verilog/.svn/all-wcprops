@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/pipelines/verilog
+END
+verilog-build-pipeline.awb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/pipelines/verilog/verilog-build-pipeline.awb
+END
+VerilogPipeline.py
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/pipelines/verilog/VerilogPipeline.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/pipelines/verilog/README
+END

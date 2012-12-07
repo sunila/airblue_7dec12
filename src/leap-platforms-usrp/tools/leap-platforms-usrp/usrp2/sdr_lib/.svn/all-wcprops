@@ -1,0 +1,317 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib
+END
+duc.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/duc.v
+END
+dsp_core_rx_udp.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/dsp_core_rx_udp.v
+END
+clip_and_round.v
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/clip_and_round.v
+END
+rssi.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/rssi.v
+END
+small_hb_dec_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/small_hb_dec_tb.v
+END
+Makefile.srcs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/Makefile.srcs
+END
+integrate.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/integrate.v
+END
+halfband_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/halfband_tb.v
+END
+round_reg.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/round_reg.v
+END
+cordic_stage.v
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/cordic_stage.v
+END
+clip.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/clip.v
+END
+hb_dec_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/hb_dec_tb.v
+END
+rx_control.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/rx_control.v
+END
+ddc.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/ddc.v
+END
+tx_control.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/tx_control.v
+END
+rx_dcoffset_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/rx_dcoffset_tb.v
+END
+cic_int_shifter.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/cic_int_shifter.v
+END
+cic_dec_shifter.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/cic_dec_shifter.v
+END
+hb_interp_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/hb_interp_tb.v
+END
+input.dat
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/input.dat
+END
+cordic.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/cordic.v
+END
+add2_and_round.v
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/add2_and_round.v
+END
+dummy_rx.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/dummy_rx.v
+END
+add2.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/add2.v
+END
+clip_and_round_reg.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/clip_and_round_reg.v
+END
+HB.sav
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/HB.sav
+END
+hb_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/hb_tb.v
+END
+cic_interp.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/cic_interp.v
+END
+small_hb_int_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/small_hb_int_tb.v
+END
+clip_reg.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/clip_reg.v
+END
+acc.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/acc.v
+END
+round.v
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/round.v
+END
+med_hb_int.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/med_hb_int.v
+END
+small_hb_int.v
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/small_hb_int.v
+END
+small_hb_dec.v
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/small_hb_dec.v
+END
+halfband_ideal.v
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/halfband_ideal.v
+END
+cic_strober.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/cic_strober.v
+END
+cic_decim.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/cic_decim.v
+END
+add2_and_round_reg.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/add2_and_round_reg.v
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/.gitignore
+END
+cordic_z24.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/cordic_z24.v
+END
+output.dat
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/output.dat
+END
+hb_dec.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/hb_dec.v
+END
+dsp_core_rx_old.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/dsp_core_rx_old.v
+END
+SMALL_HB.sav
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/SMALL_HB.sav
+END
+rx_dcoffset.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/rx_dcoffset.v
+END
+dsp_core_rx.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/dsp_core_rx.v
+END
+add2_reg.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/add2_reg.v
+END
+sign_extend.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/sign_extend.v
+END
+gen_cordic_consts.py
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/gen_cordic_consts.py
+END
+dsp_core_tx.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/dsp_core_tx.v
+END
+hb_interp.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/sdr_lib/hb_interp.v
+END

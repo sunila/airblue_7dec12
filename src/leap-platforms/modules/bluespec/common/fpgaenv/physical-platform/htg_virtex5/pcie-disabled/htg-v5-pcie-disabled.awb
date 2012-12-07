@@ -1,0 +1,20 @@
+
+%name HTG Virtex 5 PCIE Disabled
+%desc HTG Virtex 5 PCIE Disabled (Independent Mode)
+
+%provides physical_platform
+
+%requires clocks_device
+%requires led_device
+%requires switch_device
+%requires ddr2_device
+%requires physical_platform_utils
+
+%public  htg-v5-pcie-disabled.bsv
+%private htg-v5-pcie-disabled.ucf
+
+%param --global MAKE_ALL_TARGET "bit"       "Target of 'make all'.  Most likely bit, exe or vexe."
+
+%param MAP_OPTIONS        "-global_opt on"    "Extra Xilinx Map Options"
+
+%param FPGA_PLATFORM      "HTG-V5-PCIe"       "FPGA Platform"

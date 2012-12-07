@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/leap/!svn/ver/190/branches/v11.09
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/leap/!svn/ver/156/branches/v11.09/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/leap/!svn/ver/156/branches/v11.09/Makefile.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/leap/!svn/ver/156/branches/v11.09/configure.in
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/leap/!svn/ver/156/branches/v11.09/INSTALL
+END
+changes
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/leap/!svn/ver/190/branches/v11.09/changes
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/leap/!svn/ver/156/branches/v11.09/Makefile.am
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/leap/!svn/ver/156/branches/v11.09/README
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/leap/!svn/ver/156/branches/v11.09/aclocal.m4
+END

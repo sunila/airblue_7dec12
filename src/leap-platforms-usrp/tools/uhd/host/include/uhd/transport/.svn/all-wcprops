@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport
+END
+bounded_buffer.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/bounded_buffer.hpp
+END
+usb_control.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/usb_control.hpp
+END
+zero_copy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/zero_copy.hpp
+END
+bounded_buffer.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/bounded_buffer.ipp
+END
+if_addrs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/if_addrs.hpp
+END
+vrt_if_packet.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/vrt_if_packet.hpp
+END
+udp_simple.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/udp_simple.hpp
+END
+udp_zero_copy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/udp_zero_copy.hpp
+END
+buffer_pool.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/buffer_pool.hpp
+END
+usb_zero_copy.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/usb_zero_copy.hpp
+END
+usb_device_handle.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/usb_device_handle.hpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/transport/CMakeLists.txt
+END

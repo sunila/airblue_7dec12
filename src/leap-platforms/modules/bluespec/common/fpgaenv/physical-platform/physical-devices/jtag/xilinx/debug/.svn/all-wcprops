@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/debug
+END
+jtag-debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/debug/jtag-debug.h
+END
+jtag-debug.awb
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/debug/jtag-debug.awb
+END
+jtag-debug.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/debug/jtag-debug.bsv
+END
+jtag-debug-server.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/debug/jtag-debug-server.h
+END
+jtag-debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/debug/jtag-debug.cpp
+END
+jtag-debug.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/debug/jtag-debug.rrr
+END
+jtag-debug-server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/jtag/xilinx/debug/jtag-debug-server.cpp
+END

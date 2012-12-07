@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/leap-platforms/!svn/ver/570/branches/v11.09/debian
+END
+leap-platforms-bin.preinst
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/leap-platforms-bin.preinst
+END
+leap-platforms-bin.postrm
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/leap-platforms-bin.postrm
+END
+leap-platforms-bin.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/leap-platforms-bin.prerm
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/leap-platforms/!svn/ver/568/branches/v11.09/debian/control
+END
+leap-platforms-bin.docs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/leap-platforms-bin.docs
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/leap-platforms/!svn/ver/570/branches/v11.09/debian/changelog
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/leap-platforms/!svn/ver/568/branches/v11.09/debian/rules
+END
+leap-platforms-bin.dirs
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/leap-platforms-bin.dirs
+END
+leap-platforms-xupv5.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/leap-platforms/!svn/ver/568/branches/v11.09/debian/leap-platforms-xupv5.postinst
+END
+leap-platforms-bin.init
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/leap-platforms-bin.init
+END
+leap-platforms-xupv5.prerm
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap-platforms/!svn/ver/568/branches/v11.09/debian/leap-platforms-xupv5.prerm
+END
+leap-platforms-xupv5.dkms
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap-platforms/!svn/ver/568/branches/v11.09/debian/leap-platforms-xupv5.dkms
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/copyright
+END
+leap-platforms-bin.postinst
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/leap-platforms-bin.postinst
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/debian/README.Debian
+END

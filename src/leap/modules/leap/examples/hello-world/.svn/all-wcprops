@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/hello-world
+END
+hello-world.awb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/hello-world/hello-world.awb
+END
+hello-world.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/hello-world/hello-world.bsv
+END
+hello-world.dic
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/hello-world/hello-world.dic
+END
+hello-world.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/hello-world/hello-world.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/hello-world/README
+END
+hello-world.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/examples/hello-world/hello-world.h
+END

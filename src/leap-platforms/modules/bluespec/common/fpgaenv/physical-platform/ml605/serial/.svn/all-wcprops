@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/ml605/serial
+END
+ml605-serial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/ml605/serial/ml605-serial.cpp
+END
+xilinx.ut
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/ml605/serial/xilinx.ut
+END
+ml605-serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/ml605/serial/ml605-serial.h
+END
+xilinx.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/ml605/serial/xilinx.sdf
+END
+ml605-serial.awb
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/ml605/serial/ml605-serial.awb
+END
+ml605-serial.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/ml605/serial/ml605-serial.bsv
+END
+ml605-serial.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/ml605/serial/ml605-serial.ucf
+END
+ml605-serial.xst
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/ml605/serial/ml605-serial.xst
+END

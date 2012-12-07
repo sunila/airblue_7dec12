@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/leds
+END
+general-led-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/leds/general-led-device.awb
+END
+general-led-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/leds/general-led-device.bsv
+END

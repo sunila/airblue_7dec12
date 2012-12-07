@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap
+END
+RRR.pm
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/RRR.pm
+END
+DictBuilder.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/DictBuilder.pm
+END
+Xilinx.pm
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/Xilinx.pm
+END
+Util.pm
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/Util.pm
+END
+Templates.pm
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/Templates.pm
+END
+Build.pm
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/Build.pm
+END
+Bluespec.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/Bluespec.pm
+END

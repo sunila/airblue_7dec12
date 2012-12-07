@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/zpu
+END
+zpu_top_pkg.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/zpu/zpu_top_pkg.vhd
+END
+zpu_wb_top.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/zpu/zpu_wb_top.vhd
+END

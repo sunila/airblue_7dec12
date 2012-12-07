@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial
+END
+opb_uartlite_core.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 160
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial/opb_uartlite_core.vhd
+END
+opb_uartlite_rx.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial/opb_uartlite_rx.vhd
+END
+serial-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial/serial-device.h
+END
+srl_fifo.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial/srl_fifo.vhd
+END
+opb_uartlite_tx.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial/opb_uartlite_tx.vhd
+END
+baudrate.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial/baudrate.vhd
+END
+uart-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial/uart-import.bsv
+END
+serial-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial/serial-device.cpp
+END
+serial-device-physical.awb
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/physical-serial/serial-device-physical.awb
+END

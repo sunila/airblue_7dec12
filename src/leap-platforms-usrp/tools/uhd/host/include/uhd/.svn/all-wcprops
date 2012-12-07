@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd
+END
+device.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/device.hpp
+END
+wax.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/wax.hpp
+END
+convert.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/convert.hpp
+END
+config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/config.hpp
+END
+version.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/version.hpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/CMakeLists.txt
+END

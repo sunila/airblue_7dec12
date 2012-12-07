@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/LICENSE
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/AUTHORS
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/.gitignore
+END
+uhd.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/uhd.pc.in
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/README
+END
+cmake_uninstall.cmake.in
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/cmake_uninstall.cmake.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/CMakeLists.txt
+END

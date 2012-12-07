@@ -1,0 +1,18 @@
+#/********************************************************************
+#* Python libraries for Synplify synthesis tool
+#********************************************************************/
+
+%name Synplify/XST Synthesis Tool
+%desc Synplify/XST Synthesis Tool
+%attributes tool
+
+%provides synthesis_tool
+
+%notes README
+
+%scons %library SynplifySub.py
+%sources -t SDC -v PRIVATE synplify.sdc
+%sources -t SDC -v PRIVATE bluespec.sdc
+
+%param --global XST_PARALLEL_CASE        1   "Enable Xilinx XST global parallel case directive"
+%param --global XST_INSERT_IOBUF         1   "Have XST insert IOBUFs"

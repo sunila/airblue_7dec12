@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/ConvDecoder/BCJR/test
+END
+BCJRTest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/256/trunk/modules/airblue/lib/ConvDecoder/BCJR/test/BCJRTest.bsv
+END
+airblue_bcjr_test.awb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/airblue/!svn/ver/198/trunk/modules/airblue/lib/ConvDecoder/BCJR/test/airblue_bcjr_test.awb
+END

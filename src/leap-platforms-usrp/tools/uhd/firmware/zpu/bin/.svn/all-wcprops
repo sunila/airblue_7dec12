@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/bin
+END
+sbf.py
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/bin/sbf.py
+END
+elf_to_sbf
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/bin/elf_to_sbf
+END
+uart_ihex_flash_loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/bin/uart_ihex_flash_loader.py
+END
+bin_to_ram_macro_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/bin/bin_to_ram_macro_init.py
+END
+uart_ihex_ram_loader.py
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/bin/uart_ihex_ram_loader.py
+END
+serial_loader
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/bin/serial_loader
+END
+divisors.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/bin/divisors.py
+END
+bin_to_mif.py
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/bin/bin_to_mif.py
+END

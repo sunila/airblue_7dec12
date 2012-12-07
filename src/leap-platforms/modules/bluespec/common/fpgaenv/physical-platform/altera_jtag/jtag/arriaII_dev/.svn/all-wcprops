@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/arriaII_dev
+END
+jtag.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/arriaII_dev/jtag.sdf
+END
+altera-arriaIIgx_dev-jtag-pins.qsf
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/arriaII_dev/altera-arriaIIgx_dev-jtag-pins.qsf
+END
+jtag.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/arriaII_dev/jtag.sdc
+END
+altera-arriaIIgx_dev-jtag.awb
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/arriaII_dev/altera-arriaIIgx_dev-jtag.awb
+END
+altera-arriaIIgx_dev-jtag.qsf
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/altera_jtag/jtag/arriaII_dev/altera-arriaIIgx_dev-jtag.qsf
+END

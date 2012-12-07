@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/leap/!svn/ver/156/branches/v11.09/aux-scripts
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/leap/!svn/ver/156/branches/v11.09/aux-scripts/depcomp
+END
+compile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/leap/!svn/ver/156/branches/v11.09/aux-scripts/compile
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/leap/!svn/ver/156/branches/v11.09/aux-scripts/missing
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/leap/!svn/ver/156/branches/v11.09/aux-scripts/install-sh
+END

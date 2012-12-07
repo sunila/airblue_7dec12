@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc
+END
+burst_data_write.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/burst_data_write.txt
+END
+gpmc_wb.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/gpmc_wb.v
+END
+single_data_read.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/single_data_read.txt
+END
+gpmc_sync.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/gpmc_sync.v
+END
+Makefile.srcs
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/Makefile.srcs
+END
+gpmc_async.v
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/gpmc_async.v
+END
+ram_to_fifo.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/ram_to_fifo.v
+END
+dbsm.v
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/dbsm.v
+END
+gpmc_to_fifo_sync.v
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/gpmc_to_fifo_sync.v
+END
+fifo_to_gpmc_sync.v
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/fifo_to_gpmc_sync.v
+END
+gpmc_to_fifo_async.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/gpmc_to_fifo_async.v
+END
+fifo_to_gpmc_async.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/fifo_to_gpmc_async.v
+END
+single_data_write.txt
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/single_data_write.txt
+END
+fifo_watcher.v
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/fifo_watcher.v
+END
+edge_sync.v
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/edge_sync.v
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/.gitignore
+END
+make_timing_diag
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/gpmc/make_timing_diag
+END

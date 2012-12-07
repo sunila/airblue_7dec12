@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/platform-services
+END
+standard-platform-services.apm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/platform-services/standard-platform-services.apm
+END
+standard-platform-null-mem.apm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/platform-services/standard-platform-null-mem.apm
+END

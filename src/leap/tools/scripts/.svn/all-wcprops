@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts
+END
+leap-configure
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts/leap-configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts/Makefile.in
+END
+leap-dict
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts/leap-dict
+END
+leap-xilinx-summary
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts/leap-xilinx-summary
+END
+leap-connect
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts/leap-connect
+END
+leap-gen-black-box
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts/leap-gen-black-box
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts/Makefile.am
+END
+leap-rrr-stubgen
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts/leap-rrr-stubgen
+END
+leap-bsc-mkdepend
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/leap/!svn/ver/156/branches/v11.09/tools/scripts/leap-bsc-mkdepend
+END

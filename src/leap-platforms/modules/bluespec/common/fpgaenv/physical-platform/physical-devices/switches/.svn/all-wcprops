@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/switches
+END
+general-switch-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/switches/general-switch-device.awb
+END
+general-switch-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/switches/general-switch-device.bsv
+END
+general-switch-vhdl-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/switches/general-switch-vhdl-import.bsv
+END
+general-switch-device.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/switches/general-switch-device.vhd
+END

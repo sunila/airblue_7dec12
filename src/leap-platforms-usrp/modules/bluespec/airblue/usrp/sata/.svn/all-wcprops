@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata
+END
+sample-grab.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata/sample-grab.h
+END
+sample-grab.awb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata/sample-grab.awb
+END
+sample-grab.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata/sample-grab.bsv
+END
+tx-chain-driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata/tx-chain-driver.cpp
+END
+tx-chain-driver.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata/tx-chain-driver.h
+END
+sample-grab.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata/sample-grab.cpp
+END
+tx-chain-driver.awb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata/tx-chain-driver.awb
+END
+tx-chain-driver.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata/tx-chain-driver.bsv
+END
+sample-grab.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/modules/bluespec/airblue/usrp/sata/sample-grab.rrr
+END

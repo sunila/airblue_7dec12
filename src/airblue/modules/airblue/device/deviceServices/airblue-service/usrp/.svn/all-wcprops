@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/airblue/!svn/ver/422/trunk/modules/airblue/device/deviceServices/airblue-service/usrp
+END
+airblue-service-usrp.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/airblue/!svn/ver/422/trunk/modules/airblue/device/deviceServices/airblue-service/usrp/airblue-service-usrp.bsv
+END
+airblue-service.awb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/airblue/!svn/ver/329/trunk/modules/airblue/device/deviceServices/airblue-service/usrp/airblue-service.awb
+END
+airblue-service.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/airblue/!svn/ver/315/trunk/modules/airblue/device/deviceServices/airblue-service/usrp/airblue-service.bsv
+END
+airblue-service-usrp.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/airblue/!svn/ver/422/trunk/modules/airblue/device/deviceServices/airblue-service/usrp/airblue-service-usrp.rrr
+END

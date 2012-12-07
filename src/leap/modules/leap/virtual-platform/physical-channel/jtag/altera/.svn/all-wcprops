@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/jtag/altera
+END
+jtag-physical-channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/jtag/altera/jtag-physical-channel.cpp
+END
+jtag-physical-channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/jtag/altera/jtag-physical-channel.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/jtag/altera/README
+END
+jtag-physical-channel.awb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/jtag/altera/jtag-physical-channel.awb
+END
+jtag-physical-channel.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/jtag/altera/jtag-physical-channel.bsv
+END

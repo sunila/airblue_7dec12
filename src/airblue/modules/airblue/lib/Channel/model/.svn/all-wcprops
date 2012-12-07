@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model
+END
+channel_model_file.awb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/channel_model_file.awb
+END
+util.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/util.h
+END
+freq_offset.c
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/freq_offset.c
+END
+channel-file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/channel-file.cpp
+END
+channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/channel.cpp
+END
+channel_model_sw.awb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/channel_model_sw.awb
+END
+awgn.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/awgn.c
+END
+channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/channel.h
+END
+channel_model_bdpi.awb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/channel_model_bdpi.awb
+END
+fast.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/fast.cpp
+END
+jakes.c
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/jakes.c
+END
+util.c
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/415/branches/v11.12/modules/airblue/lib/Channel/model/util.c
+END

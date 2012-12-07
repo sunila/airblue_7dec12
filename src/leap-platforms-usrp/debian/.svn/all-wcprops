@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/debian/rules
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/debian/README.Debian
+END

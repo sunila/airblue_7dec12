@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/566/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-driver-header
+END
+pchnl_if.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/leap-platforms/!svn/ver/566/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-driver-header/pchnl_if.h
+END
+pchnl_if.awb
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/566/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-driver-header/pchnl_if.awb
+END

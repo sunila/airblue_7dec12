@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx
+END
+byte_align.v
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/byte_align.v
+END
+u2_rev3.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/u2_rev3.ucf
+END
+u2_core.v
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/u2_core.v
+END
+SyncFIFO.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/SyncFIFO.v
+END
+my_tx_control.v
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/my_tx_control.v
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/.gitignore
+END
+SizedFIFO.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/SizedFIFO.v
+END
+mkFIFO16to32ToCC.v
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/mkFIFO16to32ToCC.v
+END
+my_serdes_rx.v
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/my_serdes_rx.v
+END
+my_serdes_tx.v
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/my_serdes_tx.v
+END
+u2_rev3.v
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/u2_rev3.v
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/Makefile
+END
+fifo_in_32_out_16.v
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/fifo_in_32_out_16.v
+END
+mkFIFO1to2ToCC.v
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_rxtx/mkFIFO1to2ToCC.v
+END

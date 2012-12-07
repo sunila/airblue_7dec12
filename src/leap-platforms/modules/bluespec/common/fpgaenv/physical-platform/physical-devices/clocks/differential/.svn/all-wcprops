@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/differential
+END
+differential-clocks-vhdl-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 171
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/differential/differential-clocks-vhdl-import.bsv
+END
+differential-clocks-device.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/differential/differential-clocks-device.vhd
+END
+differential-clocks-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/differential/differential-clocks-device.awb
+END
+differential-clocks-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/differential/differential-clocks-device.bsv
+END

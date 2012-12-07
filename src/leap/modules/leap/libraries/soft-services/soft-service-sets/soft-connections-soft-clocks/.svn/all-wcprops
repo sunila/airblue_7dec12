@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/soft-service-sets/soft-connections-soft-clocks
+END
+soft-services-impl-deps.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/soft-service-sets/soft-connections-soft-clocks/soft-services-impl-deps.bsh
+END
+soft-services-deps-small.awb
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/soft-service-sets/soft-connections-soft-clocks/soft-services-deps-small.awb
+END
+soft-services-defs.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/soft-service-sets/soft-connections-soft-clocks/soft-services-defs.bsv
+END
+soft-services-lib-deps.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/soft-service-sets/soft-connections-soft-clocks/soft-services-lib-deps.bsh
+END
+soft-services.awb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/soft-service-sets/soft-connections-soft-clocks/soft-services.awb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/soft-service-sets/soft-connections-soft-clocks/README
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb
+END
+xusb_xup.hex
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusb_xup.hex
+END
+xusbdfwu.rules
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusbdfwu.rules
+END
+xusbdfwu.usermap
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusbdfwu.usermap
+END
+xusb_emb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusb_emb
+END
+xusb_xlp
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusb_xlp
+END
+xusb_emb.hex
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusb_emb.hex
+END
+xusb_xlp.hex
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusb_xlp.hex
+END
+xusbdfwu
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusbdfwu
+END
+xusb_xpr
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusb_xpr
+END
+xusbdfwu.hex
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusbdfwu.hex
+END
+setup_pcusb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/setup_pcusb
+END
+xusb_xpr.hex
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusb_xpr.hex
+END
+xusb_xup
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/pcusb/xusb_xup
+END

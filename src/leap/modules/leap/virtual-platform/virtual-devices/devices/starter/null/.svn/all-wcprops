@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/starter/null
+END
+null-starter-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/starter/null/null-starter-device.awb
+END
+starter-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/starter/null/starter-device.cpp
+END
+starter-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/starter/null/starter-device.h
+END
+starter-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/starter/null/starter-device.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/starter/null/README
+END

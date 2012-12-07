@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie
+END
+xilinx-xup-pcie.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx-xup-pcie.ucf
+END
+xilinx.download
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx.download
+END
+xilinx.ut
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx.ut
+END
+xilinx.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx.sdc
+END
+xilinx-xup-pcie.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx-xup-pcie.cpp
+END
+xilinx.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx.sdf
+END
+xilinx.xst
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx.xst
+END
+xilinx-xup-pcie.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx-xup-pcie.h
+END
+xilinx-xup-pcie.awb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx-xup-pcie.awb
+END
+xilinx-xup-pcie.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie/xilinx-xup-pcie.bsv
+END

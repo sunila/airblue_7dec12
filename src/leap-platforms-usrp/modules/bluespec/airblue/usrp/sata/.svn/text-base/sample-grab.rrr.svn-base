@@ -1,0 +1,7 @@
+service SAMPLERRR
+{
+    server hw (bsv, connection) <- sw (cpp, method)
+    {
+       method GetSamples    (in UINT16[16] value, out UINT32[32] samples);  
+    };
+};

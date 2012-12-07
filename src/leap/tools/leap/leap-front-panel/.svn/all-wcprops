@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/leap/!svn/ver/156/branches/v11.09/tools/leap/leap-front-panel
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leap/!svn/ver/156/branches/v11.09/tools/leap/leap-front-panel/Makefile.in
+END
+leap_front_panel.ui
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap/!svn/ver/156/branches/v11.09/tools/leap/leap-front-panel/leap_front_panel.ui
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leap/!svn/ver/156/branches/v11.09/tools/leap/leap-front-panel/Makefile.am
+END
+leap_front_panel.ui.h
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/156/branches/v11.09/tools/leap/leap-front-panel/leap_front_panel.ui.h
+END
+leap_front_panel_header.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap/!svn/ver/156/branches/v11.09/tools/leap/leap-front-panel/leap_front_panel_header.pl
+END

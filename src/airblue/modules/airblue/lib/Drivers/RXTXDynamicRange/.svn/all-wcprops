@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/airblue/!svn/ver/384/trunk/modules/airblue/lib/Drivers/RXTXDynamicRange
+END
+dynrange.awb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/379/trunk/modules/airblue/lib/Drivers/RXTXDynamicRange/dynrange.awb
+END
+dynrange.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/384/trunk/modules/airblue/lib/Drivers/RXTXDynamicRange/dynrange.cpp
+END
+dynrange.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/379/trunk/modules/airblue/lib/Drivers/RXTXDynamicRange/dynrange.h
+END

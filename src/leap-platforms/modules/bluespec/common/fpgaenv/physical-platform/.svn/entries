@@ -1,0 +1,61 @@
+10
+
+dir
+654
+https://asim.csail.mit.edu/svn/leap-platforms/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform
+https://asim.csail.mit.edu/svn/leap-platforms
+
+
+
+2011-10-02T20:26:01.145710Z
+569
+kfleming
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+a6cd30a5-5bb2-45c8-8e54-13258ecc2049
+
+utils
+dir
+
+xilinx_xupV5
+dir
+
+ml605
+dir
+
+simulation
+dir
+
+debuggers
+dir
+
+xilinx_xup
+dir
+
+htg_virtex5
+dir
+
+airblue_cycloneiii
+dir
+
+null
+dir
+
+physical-devices
+dir
+
+altera_jtag
+dir
+

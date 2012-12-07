@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap/!svn/ver/171/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx
+END
+bluespec.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap/!svn/ver/169/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/bluespec.xcf
+END
+xilinx-loader.awb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/xilinx-loader.awb
+END
+XILINX_LOADER.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/171/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/XILINX_LOADER.py
+END
+xilinx-ngd.awb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/xilinx-ngd.awb
+END
+xilinx-bitgen.awb
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/xilinx-bitgen.awb
+END
+XILINX_NGD.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/XILINX_NGD.py
+END
+XILINX_BITGEN.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/XILINX_BITGEN.py
+END
+xilinx-bmm.awb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/xilinx-bmm.awb
+END
+XILINX_POST_SYNTH.py
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/XILINX_POST_SYNTH.py
+END
+XILINX_BMM.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/XILINX_BMM.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/README
+END
+xilinx-map.awb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/xilinx-map.awb
+END
+xilinx-ucf.awb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/xilinx-ucf.awb
+END
+XILINX_UCF.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/XILINX_UCF.py
+END
+XILINX_MAP.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/XILINX_MAP.py
+END
+xilinx-xst.awb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/xilinx-xst.awb
+END
+XILINX_XST.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/XILINX_XST.py
+END
+xilinx-par.awb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/xilinx-par.awb
+END
+XILINX_PAR.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/XILINX_PAR.py
+END
+xilinx-post-synth.awb
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/stages/xilinx/xilinx-post-synth.awb
+END

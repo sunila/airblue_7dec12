@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/airblue/!svn/ver/237/trunk/modules/airblue/lib/Synchronizer2/test
+END
+SynchronizerDriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/test/SynchronizerDriver.h
+END
+packet.data
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/test/packet.data
+END
+SynchronizerTest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/237/trunk/modules/airblue/lib/Synchronizer2/test/SynchronizerTest.bsv
+END
+SynchronizerData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/237/trunk/modules/airblue/lib/Synchronizer2/test/SynchronizerData.cpp
+END
+airblue_synchronizer_test2.awb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/test/airblue_synchronizer_test2.awb
+END
+SynchronizerDriver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/airblue/!svn/ver/237/trunk/modules/airblue/lib/Synchronizer2/test/SynchronizerDriver.cpp
+END
+SynchronizerDriver.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/test/SynchronizerDriver.rrr
+END

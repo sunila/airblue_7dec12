@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/dynamic-parameters-device
+END
+dynamic-parameters-device.dic
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/dynamic-parameters-device/dynamic-parameters-device.dic
+END
+dynamic-parameters-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/dynamic-parameters-device/dynamic-parameters-device.cpp
+END
+dynamic-parameters-device.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/dynamic-parameters-device/dynamic-parameters-device.rrr
+END
+dynamic-parameters-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/dynamic-parameters-device/dynamic-parameters-device.h
+END
+dynamic-parameters-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/dynamic-parameters-device/dynamic-parameters-device.awb
+END
+dynamic-parameters-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/dynamic-parameters-device/dynamic-parameters-device.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/dynamic-parameters-device/README
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-clocks
+END
+basic-clock.awb
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-clocks/basic-clock.awb
+END
+basic-clock.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-clocks/basic-clock.bsv
+END
+basic-clock-lib.awb
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-clocks/basic-clock-lib.awb
+END
+basic-clock-lib.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-clocks/basic-clock-lib.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-clocks/README
+END

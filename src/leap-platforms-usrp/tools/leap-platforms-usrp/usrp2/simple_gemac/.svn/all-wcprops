@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac
+END
+simple_gemac_wb.v
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_wb.v
+END
+simple_gemac_wrapper.build
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_wrapper.build
+END
+test_packet.mem
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/test_packet.mem
+END
+Makefile.srcs
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/Makefile.srcs
+END
+simple_gemac_wrapper19_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_wrapper19_tb.v
+END
+simple_gemac.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac.v
+END
+eth_tasks.v
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/eth_tasks.v
+END
+simple_gemac_wrapper.v
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_wrapper.v
+END
+address_filter_promisc.v
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/address_filter_promisc.v
+END
+simple_gemac_wrapper_f36_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_wrapper_f36_tb.v
+END
+simple_gemac_wrapper19.build
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_wrapper19.build
+END
+address_filter.v
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/address_filter.v
+END
+rxmac_to_ll8.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/rxmac_to_ll8.v
+END
+ll8_to_txmac.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/ll8_to_txmac.v
+END
+simple_gemac_rx.v
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_rx.v
+END
+simple_gemac_wrapper19.v
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_wrapper19.v
+END
+simple_gemac_tx.v
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_tx.v
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/.gitignore
+END
+eth_tasks_f36.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/eth_tasks_f36.v
+END
+flow_ctrl_rx.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/flow_ctrl_rx.v
+END
+eth_tasks_f19.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/eth_tasks_f19.v
+END
+delay_line.v
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/delay_line.v
+END
+flow_ctrl_tx.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/flow_ctrl_tx.v
+END
+crc.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/crc.v
+END
+simple_gemac_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_tb.v
+END
+simple_gemac_wrapper_tb.v
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/simple_gemac/simple_gemac_wrapper_tb.v
+END

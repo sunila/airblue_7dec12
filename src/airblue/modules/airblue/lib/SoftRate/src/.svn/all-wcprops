@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/src
+END
+SoftRateShimBest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/src/SoftRateShimBest.bsv
+END
+airblue_softrate_best.awb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/src/airblue_softrate_best.awb
+END
+SoftRateShim.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/241/trunk/modules/airblue/lib/SoftRate/src/SoftRateShim.bsv
+END
+softhints.c
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/airblue/!svn/ver/210/trunk/modules/airblue/lib/SoftRate/src/softhints.c
+END
+SoftHintAvgBest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/src/SoftHintAvgBest.bsv
+END
+airblue_softrate_fxpt.awb
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/airblue/!svn/ver/220/trunk/modules/airblue/lib/SoftRate/src/airblue_softrate_fxpt.awb
+END
+airblue_softrate_log.awb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/241/trunk/modules/airblue/lib/SoftRate/src/airblue_softrate_log.awb
+END
+SoftHintAvgBDPI.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/210/trunk/modules/airblue/lib/SoftRate/src/SoftHintAvgBDPI.bsv
+END
+SoftHintAvgLog_old.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/220/trunk/modules/airblue/lib/SoftRate/src/SoftHintAvgLog_old.bsv
+END
+SoftHintAvgLog.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/SoftRate/src/SoftHintAvgLog.bsv
+END
+SoftHintParamsBest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/src/SoftHintParamsBest.bsv
+END
+SoftHintAvgFP.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/220/trunk/modules/airblue/lib/SoftRate/src/SoftHintAvgFP.bsv
+END
+SoftHintParams.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/227/trunk/modules/airblue/lib/SoftRate/src/SoftHintParams.bsv
+END
+SoftHintParamsLog.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/227/trunk/modules/airblue/lib/SoftRate/src/SoftHintParamsLog.bsv
+END

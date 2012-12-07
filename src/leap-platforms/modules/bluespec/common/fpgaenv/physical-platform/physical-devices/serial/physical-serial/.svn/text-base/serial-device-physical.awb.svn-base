@@ -1,0 +1,20 @@
+
+%name Serial Physical Device (physical)
+%desc Serial Physical Device (physical)
+
+%provides serial_device
+
+%requires serial_device_ucf
+
+%sources -t BSV -v PUBLIC uart-import.bsv
+
+%sources -t VHD   -v PRIVATE baudrate.vhd
+%sources -t VHD   -v PRIVATE opb_uartlite_core.vhd
+%sources -t VHD   -v PRIVATE opb_uartlite_rx.vhd
+%sources -t VHD   -v PRIVATE opb_uartlite_tx.vhd
+%sources -t VHD   -v PRIVATE srl_fifo.vhd
+
+%sources -t H   -v PUBLIC  serial-device.h
+%sources -t CPP -v PUBLIC  serial-device.cpp
+
+ 

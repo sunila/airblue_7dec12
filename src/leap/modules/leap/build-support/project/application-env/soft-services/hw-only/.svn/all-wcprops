@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/hw-only
+END
+hw-only-testbench.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/hw-only/hw-only-testbench.h
+END
+hw-only-testbench.awb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/hw-only/hw-only-testbench.awb
+END
+hw-only-testbench.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/hw-only/hw-only-testbench.bsv
+END
+hw-only-testbench.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/build-support/project/application-env/soft-services/hw-only/hw-only-testbench.cpp
+END

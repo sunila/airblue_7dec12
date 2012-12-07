@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/MAC/WiFi
+END
+MacRXTXControl.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/MAC/WiFi/MacRXTXControl.bsv
+END
+airblue_mac_softrate.awb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MAC/WiFi/airblue_mac_softrate.awb
+END
+SoftMAC.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/airblue/!svn/ver/241/trunk/modules/airblue/MAC/WiFi/SoftMAC.bsv
+END
+Phy80211.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/MAC/WiFi/Phy80211.bsv
+END
+airblue_mac_with_shim.awb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MAC/WiFi/airblue_mac_with_shim.awb
+END
+airblue_mac_no_shim.awb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MAC/WiFi/airblue_mac_no_shim.awb
+END
+Ack.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MAC/WiFi/Ack.bsv
+END
+SHIM.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/MAC/WiFi/SHIM.bsv
+END
+MAC.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MAC/WiFi/MAC.bsv
+END
+BasicSHIM.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/MAC/WiFi/BasicSHIM.bsv
+END
+AckSoftrate.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MAC/WiFi/AckSoftrate.bsv
+END
+AckCommon.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/airblue/!svn/ver/259/trunk/modules/airblue/MAC/WiFi/AckCommon.bsv
+END
+MacRegisterMap.dic
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/airblue/!svn/ver/241/trunk/modules/airblue/MAC/WiFi/MacRegisterMap.dic
+END
+TbSta80211.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/MAC/WiFi/TbSta80211.bsv
+END
+MacRate.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/airblue/!svn/ver/70/trunk/modules/airblue/MAC/WiFi/MacRate.bsv
+END
+TbMac80211.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/MAC/WiFi/TbMac80211.bsv
+END
+Sta80211.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/airblue/!svn/ver/66/trunk/modules/airblue/MAC/WiFi/Sta80211.bsv
+END

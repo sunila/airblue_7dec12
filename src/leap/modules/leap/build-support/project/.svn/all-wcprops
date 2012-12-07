@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/build-support/project
+END
+project-vico-pipeline.awb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/180/branches/v11.09/modules/leap/build-support/project/project-vico-pipeline.awb
+END
+SCons.hw.pipeline.template
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/SCons.hw.pipeline.template
+END
+project-pipeline.awb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap/!svn/ver/180/branches/v11.09/modules/leap/build-support/project/project-pipeline.awb
+END
+project-common-hybrid.awb
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/project-common-hybrid.awb
+END
+project-vico-hybrid-main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/project-vico-hybrid-main.cpp
+END
+Utils.py
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/Utils.py
+END
+project-hybrid-main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/project-hybrid-main.cpp
+END
+Makefile.top.template
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/Makefile.top.template
+END
+SCons.sw.pipeline.template
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/SCons.sw.pipeline.template
+END
+project-vico-hybrid-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/project-vico-hybrid-main.h
+END
+ProjectDependency.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/ProjectDependency.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/README
+END
+project-hybrid-main.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/project-hybrid-main.h
+END
+project-hybrid-main.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/project-hybrid-main.bsv
+END
+SCons.top.pipeline.template
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/SCons.top.pipeline.template
+END
+SCons.iface.template
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/SCons.iface.template
+END
+hardware-done.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/hardware-done.h
+END
+ModuleList.py
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/ModuleList.py
+END
+Module.py
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/Module.py
+END
+CommandLine.py
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/project/CommandLine.py
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/leap/!svn/ver/156/branches/v11.09/experiments/leap/regression
+END
+regression.models
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/leap/!svn/ver/156/branches/v11.09/experiments/leap/regression/regression.models
+END
+regression.benchmarks
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/156/branches/v11.09/experiments/leap/regression/regression.benchmarks
+END

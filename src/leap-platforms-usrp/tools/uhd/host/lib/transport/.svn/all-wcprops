@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport
+END
+gen_vrt_if_packet.py
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/gen_vrt_if_packet.py
+END
+libusb1_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/libusb1_base.hpp
+END
+libusb1_control.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/libusb1_control.cpp
+END
+udp_simple.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/udp_simple.cpp
+END
+udp_zero_copy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/udp_zero_copy.cpp
+END
+buffer_pool.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/buffer_pool.cpp
+END
+vrt_packet_handler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/vrt_packet_handler.hpp
+END
+udp_common.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/udp_common.hpp
+END
+usb_dummy_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/usb_dummy_impl.cpp
+END
+libusb1_zero_copy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/libusb1_zero_copy.cpp
+END
+if_addrs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/if_addrs.cpp
+END
+libusb1_base.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/libusb1_base.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/transport/CMakeLists.txt
+END

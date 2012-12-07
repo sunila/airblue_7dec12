@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/pcie_core
+END
+pcie_core.v
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/pcie_core/pcie_core.v
+END
+pcie-core.awb
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/pcie_core/pcie-core.awb
+END
+pcie_core.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/pcie_core/pcie_core.ngc
+END

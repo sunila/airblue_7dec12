@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/channelio/null
+END
+channelio-common.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/channelio/null/channelio-common.bsv
+END
+null-channelio.awb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/channelio/null/null-channelio.awb
+END
+null-channelio.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/channelio/null/null-channelio.bsv
+END
+NullChannelIO.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/channelio/null/NullChannelIO.bsv
+END
+null-channelio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/channelio/null/null-channelio.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/channelio/null/README
+END
+null-channelio.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/channelio/null/null-channelio.h
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/Synchronizer2/src
+END
+SParams.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/src/SParams.bsv
+END
+rotate.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/src/rotate.c
+END
+FineTimeEstimator.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/Synchronizer2/src/FineTimeEstimator.bsv
+END
+PeakDetector.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/Synchronizer2/src/PeakDetector.bsv
+END
+Accumulator.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/src/Accumulator.bsv
+END
+Synchronizer2.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/src/Synchronizer2.bsv
+END
+PacketDetector.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/Synchronizer2/src/PacketDetector.bsv
+END
+airblue_synchronizer2.awb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/src/airblue_synchronizer2.awb
+END
+SynchronizerLibrary.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/src/SynchronizerLibrary.bsv
+END
+FreqEstimatorBDPI.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/src/FreqEstimatorBDPI.bsv
+END
+AutoCorrelator.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/src/AutoCorrelator.bsv
+END
+FreqEstimator.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/205/trunk/modules/airblue/lib/Synchronizer2/src/FreqEstimator.bsv
+END

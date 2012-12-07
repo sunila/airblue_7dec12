@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-connections/alg
+END
+connect-stations-tree.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-connections/alg/connect-stations-tree.bsv
+END
+connect-top-level.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-connections/alg/connect-top-level.bsv
+END
+connect-multicasts.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-connections/alg/connect-multicasts.bsv
+END
+expose-connections.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-connections/alg/expose-connections.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-connections/alg/README
+END
+connect-top-level-multifpga.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-connections/alg/connect-top-level-multifpga.bsv
+END
+connection-alg-module-context.awb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-connections/alg/connection-alg-module-context.awb
+END
+connection-alg-multifpga.awb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/soft-services/services/soft-connections/alg/connection-alg-multifpga.awb
+END

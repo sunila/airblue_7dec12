@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/RRR
+END
+Collection.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/RRR/Collection.pm
+END
+Service.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/RRR/Service.pm
+END
+Type.pm
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/RRR/Type.pm
+END
+Argument.pm
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/RRR/Argument.pm
+END
+Identifier.pm
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/RRR/Identifier.pm
+END
+Numeral.pm
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/lib/Leap/RRR/Numeral.pm
+END

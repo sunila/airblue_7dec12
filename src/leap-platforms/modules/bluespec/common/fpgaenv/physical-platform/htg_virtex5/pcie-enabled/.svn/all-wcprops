@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled
+END
+htg-v5-pcie-enabled.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/htg-v5-pcie-enabled.cpp
+END
+xilinx.download
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/xilinx.download
+END
+xilinx.ut
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/xilinx.ut
+END
+htg-v5-pcie-enabled-synplify.awb
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/htg-v5-pcie-enabled-synplify.awb
+END
+htg-v5-pcie-enabled.h
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/htg-v5-pcie-enabled.h
+END
+xilinx.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/xilinx.sdf
+END
+htg-v5-pcie-enabled-synplify.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/htg-v5-pcie-enabled-synplify.ucf
+END
+htg-v5-pcie-enabled.awb
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/htg-v5-pcie-enabled.awb
+END
+htg-v5-pcie-enabled.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/htg-v5-pcie-enabled.sdc
+END
+xilinx.xst
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/xilinx.xst
+END
+htg-v5-pcie-enabled.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/htg-v5-pcie-enabled.bsv
+END
+htg-v5-pcie-enabled.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/pcie-enabled/htg-v5-pcie-enabled.ucf
+END

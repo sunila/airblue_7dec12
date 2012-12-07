@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/central-cache
+END
+central-cache-interfaces.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/central-cache/central-cache-interfaces.bsv
+END
+local-mem-central-cache.awb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/central-cache/local-mem-central-cache.awb
+END
+local-mem-central-cache.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/central-cache/local-mem-central-cache.bsv
+END
+central-cache-backing-store.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/central-cache/central-cache-backing-store.bsv
+END
+null-central-cache.awb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/central-cache/null-central-cache.awb
+END
+null-central-cache.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/central-cache/null-central-cache.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/central-cache/README
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ucf
+END
+serial-device-ucf-ml605.awb
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ucf/serial-device-ucf-ml605.awb
+END
+serial-xupv5.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ucf/serial-xupv5.ucf
+END
+serial-device-ucf-xupv2.awb
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ucf/serial-device-ucf-xupv2.awb
+END
+serial-device-ucf-xupv5.awb
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ucf/serial-device-ucf-xupv5.awb
+END
+serial-ml605.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ucf/serial-ml605.ucf
+END
+serial-xupv2.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ucf/serial-xupv2.ucf
+END

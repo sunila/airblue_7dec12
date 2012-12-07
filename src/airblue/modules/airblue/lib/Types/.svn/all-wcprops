@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/airblue/!svn/ver/420/trunk/modules/airblue/lib/Types
+END
+airblue_types.awb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/airblue/!svn/ver/410/trunk/modules/airblue/lib/Types/airblue_types.awb
+END
+DataTypes.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/244/trunk/modules/airblue/lib/Types/DataTypes.bsv
+END
+Typeclasses.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/airblue/!svn/ver/420/trunk/modules/airblue/lib/Types/Typeclasses.bsv
+END
+airblue_types_with_soft_hints.awb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/410/trunk/modules/airblue/lib/Types/airblue_types_with_soft_hints.awb
+END
+Controls.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/Types/Controls.bsv
+END
+Interfaces.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/98/trunk/modules/airblue/lib/Types/Interfaces.bsv
+END

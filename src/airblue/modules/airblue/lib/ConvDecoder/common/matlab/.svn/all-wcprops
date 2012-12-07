@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/airblue/!svn/ver/241/trunk/modules/airblue/lib/ConvDecoder/common/matlab
+END
+Mapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/234/trunk/modules/airblue/lib/ConvDecoder/common/matlab/Mapper.m
+END
+sovadec.m
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/234/trunk/modules/airblue/lib/ConvDecoder/common/matlab/sovadec.m
+END
+test_sova.m
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/234/trunk/modules/airblue/lib/ConvDecoder/common/matlab/test_sova.m
+END
+Deinterleaver.m
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/airblue/!svn/ver/234/trunk/modules/airblue/lib/ConvDecoder/common/matlab/Deinterleaver.m
+END
+LogMAPdecode_htm.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/airblue/!svn/ver/241/trunk/modules/airblue/lib/ConvDecoder/common/matlab/LogMAPdecode_htm.m
+END
+test_LogMAPdec1.m
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/airblue/!svn/ver/234/trunk/modules/airblue/lib/ConvDecoder/common/matlab/test_LogMAPdec1.m
+END
+test_sova
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/234/trunk/modules/airblue/lib/ConvDecoder/common/matlab/test_sova
+END
+Demapper.m
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/airblue/!svn/ver/234/trunk/modules/airblue/lib/ConvDecoder/common/matlab/Demapper.m
+END
+Interleaver.m
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/234/trunk/modules/airblue/lib/ConvDecoder/common/matlab/Interleaver.m
+END

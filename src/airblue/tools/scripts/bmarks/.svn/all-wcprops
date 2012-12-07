@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/airblue/!svn/ver/173/trunk/tools/scripts/bmarks
+END
+run.bmark
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/airblue/!svn/ver/173/trunk/tools/scripts/bmarks/run.bmark
+END
+setup-softphy-bmark
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/airblue/!svn/ver/173/trunk/tools/scripts/bmarks/setup-softphy-bmark
+END
+analyze-softphy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/173/trunk/tools/scripts/bmarks/analyze-softphy.pl
+END
+plot-ber.gp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/airblue/!svn/ver/173/trunk/tools/scripts/bmarks/plot-ber.gp
+END

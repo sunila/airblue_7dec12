@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope
+END
+xilinx-xup-chipscope.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx-xup-chipscope.cpp
+END
+xilinx.download
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx.download
+END
+xilinx.ut
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx.ut
+END
+xilinx.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx.sdc
+END
+xilinx-xup-chipscope.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx-xup-chipscope.h
+END
+xilinx.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx.sdf
+END
+xilinx-xup-chipscope.awb
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx-xup-chipscope.awb
+END
+xilinx.xst
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx.xst
+END
+xilinx-xup-chipscope.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx-xup-chipscope.bsv
+END
+xilinx-xup-chipscope.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/chipscope/xilinx-xup-chipscope.ucf
+END

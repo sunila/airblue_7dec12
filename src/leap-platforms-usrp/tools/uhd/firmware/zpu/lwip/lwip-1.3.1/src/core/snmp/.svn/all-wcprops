@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/core/snmp
+END
+mib_structs.c
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/core/snmp/mib_structs.c
+END
+asn1_enc.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/core/snmp/asn1_enc.c
+END
+mib2.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/core/snmp/mib2.c
+END
+msg_in.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/core/snmp/msg_in.c
+END
+asn1_dec.c
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/core/snmp/asn1_dec.c
+END
+msg_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/core/snmp/msg_out.c
+END

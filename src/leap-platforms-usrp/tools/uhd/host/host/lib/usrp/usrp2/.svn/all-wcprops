@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2
+END
+codec_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/codec_impl.cpp
+END
+usrp2_regs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/usrp2_regs.hpp
+END
+codec_ctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/codec_ctrl.cpp
+END
+usrp2_impl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/usrp2_impl.hpp
+END
+usrp2_iface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/usrp2_iface.cpp
+END
+codec_ctrl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/codec_ctrl.hpp
+END
+usrp2_iface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/usrp2_iface.hpp
+END
+dsp_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/dsp_impl.cpp
+END
+dboard_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/dboard_impl.cpp
+END
+clock_ctrl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/clock_ctrl.cpp
+END
+dboard_iface.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/dboard_iface.cpp
+END
+clock_ctrl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/clock_ctrl.hpp
+END
+mboard_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/mboard_impl.cpp
+END
+io_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/io_impl.cpp
+END
+usrp2_clk_regs.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/usrp2_clk_regs.hpp
+END
+fw_common.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/fw_common.h
+END
+usrp2_regs.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/usrp2_regs.cpp
+END
+usrp2_impl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/usrp2_impl.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/usrp/usrp2/CMakeLists.txt
+END

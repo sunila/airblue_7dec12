@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/airblue/!svn/ver/110/trunk/experiments/ofdm/bcjr
+END
+bcjr.models
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/airblue/!svn/ver/104/trunk/experiments/ofdm/bcjr/bcjr.models
+END
+bcjr.benchmarks
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/airblue/!svn/ver/110/trunk/experiments/ofdm/bcjr/bcjr.benchmarks
+END

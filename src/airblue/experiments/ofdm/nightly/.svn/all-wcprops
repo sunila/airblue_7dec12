@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/airblue/!svn/ver/92/trunk/experiments/ofdm/nightly
+END
+nightly.models
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/airblue/!svn/ver/92/trunk/experiments/ofdm/nightly/nightly.models
+END
+nightly.benchmarks
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/airblue/!svn/ver/92/trunk/experiments/ofdm/nightly/nightly.benchmarks
+END

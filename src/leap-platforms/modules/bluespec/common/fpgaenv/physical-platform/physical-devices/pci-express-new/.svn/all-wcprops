@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new
+END
+h2f_data_fifo.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/h2f_data_fifo.ngc
+END
+f2h_data_fifo.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/f2h_data_fifo.ngc
+END
+pcieblkplus.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/pcieblkplus.ngc
+END
+pci-express-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/pci-express-device.bsv
+END
+csr_host_ctrl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/csr_host_ctrl.vhd
+END
+csr_fpga_ctrl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/csr_fpga_ctrl.vhd
+END
+csr_ctrl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/csr_ctrl.vhd
+END
+rst_controller.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/rst_controller.vhd
+END
+pci-express-vhdl-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/pci-express-vhdl-import.bsv
+END
+CSR_BRAM.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/CSR_BRAM.ngc
+END
+pci-express-device-mmap.awb
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/pci-express-device-mmap.awb
+END
+intr_controller.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/intr_controller.vhd
+END
+pci-express-c-import-mmap.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/pci-express-c-import-mmap.cpp
+END
+pcie_bar0.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/pcie_bar0.vhd
+END
+dma_ctrl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/dma_ctrl.vhd
+END
+pci-express-c-import-mmap.h
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/pci-express-c-import-mmap.h
+END
+pcie_rx_wrapper.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/pcie_rx_wrapper.vhd
+END
+channel_top.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/channel_top.vhd
+END
+pcie_tx_wrapper.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/pcie_tx_wrapper.vhd
+END
+channel_ctrl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pci-express-new/channel_ctrl.vhd
+END

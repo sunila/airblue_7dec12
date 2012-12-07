@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug
+END
+fetch-kernel.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/fetch-kernel.sh
+END
+set_debug_pins.py
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/set_debug_pins.py
+END
+usrp_e.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp_e.h
+END
+usrp-e-write.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-write.c
+END
+fetch-module.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/fetch-module.sh
+END
+usrp-e-spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-spi.c
+END
+write_board_id.sh
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/write_board_id.sh
+END
+usrp-e-debug-pins.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-debug-pins.c
+END
+usrp-e-gpio.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-gpio.c
+END
+write-eeprom.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/write-eeprom.sh
+END
+reload-fpga.sh
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/reload-fpga.sh
+END
+usrp-e-uart-rx.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-uart-rx.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/README
+END
+usrp-e-led.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-led.c
+END
+test.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/test.c
+END
+usrp-e-lb-test.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-lb-test.c
+END
+usrp-e-button.c
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-button.c
+END
+fetch-u-boot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/fetch-u-boot.sh
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/.gitignore
+END
+usrp-e-read.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-read.c
+END
+usrp-e-uart.c
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-uart.c
+END
+read_board_id.sh
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/read_board_id.sh
+END
+usrp-e-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-i2c.c
+END
+fetch-bin.sh
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/fetch-bin.sh
+END
+usrp-e-ram.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-ram.c
+END
+usrp-e-ctl.c
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/usrp-e-ctl.c
+END
+u1e-read-stream.c
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/u1e-read-stream.c
+END
+setup-board-id-eeprom.sh
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/setup-board-id-eeprom.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/apps/omap_debug/Makefile
+END

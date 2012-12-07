@@ -1,0 +1,46 @@
+
+[Global]
+SaveParameters=0
+Description=Hello World Demo using hybrid streams for HTG v5 PCIe
+File=hello_hybrid_xup2
+Version=2.2
+Name=Hello World for HTG v5 PCIe
+DefaultBenchmark=config/bm/leap/demos.cfx/benchmarks/null.cfg
+Type=Leap
+Class=Asim::Model
+DefaultRunOpts=
+RootName=HW/SW Hybrid Pipeline Build
+RootProvides=model
+
+[Model]
+DefaultAttributes=hello unconnected hybrid project xup
+model=HW/SW Hybrid Pipeline Build
+
+[Base Hybrid Application Environment]
+File=modules/leap/build-support/project/application-env/base/application-env-hybrid-base.awb
+Packagehint=leap
+
+[Base Hybrid Application Environment/Requires]
+hybrid_application=Hello World
+
+[Hello World]
+File=modules/leap/examples/hello-world/hello-world.awb
+Packagehint=leap
+
+[HW/SW Hybrid Pipeline Build/Requires]
+project_common=Default Hybrid Project Common Utilities
+fpgaenv=Hybrid XUPv2 Serial FPGA Environment
+application_env=Base Hybrid Application Environment
+
+[HW/SW Hybrid Pipeline Build]
+File=modules/leap/build-support/project/project-pipeline.awb
+Packagehint=leap
+
+[Default Hybrid Project Common Utilities]
+File=config/pm/leap/submodels/common/project-common-default.apm
+Packagehint=leap
+
+[Hybrid XUPv2 Serial FPGA Environment]
+File=config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-xupv2-serial.apm
+Packagehint=leap
+

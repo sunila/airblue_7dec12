@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/bluespec
+END
+pcie-bluespec-physical-channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/bluespec/pcie-bluespec-physical-channel.cpp
+END
+pcie-bluespec-physical-channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/bluespec/pcie-bluespec-physical-channel.h
+END
+pcie-bluespec-physical-channel.awb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/bluespec/pcie-bluespec-physical-channel.awb
+END
+pcie-bluespec-physical-channel.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/bluespec/pcie-bluespec-physical-channel.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/bluespec/README
+END

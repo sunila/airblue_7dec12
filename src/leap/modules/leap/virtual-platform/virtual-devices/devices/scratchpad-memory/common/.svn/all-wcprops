@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/common
+END
+mem-scratch-common.awb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/common/mem-scratch-common.awb
+END
+mem-scratch-common-interfaces.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/common/mem-scratch-common-interfaces.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/common/README
+END

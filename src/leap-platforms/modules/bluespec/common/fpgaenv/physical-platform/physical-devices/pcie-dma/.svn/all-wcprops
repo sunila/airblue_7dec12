@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma
+END
+BRAM64x512.v
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/BRAM64x512.v
+END
+Xilinx_SyncFIFOLevel_512x64.v
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/Xilinx_SyncFIFOLevel_512x64.v
+END
+dma_sgl_loader.v
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/dma_sgl_loader.v
+END
+BRAM64x512.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/BRAM64x512.ngc
+END
+Xilinx_SyncFIFOLevel_512x64.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/Xilinx_SyncFIFOLevel_512x64.ngc
+END
+pcie_dma_device.v
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/pcie_dma_device.v
+END
+pcie_dma_app.v
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/pcie_dma_app.v
+END
+pci-express-dma.awb
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/pci-express-dma.awb
+END
+pcie_wrapper.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/pcie-dma/pcie_wrapper.bsv
+END

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/streams-service
+END
+streams-local.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/streams-service/streams-local.bsv
+END
+streams-service.awb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/streams-service/streams-service.awb
+END
+streams-service.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/streams-service/streams-service.bsv
+END
+streams-service.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/streams-service/streams-service.bsh
+END
+streams-service-null.awb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/streams-service/streams-service-null.awb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/streams-service/README
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/null
+END
+null-shared-memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/null/null-shared-memory.h
+END
+null-shared-memory.awb
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/null/null-shared-memory.awb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/null/README
+END
+null-shared-memory.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/null/null-shared-memory.bsv
+END

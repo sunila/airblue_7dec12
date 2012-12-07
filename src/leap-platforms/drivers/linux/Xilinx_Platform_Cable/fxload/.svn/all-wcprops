@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/fxload
+END
+fxload.8
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/fxload/fxload.8
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/fxload/main.c
+END
+a3load.hex
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/fxload/a3load.hex
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/fxload/COPYING
+END
+ezusb.c
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/fxload/ezusb.c
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/fxload/README.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/fxload/Makefile
+END
+ezusb.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/fxload/ezusb.h
+END

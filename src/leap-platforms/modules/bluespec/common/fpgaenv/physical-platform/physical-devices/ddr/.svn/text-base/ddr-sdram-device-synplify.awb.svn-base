@@ -1,0 +1,24 @@
+%name DDR SDRAM Physical Device for Synplify
+%desc DDR SDRAM Physical Device for Synplify
+
+%provides ddr_sdram_device
+
+%sources -t BSV       -v PUBLIC ddr-sdram-device.bsv
+%sources -t BSV       -v PUBLIC ddr-sdram-verilog-import.bsv
+%sources -t BSV       -v PUBLIC NPICommon.bsv
+%sources -t BSV       -v PUBLIC NPIMaster.bsv
+%sources -t VERILOG   -v PRIVATE ddr_sdram.v
+%sources -t VERILOG   -v PRIVATE ddr_sdram_xilinx.v
+%sources -t NGC       -v PRIVATE clock_generator_ddr_wrapper.ngc 
+%sources -t NGC       -v PRIVATE ddr_sdram_wrapper.ngc
+%sources -t NGC       -v PRIVATE proc_sys_reset_ddr_wrapper.ngc
+
+
+%sources -t UCF -v PRIVATE ddr_sdram_synplify.ucf
+%sources -t UCF -v PRIVATE ddr_sdram_tig_synplify.ucf
+%sources -t SDC -v PRIVATE ddr_sdram.sdc
+
+
+%param DRAM_ADDRESS_SIZE  22  "DRAM address size (words)"
+%param DRAM_WORD_SIZE 64 "DRAM word size (bits)"
+%param DRAM_MAX_BURST_SIZE  32 "DRAM max burst size"

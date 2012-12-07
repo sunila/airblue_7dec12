@@ -1,0 +1,11 @@
+# 
+# Synplicity UCF to SDC Convertor, Build 142R, Aug 23 2010 16:29:06
+# Automatically converted from /home/kfleming/afs/fpgaMine/usrp2/top/u2_rev3/u2_rev3.ucf to /home/kfleming/afs/fpgaMine/usrp2/top/u2_rev3/u2_rev3_conv.sdc
+# Check /home/kfleming/afs/fpgaMine/usrp2/top/u2_rev3/u2_rev3_unsupported.ucf file for the list of constraints not converted.
+# 
+
+TIMESPEC "TS_clk_div_to_dsp_clk" = FROM "clk_div" TO "dcm_out" 10 ns;
+
+# 
+# UCF to SDC Translation Completed with Error(s)
+# 

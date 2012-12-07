@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services
+END
+mem-services-standard.awb
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/mem-services-standard.awb
+END
+mem-services-standard.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/mem-services-standard.bsv
+END
+mem-services-standard.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/mem-services-standard.bsh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/README
+END
+mem-services-standard-null.awb
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/mem-services-standard-null.awb
+END
+mem-services-standard-null.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/mem-services-standard-null.bsv
+END

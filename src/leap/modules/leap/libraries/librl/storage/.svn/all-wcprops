@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/libraries/librl/storage
+END
+fifo-triggered-stream-capture.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/libraries/librl/storage/fifo-triggered-stream-capture.bsv
+END
+fifo-commit.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/libraries/librl/storage/fifo-commit.bsv
+END
+reversal-buffer-bram.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/libraries/librl/storage/reversal-buffer-bram.bsv
+END
+reversal-buffer.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/libraries/librl/storage/reversal-buffer.bsv
+END
+fifo-stream-capture.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/libraries/librl/storage/fifo-stream-capture.bsv
+END
+librl-bsv-storage.awb
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap/!svn/ver/185/branches/v11.09/modules/leap/libraries/librl/storage/librl-bsv-storage.awb
+END
+fifo-mem.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/170/branches/v11.09/modules/leap/libraries/librl/storage/fifo-mem.bsv
+END
+fifo-stream-capture-common.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/libraries/librl/storage/fifo-stream-capture-common.bsv
+END
+memory-heap.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/storage/memory-heap.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap/!svn/ver/184/branches/v11.09/modules/leap/libraries/librl/storage/README
+END
+fifo-scoreboard.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/storage/fifo-scoreboard.bsv
+END

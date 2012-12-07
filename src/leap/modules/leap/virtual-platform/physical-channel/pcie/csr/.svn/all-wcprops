@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/csr
+END
+pcie-physical-channel.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/csr/pcie-physical-channel.cpp
+END
+pcie-physical-channel.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/csr/pcie-physical-channel.h
+END
+pcie-physical-channel.awb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/csr/pcie-physical-channel.awb
+END
+pcie-physical-channel.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/csr/pcie-physical-channel.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/physical-channel/pcie/csr/README
+END

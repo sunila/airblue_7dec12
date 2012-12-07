@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/virtual-devices
+END
+std-virtual-devices.apm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/virtual-devices/std-virtual-devices.apm
+END
+std-virtual-devices-local-scratchpad.apm
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/virtual-devices/std-virtual-devices-local-scratchpad.apm
+END
+xup-virtual-devices.apm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/virtual-devices/xup-virtual-devices.apm
+END
+std-virtual-devices-null-mem.apm
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/virtual-devices/std-virtual-devices-null-mem.apm
+END

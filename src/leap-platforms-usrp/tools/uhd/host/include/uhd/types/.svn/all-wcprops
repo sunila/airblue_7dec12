@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types
+END
+device_addr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/device_addr.hpp
+END
+mac_addr.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/mac_addr.hpp
+END
+sensors.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/sensors.hpp
+END
+ref_vector.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/ref_vector.hpp
+END
+time_spec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/time_spec.hpp
+END
+io_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/io_type.hpp
+END
+tune_result.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/tune_result.hpp
+END
+otw_type.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/otw_type.hpp
+END
+stream_cmd.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/stream_cmd.hpp
+END
+serial.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/serial.hpp
+END
+ranges.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/ranges.hpp
+END
+metadata.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/metadata.hpp
+END
+clock_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/clock_config.hpp
+END
+tune_request.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/tune_request.hpp
+END
+dict.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/dict.hpp
+END
+dict.ipp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/dict.ipp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/include/uhd/types/CMakeLists.txt
+END

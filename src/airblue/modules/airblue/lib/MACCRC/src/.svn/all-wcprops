@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/airblue/!svn/ver/411/trunk/modules/airblue/lib/MACCRC/src
+END
+MACCRCCheck.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/airblue/!svn/ver/410/trunk/modules/airblue/lib/MACCRC/src/MACCRCCheck.bsv
+END
+MACCRC.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/airblue/!svn/ver/411/trunk/modules/airblue/lib/MACCRC/src/MACCRC.bsv
+END
+airblue_mac_crc.awb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/410/trunk/modules/airblue/lib/MACCRC/src/airblue_mac_crc.awb
+END
+airblue_crc_checker.awb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/410/trunk/modules/airblue/lib/MACCRC/src/airblue_crc_checker.awb
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std
+END
+std-virtual-devices-null.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/std-virtual-devices-null.bsv
+END
+std-virtual-devices.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/std-virtual-devices.cpp
+END
+std-virtual-devices.h
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/std-virtual-devices.h
+END
+std-virtual-devices.awb
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/std-virtual-devices.awb
+END
+std-virtual-devices.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/std-virtual-devices.bsv
+END
+std-virtual-devices-null-mem.awb
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/std-virtual-devices-null-mem.awb
+END
+std-virtual-devices-null-mem.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/std-virtual-devices-null-mem.bsv
+END
+std-virtual-devices.dic
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/std-virtual-devices.dic
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/README
+END
+std-virtual-devices-null.awb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/virtual-device-sets/std/std-virtual-devices-null.awb
+END

@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/leap/!svn/ver/181/branches/v11.09/config/pm/leap/submodels/fpgaenv
+END
+fpgaenv-hybrid-xupv2-serial.apm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-xupv2-serial.apm
+END
+fpgaenv-hybrid-htg-v5-pcie-synplify.apm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap/!svn/ver/181/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-htg-v5-pcie-synplify.apm
+END
+fpgaenv-hybrid-xupv5-serial.apm
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-xupv5-serial.apm
+END
+fpgaenv-hybrid-xup-v5-pcie-sata.apm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-xup-v5-pcie-sata.apm
+END
+fpgaenv-hybrid-evaluation-arriaII-jtag.apm
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-evaluation-arriaII-jtag.apm
+END
+fpgaenv-de2-jtag.apm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-de2-jtag.apm
+END
+fpgaenv-hybrid-xup-v5-chipscope.apm
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-xup-v5-chipscope.apm
+END
+fpgaenv-de3-jtag.apm
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-de3-jtag.apm
+END
+fpgaenv-hybrid-exe.apm
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-exe.apm
+END
+fpgaenv-hybrid-xup-v5-pcie.apm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-xup-v5-pcie.apm
+END
+fpgaenv-hybrid-exe-local-scratchpad.apm
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-exe-local-scratchpad.apm
+END
+fpgaenv-hybrid-605d-syn.apm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/160/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-605d-syn.apm
+END
+fpgaenv-hybrid-xup-v5-jtag.apm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-xup-v5-jtag.apm
+END
+fpgaenv-hybrid-xup-v5-pcie-altera.apm
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-xup-v5-pcie-altera.apm
+END
+fpgaenv-hybrid-htg-v5-pcie.apm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/181/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-htg-v5-pcie.apm
+END
+fpgaenv-hybrid-605d-xst.apm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-605d-xst.apm
+END
+fpgaenv-cycloneiii-jtag.apm
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-cycloneiii-jtag.apm
+END
+fpgaenv-hybrid-htg-v5-jtag.apm
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap/!svn/ver/181/branches/v11.09/config/pm/leap/submodels/fpgaenv/fpgaenv-hybrid-htg-v5-jtag.apm
+END

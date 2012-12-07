@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils
+END
+usrp-e-wb-test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils/usrp-e-wb-test.cpp
+END
+usrp-e-loopback.c
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils/usrp-e-loopback.c
+END
+usrp-e-spi.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils/usrp-e-spi.c
+END
+usrp-e-debug-pins.c
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils/usrp-e-debug-pins.c
+END
+usrp-e-i2c.c
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils/usrp-e-i2c.c
+END
+usrp-e-timed.c
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils/usrp-e-timed.c
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils/CMakeLists.txt
+END
+usrp-e-utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils/usrp-e-utility.cpp
+END
+clkgen_config.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/usrp_e_utils/clkgen_config.hpp
+END

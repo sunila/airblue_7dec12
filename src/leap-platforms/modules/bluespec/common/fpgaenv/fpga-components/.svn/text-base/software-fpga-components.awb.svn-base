@@ -1,0 +1,15 @@
+%name Software FPGA Components
+%desc Software FPGA Components
+
+%provides fpga_components
+
+%attributes hasim
+
+%public bram.bsv bram-multi-read.bsv
+%public lutram.bsv
+%public alu-support.bsv
+%public user-clock.bsv user-clock-pll.bsv user-clock-sim.bsv
+%public shiftreg-sim.bsv
+
+%param MAGIC_SIMULATION_CLOCK_FACTOR 10000 "Used to determine periods for ratioed clocks - making it larger may increase clock resolution"
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/assertions-service
+END
+assertions-service.awb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/assertions-service/assertions-service.awb
+END
+assertions-service.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/assertions-service/assertions-service.bsv
+END
+assertions-service.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/assertions-service/assertions-service.bsh
+END
+assertions-service-null.awb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/assertions-service/assertions-service-null.awb
+END
+assertions-local.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/assertions-service/assertions-local.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/common-services/assertions-service/README
+END

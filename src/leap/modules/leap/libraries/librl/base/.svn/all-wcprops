@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/libraries/librl/base
+END
+fifo-functions.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/fifo-functions.bsv
+END
+bluespec-def.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/bluespec-def.bsv
+END
+guarded-pipelines.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/guarded-pipelines.bsv
+END
+counters.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/counters.bsv
+END
+local-arbiters.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/local-arbiters.bsv
+END
+debug-file.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/debug-file.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap/!svn/ver/183/branches/v11.09/modules/leap/libraries/librl/base/README
+END
+memory-interface.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/memory-interface.bsv
+END
+lfsr.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/lfsr.bsv
+END
+counting-filter.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/counting-filter.bsv
+END
+extends.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/extends.bsv
+END
+fifo-merge.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/fifo-merge.bsv
+END
+hash-bits.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/hash-bits.bsv
+END
+librl-bsv-base.awb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap/!svn/ver/183/branches/v11.09/modules/leap/libraries/librl/base/librl-bsv-base.awb
+END
+memory-pack.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/librl/base/memory-pack.bsv
+END
+register.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/leap/!svn/ver/186/branches/v11.09/modules/leap/libraries/librl/base/register.bsv
+END

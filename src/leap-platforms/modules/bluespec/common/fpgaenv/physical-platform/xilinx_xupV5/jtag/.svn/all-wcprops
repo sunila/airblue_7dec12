@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag
+END
+xilinx-xup-jtag.awb
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx-xup-jtag.awb
+END
+xilinx-xup-jtag.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx-xup-jtag.bsv
+END
+xilinx.download
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx.download
+END
+xilinx.ut
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx.ut
+END
+xilinx.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx.sdc
+END
+xilinx-xup-jtag.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx-xup-jtag.ucf
+END
+xilinx.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx.sdf
+END
+xilinx.xst
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx.xst
+END
+xilinx-xup-jtag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx-xup-jtag.cpp
+END
+xilinx-xup-jtag.h
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/jtag/xilinx-xup-jtag.h
+END

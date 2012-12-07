@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial
+END
+xilinx.download
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx.download
+END
+xilinx.ut
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx.ut
+END
+xilinx-xup-serial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx-xup-serial.cpp
+END
+xilinx.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx.sdc
+END
+xilinx.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx.sdf
+END
+xilinx-xup-serial.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx-xup-serial.h
+END
+xilinx.xst
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx.xst
+END
+xilinx-xup-serial.awb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx-xup-serial.awb
+END
+xilinx-xup-serial.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx-xup-serial.bsv
+END
+xilinx-xup-serial.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/serial/xilinx-xup-serial.ucf
+END

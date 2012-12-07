@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/zpu/wishbone
+END
+wishbone_pkg.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/zpu/wishbone/wishbone_pkg.vhd
+END
+zpu_system.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/zpu/wishbone/zpu_system.vhd
+END
+zpu_wb_bridge.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/zpu/wishbone/zpu_wb_bridge.vhd
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3
+END
+u2_rev3.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/u2_rev3.ucf
+END
+u2_core.v
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/u2_core.v
+END
+u2_rev3_conv.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/u2_rev3_conv.sdc
+END
+Makefile.udp
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/Makefile.udp
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/.gitignore
+END
+u2_rev3.v
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/u2_rev3.v
+END
+u2_rev3_unsupported.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/u2_rev3_unsupported.ucf
+END
+u2_core_udp.v
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/u2_core_udp.v
+END
+_impact.log
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/_impact.log
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/Makefile
+END
+make.log
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/make.log
+END
+_impact.cmd
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/top/u2_rev3/_impact.cmd
+END

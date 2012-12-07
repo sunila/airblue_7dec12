@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/config
+END
+CMakeASM_SDCCInformation.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/config/CMakeASM_SDCCInformation.cmake
+END
+CMakeDetermineASM_SDCCCompiler.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/config/CMakeDetermineASM_SDCCCompiler.cmake
+END
+Rename.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/config/Rename.cmake
+END
+CMakeTestASM_SDCCCompiler.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/config/CMakeTestASM_SDCCCompiler.cmake
+END
+Toolchain-sdcc.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/fx2/config/Toolchain-sdcc.cmake
+END

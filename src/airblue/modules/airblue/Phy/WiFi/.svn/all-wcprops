@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/airblue/!svn/ver/423/trunk/modules/airblue/Phy/WiFi
+END
+WiFiRegisterMap.dic
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/airblue/!svn/ver/153/trunk/modules/airblue/Phy/WiFi/WiFiRegisterMap.dic
+END
+WiFiPhyLoopbackTest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/airblue/!svn/ver/420/trunk/modules/airblue/Phy/WiFi/WiFiPhyLoopbackTest.bsv
+END
+airblue_wifi_loopback_phy.awb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/407/trunk/modules/airblue/Phy/WiFi/airblue_wifi_loopback_phy.awb
+END
+airblue_wifi_phy.awb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/airblue/!svn/ver/407/trunk/modules/airblue/Phy/WiFi/airblue_wifi_phy.awb
+END
+airblue_wifi_loopback_channel_phy.awb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/airblue/!svn/ver/423/trunk/modules/airblue/Phy/WiFi/airblue_wifi_loopback_channel_phy.awb
+END
+WiFiPhyLoopbackTestChannel.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/423/trunk/modules/airblue/Phy/WiFi/WiFiPhyLoopbackTestChannel.bsv
+END
+WiFiLoopbackTestAGC.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/airblue/!svn/ver/385/trunk/modules/airblue/Phy/WiFi/WiFiLoopbackTestAGC.bsv
+END
+WiFiTransceiver.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/airblue/!svn/ver/412/trunk/modules/airblue/Phy/WiFi/WiFiTransceiver.bsv
+END
+airblue_wifi_loopback_agc.awb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/407/trunk/modules/airblue/Phy/WiFi/airblue_wifi_loopback_agc.awb
+END
+Loopback.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/airblue/!svn/ver/379/trunk/modules/airblue/Phy/WiFi/Loopback.rrr
+END

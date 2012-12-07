@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/null
+END
+null-clocks-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/null/null-clocks-device.awb
+END
+null-clocks-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/null/null-clocks-device.bsv
+END

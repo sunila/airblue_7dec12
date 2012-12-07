@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp
+END
+single_usrp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/single_usrp.hpp
+END
+codec_props.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/codec_props.hpp
+END
+dboard_eeprom.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/dboard_eeprom.hpp
+END
+subdev_spec.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/subdev_spec.hpp
+END
+multi_usrp.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/multi_usrp.hpp
+END
+dsp_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/dsp_utils.hpp
+END
+dboard_id.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/dboard_id.hpp
+END
+dsp_props.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/dsp_props.hpp
+END
+tune_helper.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/tune_helper.hpp
+END
+misc_utils.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/misc_utils.hpp
+END
+mboard_eeprom.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/mboard_eeprom.hpp
+END
+subdev_props.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/subdev_props.hpp
+END
+gps_ctrl.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/gps_ctrl.hpp
+END
+dboard_props.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/dboard_props.hpp
+END
+device_props.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/device_props.hpp
+END
+dboard_iface.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/dboard_iface.hpp
+END
+dboard_manager.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/dboard_manager.hpp
+END
+dboard_base.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/dboard_base.hpp
+END
+mboard_props.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/mboard_props.hpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/include/uhd/usrp/CMakeLists.txt
+END

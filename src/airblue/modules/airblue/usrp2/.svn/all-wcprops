@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/airblue/!svn/ver/338/trunk/modules/airblue/usrp2
+END
+icon.xco
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/icon.xco
+END
+icon.veo
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/icon.veo
+END
+icon.asy
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/icon.asy
+END
+icon.v
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/icon.v
+END
+ila.xco
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/ila.xco
+END
+ila.veo
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/ila.veo
+END
+ila.cdc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/ila.cdc
+END
+icon.ncf
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/icon.ncf
+END
+icon.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/icon.ngc
+END
+ila.asy
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/ila.asy
+END
+u2_core.v
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/airblue/!svn/ver/320/trunk/modules/airblue/usrp2/u2_core.v
+END
+my_serdes_rx.v
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/airblue/!svn/ver/320/trunk/modules/airblue/usrp2/my_serdes_rx.v
+END
+ila.v
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/ila.v
+END
+my_serdes_tx.v
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/airblue/!svn/ver/320/trunk/modules/airblue/usrp2/my_serdes_tx.v
+END
+ila.ncf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/ila.ncf
+END
+ila.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/airblue/!svn/ver/322/trunk/modules/airblue/usrp2/ila.ngc
+END
+fifo_in_32_out_16.v
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/airblue/!svn/ver/320/trunk/modules/airblue/usrp2/fifo_in_32_out_16.v
+END

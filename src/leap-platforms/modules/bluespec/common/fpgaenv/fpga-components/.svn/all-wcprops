@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components
+END
+RegFileCF.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/RegFileCF.bsv
+END
+FpgaMemoryHasim.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/FpgaMemoryHasim.bsv
+END
+fp_sqrt.v
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_sqrt.v
+END
+fp_cvt_i_to_s.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_i_to_s.ngc
+END
+fp_add.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_add.ngc
+END
+xilinx.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/xilinx.sdc
+END
+Bram.v
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/Bram.v
+END
+user-clock-sim.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-sim.bsv
+END
+FAST_BRAM.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/FAST_BRAM.bsv
+END
+fp_mul.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_mul.ngc
+END
+shiftreg-sim.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/shiftreg-sim.bsv
+END
+lutram.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/lutram.bsv
+END
+user-clock-altera-arriaII.v
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-altera-arriaII.v
+END
+user-clock.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock.bsv
+END
+fp_cvt_i_to_d.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_i_to_d.v
+END
+FAST_BRAM.v
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/FAST_BRAM.v
+END
+fp_cvt_d_to_i.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_d_to_i.ngc
+END
+shiftreg.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/shiftreg.bsv
+END
+user-clock-altera.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-altera.bsv
+END
+fp_cmp.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cmp.v
+END
+lutram.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/lutram.v
+END
+user-clock-xilinx.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-xilinx.bsv
+END
+bram.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/bram.bsv
+END
+bram-multi-read.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/bram-multi-read.bsv
+END
+fp_div.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_div.v
+END
+fp_cvt_s_to_d.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_s_to_d.v
+END
+fp_cvt_d_to_s.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_d_to_s.ngc
+END
+clock-buffers.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/clock-buffers.bsv
+END
+shiftreg.v
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/shiftreg.v
+END
+fp_cvt_i_to_s.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_i_to_s.v
+END
+fp_add.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_add.v
+END
+hardware-fpga-components-arriaII.awb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/hardware-fpga-components-arriaII.awb
+END
+alu-support.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/alu-support.bsv
+END
+fp_sqrt.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_sqrt.ngc
+END
+user-clock-pll.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-pll.bsv
+END
+user-clock-xilinx-virtex2.v
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-xilinx-virtex2.v
+END
+fp_mul.v
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_mul.v
+END
+floating-point-accel.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/floating-point-accel.bsv
+END
+clock_gen.v
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/clock_gen.v
+END
+user-clock-xilinx-virtex5.v
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-xilinx-virtex5.v
+END
+clock-buffers.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/clock-buffers.v
+END
+clock_import.v
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/clock_import.v
+END
+user-clock-pll-virtex5.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-pll-virtex5.bsv
+END
+xilinx.xcf
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/xilinx.xcf
+END
+floating-point-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/floating-point-import.bsv
+END
+clock-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/clock-import.bsv
+END
+user-clock-mmcm-virtex6.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-mmcm-virtex6.bsv
+END
+bscan-virtex5.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/bscan-virtex5.v
+END
+FpgaMemory.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/FpgaMemory.bsv
+END
+software-fpga-components.awb
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/software-fpga-components.awb
+END
+fp_cvt_d_to_i.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_d_to_i.v
+END
+fp_cvt_i_to_d.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_i_to_d.ngc
+END
+hardware-fpga-components-virtex2.awb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/hardware-fpga-components-virtex2.awb
+END
+user-clock-pll-virtex5.v
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-pll-virtex5.v
+END
+RegFileCF.c
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/RegFileCF.c
+END
+hardware-fpga-components-virtex5.awb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/hardware-fpga-components-virtex5.awb
+END
+user-clock-mmcm-virtex6.v
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/user-clock-mmcm-virtex6.v
+END
+hardware-fpga-components-virtex6.awb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/hardware-fpga-components-virtex6.awb
+END
+fp_cmp.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cmp.ngc
+END
+fp_cvt_d_to_s.v
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_d_to_s.v
+END
+fp_div.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_div.ngc
+END
+fp_cvt_s_to_d.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/fpga-components/fp_cvt_s_to_d.ngc
+END

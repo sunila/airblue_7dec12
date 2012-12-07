@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/verilog
+END
+i2c_master_byte_ctrl.v
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/verilog/i2c_master_byte_ctrl.v
+END
+i2c_master_defines.v
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/verilog/i2c_master_defines.v
+END
+timescale.v
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/verilog/timescale.v
+END
+i2c_master_bit_ctrl.v
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/verilog/i2c_master_bit_ctrl.v
+END
+i2c_master_top.v
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/verilog/i2c_master_top.v
+END

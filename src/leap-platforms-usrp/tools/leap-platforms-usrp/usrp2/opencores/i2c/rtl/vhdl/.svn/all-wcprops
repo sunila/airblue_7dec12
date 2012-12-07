@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/vhdl
+END
+i2c_master_byte_ctrl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/vhdl/i2c_master_byte_ctrl.vhd
+END
+i2c_master_bit_ctrl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/vhdl/i2c_master_bit_ctrl.vhd
+END
+i2c_master_top.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/vhdl/i2c_master_top.vhd
+END
+tst_ds1621.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/vhdl/tst_ds1621.vhd
+END
+I2C.VHD
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/vhdl/I2C.VHD
+END
+readme
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/i2c/rtl/vhdl/readme
+END

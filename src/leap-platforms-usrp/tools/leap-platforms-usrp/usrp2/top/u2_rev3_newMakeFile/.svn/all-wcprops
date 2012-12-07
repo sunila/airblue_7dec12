@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_newMakeFile
+END
+u2_rev3.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_newMakeFile/u2_rev3.ucf
+END
+u2_core.v
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_newMakeFile/u2_core.v
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_newMakeFile/.gitignore
+END
+u2_rev3.v
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_newMakeFile/u2_rev3.v
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/top/u2_rev3_newMakeFile/Makefile
+END

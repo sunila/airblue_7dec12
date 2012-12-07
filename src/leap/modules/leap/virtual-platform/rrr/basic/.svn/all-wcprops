@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic
+END
+rrr-dummy.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/rrr-dummy.cpp
+END
+basic-rrr-client.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/basic-rrr-client.cpp
+END
+basic-rrr-server.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/basic-rrr-server.bsv
+END
+arbiters.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/arbiters.bsv
+END
+rrr-dummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/rrr-dummy.h
+END
+basic-rrr-common.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/basic-rrr-common.bsh
+END
+basic-rrr-client.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/basic-rrr-client.h
+END
+hw-only-rrr.awb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/hw-only-rrr.awb
+END
+basic-rrr-client.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/basic-rrr-client.bsv
+END
+basic-rrr-server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/basic-rrr-server.cpp
+END
+basic-rrr.awb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/basic-rrr.awb
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/README
+END
+basic-rrr-server.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/basic/basic-rrr-server.h
+END

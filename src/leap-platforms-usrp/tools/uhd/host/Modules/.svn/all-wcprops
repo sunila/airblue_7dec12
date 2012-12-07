@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/Modules
+END
+UHDPython.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/Modules/UHDPython.cmake
+END
+UHDComponent.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/Modules/UHDComponent.cmake
+END
+FindGit.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/Modules/FindGit.cmake
+END
+UHDVersion.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/Modules/UHDVersion.cmake
+END
+FindDocutils.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/Modules/FindDocutils.cmake
+END
+FindUSB1.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/Modules/FindUSB1.cmake
+END
+UHDPackage.cmake
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/Modules/UHDPackage.cmake
+END

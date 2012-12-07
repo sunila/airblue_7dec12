@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/rrr-common
+END
+marshaller.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/rrr-common/marshaller.bsv
+END
+rrr-common.awb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/rrr-common/rrr-common.awb
+END
+demarshaller.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/rrr-common/demarshaller.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/rrr/rrr-common/README
+END

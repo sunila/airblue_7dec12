@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/airblue/!svn/ver/276/trunk/modules/airblue/PhyOnly_Loopback/WiFi
+END
+WiFiFPGAPacketGenWiresTest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/airblue/!svn/ver/276/trunk/modules/airblue/PhyOnly_Loopback/WiFi/WiFiFPGAPacketGenWiresTest.bsv
+END
+airblue_wifi_phyonly_loopback.awb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/airblue/!svn/ver/276/trunk/modules/airblue/PhyOnly_Loopback/WiFi/airblue_wifi_phyonly_loopback.awb
+END
+Transceiver.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/276/trunk/modules/airblue/PhyOnly_Loopback/WiFi/Transceiver.bsv
+END

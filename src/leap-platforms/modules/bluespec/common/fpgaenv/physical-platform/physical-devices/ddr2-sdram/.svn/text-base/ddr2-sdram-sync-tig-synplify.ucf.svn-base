@@ -1,0 +1,39 @@
+############################################################################
+# Ignore Timing Violations at Sync FIFOs                                   #
+############################################################################
+
+## Un-comment these lines if you see timing violations at Sync FIFOs that
+## you're sure wouldn't cause any problems
+
+# SyncFIFO: syncReadDataQ
+
+#NET "*_ddr2_sdram_device_*_syncReadDataQ_dD_OUT[*]"     TIG;
+NET "*_ddr2_sdram_device_*_syncReadDataQ/dGDeqPtr[*]"   TIG;
+NET "*_ddr2_sdram_device_*_syncReadDataQ/dGDeqPtr1[*]"  TIG;
+NET "*_ddr2_sdram_device_*_syncReadDataQ/sGEnqPtr[*]"   TIG;
+NET "*_ddr2_sdram_device_*_syncReadDataQ/sGEnqPtr1[*]"  TIG;
+
+
+# SyncFIFO: syncRequestQ
+
+#NET "*_ddr2_sdram_device_*_syncRequestQ_dD_OUT[*]"      TIG;
+NET "*_ddr2_sdram_device_*_syncRequestQ/dGDeqPtr[*]"    TIG;
+NET "*_ddr2_sdram_device_*_syncRequestQ/dGDeqPtr1[*]"   TIG;
+NET "*_ddr2_sdram_device_*_syncRequestQ/sGEnqPtr[*]"    TIG;
+NET "*_ddr2_sdram_device_*_syncRequestQ/sGEnqPtr1[*]"   TIG;
+
+# SyncFIFOLevel: syncWriteDataQ
+
+#NET "*_ddr2_sdram_device_*_syncWriteDataQ_dD_OUT[*]"    TIG;
+NET "*_ddr2_sdram_device_*_syncWriteDataQ/dGDeqPtr[*]"  TIG;
+NET "*_ddr2_sdram_device_*_syncWriteDataQ/dGDeqPtr1[*]" TIG;
+NET "*_ddr2_sdram_device_*_syncWriteDataQ/sGEnqPtr[*]"  TIG;
+NET "*_ddr2_sdram_device_*_syncWriteDataQ/sGEnqPtr1[*]" TIG;
+
+# SyncFIFOLevel: syncResetQ
+
+NET "*_ddr2_sdram_device_*_syncResetQ/dGDeqPtr[*]"  TIG;
+NET "*_ddr2_sdram_device_*_syncResetQ/dGDeqPtr1[*]" TIG;
+NET "*_ddr2_sdram_device_*_syncResetQ/sGEnqPtr[*]"  TIG;
+
+NET "*_ddr2_sdram_device_*_syncResetQ/sGEnqPtr1[*]" TIG;

@@ -1,0 +1,14 @@
+#/********************************************************************
+#* Generic FPGA build pipeline
+#********************************************************************/
+
+%name multiFPGA Log Generation
+%desc FPGA Build Pipeline
+%attributes tool
+
+%provides multi_fpga_log_generator
+%requires fpga_environment_parser
+
+%scons %library tool.py
+
+

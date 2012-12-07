@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/standard
+END
+standard-shared-memory-server.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/standard/standard-shared-memory-server.cpp
+END
+standard-shared-memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/standard/standard-shared-memory.h
+END
+standard-shared-memory.awb
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/standard/standard-shared-memory.awb
+END
+standard-shared-memory.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/standard/standard-shared-memory.bsv
+END
+standard-shared-memory-server.h
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/standard/standard-shared-memory-server.h
+END
+standard-shared-memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/standard/standard-shared-memory.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/standard/README
+END
+standard-shared-memory.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/shared-memory/standard/standard-shared-memory.rrr
+END

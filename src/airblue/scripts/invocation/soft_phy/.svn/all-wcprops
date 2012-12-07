@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/airblue/!svn/ver/225/trunk/scripts/invocation/soft_phy
+END
+soft_phy_bucket.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/airblue/!svn/ver/215/trunk/scripts/invocation/soft_phy/soft_phy_bucket.pl
+END
+soft_phy_bucket_half.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/215/trunk/scripts/invocation/soft_phy/soft_phy_bucket_half.pl
+END
+soft_phy_packet.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/airblue/!svn/ver/225/trunk/scripts/invocation/soft_phy/soft_phy_packet.pl
+END

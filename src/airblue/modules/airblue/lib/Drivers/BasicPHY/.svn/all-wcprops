@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/lib/Drivers/BasicPHY
+END
+rxtx.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/lib/Drivers/BasicPHY/rxtx.cpp
+END
+rxtx.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/lib/Drivers/BasicPHY/rxtx.h
+END
+rxtx.awb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/lib/Drivers/BasicPHY/rxtx.awb
+END

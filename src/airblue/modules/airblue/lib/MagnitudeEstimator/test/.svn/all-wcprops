@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/airblue/!svn/ver/41/trunk/modules/airblue/lib/MagnitudeEstimator/test
+END
+MagnitudeEstimatorTest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/airblue/!svn/ver/41/trunk/modules/airblue/lib/MagnitudeEstimator/test/MagnitudeEstimatorTest.bsv
+END
+airblue_magnitude_estimator_test.awb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/airblue/!svn/ver/41/trunk/modules/airblue/lib/MagnitudeEstimator/test/airblue_magnitude_estimator_test.awb
+END

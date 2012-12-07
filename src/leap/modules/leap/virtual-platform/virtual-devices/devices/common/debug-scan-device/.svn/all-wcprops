@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/debug-scan-device
+END
+debug-scan-device.dic
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/debug-scan-device/debug-scan-device.dic
+END
+debug-scan-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/debug-scan-device/debug-scan-device.cpp
+END
+debug-scan-device.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/debug-scan-device/debug-scan-device.rrr
+END
+debug-scan-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/debug-scan-device/debug-scan-device.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/debug-scan-device/README
+END
+debug-scan-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/debug-scan-device/debug-scan-device.awb
+END
+debug-scan-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/debug-scan-device/debug-scan-device.bsv
+END

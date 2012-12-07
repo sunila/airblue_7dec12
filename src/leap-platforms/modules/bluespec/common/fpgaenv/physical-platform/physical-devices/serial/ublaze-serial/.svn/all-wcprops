@@ -1,0 +1,251 @@
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial
+END
+lmb_bram_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/lmb_bram_wrapper.ngc
+END
+bramfeeder_0_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/bramfeeder_0_wrapper.ngc
+END
+xps_bram_if_cntlr_1_bram_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 173
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/xps_bram_if_cntlr_1_bram_wrapper.ngc
+END
+FIFOL1.v
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/FIFOL1.v
+END
+FIFOL2.v
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/FIFOL2.v
+END
+clock_generator_0_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/clock_generator_0_wrapper.ngc
+END
+dlmb_cntlr_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/dlmb_cntlr_wrapper.ngc
+END
+proc_sys_reset_0_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/proc_sys_reset_0_wrapper.ngc
+END
+FIFO10.v
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/FIFO10.v
+END
+ilmb_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/ilmb_wrapper.ngc
+END
+system.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/system.ngc
+END
+system_stub.bmm
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/system_stub.bmm
+END
+rs232_uart_1_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/rs232_uart_1_wrapper.ngc
+END
+system.bmm
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/system.bmm
+END
+bramfeeder.v
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/bramfeeder.v
+END
+mb_plb_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/mb_plb_wrapper.ngc
+END
+debug_module_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/debug_module_wrapper.ngc
+END
+serial-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/serial-device.h
+END
+system_bd.bmm
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/system_bd.bmm
+END
+FIFOL10.v
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/FIFOL10.v
+END
+serial-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/serial-device.bsv
+END
+microblaze_0_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/microblaze_0_wrapper.ngc
+END
+serial-device-ublaze-synplify.awb
+K 25
+svn:wc:ra_dav:version-url
+V 170
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/serial-device-ublaze-synplify.awb
+END
+bramfeeder_0_wrapper.v
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/bramfeeder_0_wrapper.v
+END
+firmware.elf
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/firmware.elf
+END
+xps_bram_if_cntlr_1_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 168
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/xps_bram_if_cntlr_1_wrapper.ngc
+END
+serial.v
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/serial.v
+END
+dlmb_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/dlmb_wrapper.ngc
+END
+system_stub.v
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/system_stub.v
+END
+mkBRAMFeeder.v
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/mkBRAMFeeder.v
+END
+system.v
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/system.v
+END
+serial-device-ublaze-tig.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 165
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/serial-device-ublaze-tig.ucf
+END
+FIFO20.v
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/FIFO20.v
+END
+ilmb_cntlr_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/ilmb_cntlr_wrapper.ngc
+END
+serial-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/serial-device.cpp
+END
+serial-device-ublaze.awb
+K 25
+svn:wc:ra_dav:version-url
+V 161
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/serial-device-ublaze.awb
+END
+serial-device-ublaze-tig-synplify.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 174
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/serial-device-ublaze-tig-synplify.ucf
+END
+system.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/system.vhd
+END
+FIFOL20.v
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/FIFOL20.v
+END
+FIFO1.v
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/FIFO1.v
+END
+FIFO2.v
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/serial/ublaze-serial/FIFO2.v
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/physicalPlatform
+END
+altera-arriaIIgx_dev-jtag.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/physicalPlatform/altera-arriaIIgx_dev-jtag.bsv
+END
+altera-arriaIIgx_dev-jtag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/physicalPlatform/altera-arriaIIgx_dev-jtag.cpp
+END
+altera-arriaIIgx_dev-jtag.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/physicalPlatform/altera-arriaIIgx_dev-jtag.h
+END
+altera-arriaIIgx_dev-jtag.awb
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/physicalPlatform/altera-arriaIIgx_dev-jtag.awb
+END

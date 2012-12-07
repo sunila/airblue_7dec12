@@ -1,0 +1,13 @@
+Source: leap-platforms-usrp
+Section: devel
+Priority: optional
+Maintainer: Joel Emer <emer@csail.mit.edu>
+Build-Depends: debhelper (>= 7), autotools-dev
+Standards-Version: 3.7.2
+
+Package: leap-platforms-usrp
+Architecture: all
+Depends: leap-platforms
+Description: Leap infrastructure for usrp platform
+ Leap infrastructure for usrp platform used by airblue
+Section: devel

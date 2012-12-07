@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib
+END
+device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/device.cpp
+END
+wax.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/wax.cpp
+END
+version.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/version.cpp
+END
+constants.hpp.in
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/constants.hpp.in
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/CMakeLists.txt
+END

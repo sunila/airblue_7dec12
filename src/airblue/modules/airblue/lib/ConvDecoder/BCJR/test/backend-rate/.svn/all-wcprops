@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/252/trunk/modules/airblue/lib/ConvDecoder/BCJR/test/backend-rate
+END
+SoftPhyPacketBackend.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/airblue/!svn/ver/252/trunk/modules/airblue/lib/ConvDecoder/BCJR/test/backend-rate/SoftPhyPacketBackend.bsv
+END
+rate-driver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/airblue/!svn/ver/252/trunk/modules/airblue/lib/ConvDecoder/BCJR/test/backend-rate/rate-driver.cpp
+END
+airblue_soft_phy_rate_backend.awb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/airblue/!svn/ver/252/trunk/modules/airblue/lib/ConvDecoder/BCJR/test/backend-rate/airblue_soft_phy_rate_backend.awb
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/remote-memory/null
+END
+null-remote-memory.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/remote-memory/null/null-remote-memory.h
+END
+null-remote-memory.awb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/remote-memory/null/null-remote-memory.awb
+END
+null-remote-memory.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/remote-memory/null/null-remote-memory.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/remote-memory/null/README
+END

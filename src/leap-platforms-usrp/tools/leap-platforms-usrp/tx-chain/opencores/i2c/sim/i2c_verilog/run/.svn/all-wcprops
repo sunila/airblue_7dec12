@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/i2c/sim/i2c_verilog/run
+END
+ncverilog.key
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/i2c/sim/i2c_verilog/run/ncverilog.key
+END
+run
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/i2c/sim/i2c_verilog/run/run
+END
+bench.vcd
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/i2c/sim/i2c_verilog/run/bench.vcd
+END

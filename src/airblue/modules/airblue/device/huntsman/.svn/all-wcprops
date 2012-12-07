@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/airblue/!svn/ver/391/trunk/modules/airblue/device/huntsman
+END
+Board.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/Board.bsv
+END
+scaler.awb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/scaler.awb
+END
+AD.dic
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/AD.dic
+END
+Huntsman.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/Huntsman.h
+END
+AGC.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/AGC.bsv
+END
+gct_frontend.awb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/gct_frontend.awb
+END
+Power.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/Power.bsv
+END
+gain_control.awb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/gain_control.awb
+END
+huntsman-platform.apm
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/huntsman-platform.apm
+END
+GCT.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/GCT.cpp
+END
+board_control.awb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/board_control.awb
+END
+Scaler.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/airblue/!svn/ver/157/trunk/modules/airblue/device/huntsman/Scaler.bsv
+END
+GCT.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/GCT.h
+END
+GCT.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/GCT.bsv
+END
+HuntsmanDevice.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/HuntsmanDevice.bsv
+END
+analog_digital.awb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/analog_digital.awb
+END
+rf-driver.awb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/rf-driver.awb
+END
+airblue_device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/airblue_device.awb
+END
+OutOfBand.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/airblue/!svn/ver/157/trunk/modules/airblue/device/huntsman/OutOfBand.bsv
+END
+AD.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/AD.bsv
+END
+Huntsman.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/Huntsman.cpp
+END
+gct-driver.awb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/airblue/!svn/ver/165/trunk/modules/airblue/device/huntsman/gct-driver.awb
+END

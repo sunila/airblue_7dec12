@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/airblue/!svn/ver/264/trunk/config/bm/ofdm
+END
+ber_check.cfx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/airblue/!svn/ver/251/trunk/config/bm/ofdm/ber_check.cfx
+END
+soft_phy.cfx
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/airblue/!svn/ver/264/trunk/config/bm/ofdm/soft_phy.cfx
+END

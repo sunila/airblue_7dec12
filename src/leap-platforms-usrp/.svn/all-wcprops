@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/Makefile.in
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/configure.in
+END
+changes
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/changes
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/Makefile.am
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/aclocal.m4
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/stats-device
+END
+stats-device.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/stats-device/stats-device.rrr
+END
+stats-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/stats-device/stats-device.h
+END
+stats-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/stats-device/stats-device.awb
+END
+stats-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/stats-device/stats-device.bsv
+END
+stats-device.dic
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/stats-device/stats-device.dic
+END
+stats-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/stats-device/stats-device.cpp
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/stats-device/README
+END

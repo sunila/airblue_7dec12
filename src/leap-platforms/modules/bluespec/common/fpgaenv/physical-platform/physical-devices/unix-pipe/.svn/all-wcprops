@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/unix-pipe
+END
+unix-pipe-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/unix-pipe/unix-pipe-device.h
+END
+unix-pipe-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/unix-pipe/unix-pipe-device.awb
+END
+unix-pipe-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/unix-pipe/unix-pipe-device.bsv
+END
+unix-pipe-device-bdpi.c
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/unix-pipe/unix-pipe-device-bdpi.c
+END
+unix-pipe-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/unix-pipe/unix-pipe-device.cpp
+END
+unix-pipe-device-bdpi.h
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/unix-pipe/unix-pipe-device-bdpi.h
+END

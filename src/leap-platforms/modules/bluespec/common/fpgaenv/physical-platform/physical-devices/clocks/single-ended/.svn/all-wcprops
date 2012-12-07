@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/single-ended
+END
+single-ended-clocks-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/single-ended/single-ended-clocks-device.awb
+END
+single-ended-clocks-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/single-ended/single-ended-clocks-device.bsv
+END
+single-ended-clocks-device.v
+K 25
+svn:wc:ra_dav:version-url
+V 164
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/single-ended/single-ended-clocks-device.v
+END
+single-ended-clocks-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 166
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/single-ended/single-ended-clocks-import.bsv
+END

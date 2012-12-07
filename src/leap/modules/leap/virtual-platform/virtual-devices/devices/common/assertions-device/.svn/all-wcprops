@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/assertions-device
+END
+assertions-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/assertions-device/assertions-device.awb
+END
+assertions-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/assertions-device/assertions-device.bsv
+END
+assertions-device.dic
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/assertions-device/assertions-device.dic
+END
+assertions-device.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/assertions-device/assertions-device.cpp
+END
+assertions-device.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/assertions-device/assertions-device.rrr
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/assertions-device/README
+END
+assertions-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/assertions-device/assertions-device.h
+END

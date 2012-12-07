@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/airblue/!svn/ver/388/trunk/modules/airblue/lib/ShiftRegs/src
+END
+ShiftRegsNew.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/388/trunk/modules/airblue/lib/ShiftRegs/src/ShiftRegsNew.bsv
+END
+airblue_shift_regs_new.awb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/airblue/!svn/ver/319/trunk/modules/airblue/lib/ShiftRegs/src/airblue_shift_regs_new.awb
+END
+ShiftRegs.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/ShiftRegs/src/ShiftRegs.bsv
+END
+airblue_shift_regs.awb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/49/trunk/modules/airblue/lib/ShiftRegs/src/airblue_shift_regs.awb
+END

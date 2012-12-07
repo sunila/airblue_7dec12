@@ -1,0 +1,123 @@
+10
+
+dir
+34
+https://asim.csail.mit.edu/svn/leap-platforms-usrp/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores
+https://asim.csail.mit.edu/svn/leap-platforms-usrp
+
+
+
+2011-03-21T18:38:25.159199Z
+3
+mcn02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+751fde84-ef8c-429c-bd22-514f4c0f7ffb
+
+aemb
+dir
+
+simple_pic
+dir
+
+Makefile.srcs
+file
+
+
+
+
+2012-11-05T18:26:42.522316Z
+a19d8a5f7ce1776f44b5a051fa25db3e
+2011-03-21T18:38:25.159199Z
+3
+mcn02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1047
+
+simple_gpio
+dir
+
+wb_zbt
+dir
+
+spi
+dir
+
+8b10b
+dir
+
+i2c
+dir
+
+README
+file
+
+
+
+
+2012-11-05T18:26:42.522316Z
+42561792b689a0169fe7aa34a847c3e1
+2011-03-21T18:38:25.159199Z
+3
+mcn02
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+529
+
+spi_boot
+dir
+
+zpu
+dir
+

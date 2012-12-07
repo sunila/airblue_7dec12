@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/airblue/!svn/ver/398/trunk/debian
+END
+control
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/airblue/!svn/ver/391/trunk/debian/control
+END
+compat
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/airblue/!svn/ver/391/trunk/debian/compat
+END
+changelog
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/airblue/!svn/ver/398/trunk/debian/changelog
+END
+copyright
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/airblue/!svn/ver/391/trunk/debian/copyright
+END
+rules
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/airblue/!svn/ver/398/trunk/debian/rules
+END
+README.Debian
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/airblue/!svn/ver/391/trunk/debian/README.Debian
+END

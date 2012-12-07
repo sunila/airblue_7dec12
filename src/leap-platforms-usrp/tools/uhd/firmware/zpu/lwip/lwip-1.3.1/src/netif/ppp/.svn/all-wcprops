@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp
+END
+ppp.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/ppp.c
+END
+ipcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/ipcp.h
+END
+auth.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/auth.c
+END
+randm.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/randm.c
+END
+ppp.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/ppp.h
+END
+auth.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/auth.h
+END
+randm.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/randm.h
+END
+chpms.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/chpms.c
+END
+chap.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/chap.c
+END
+pppdebug.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/pppdebug.h
+END
+vjbsdhdr.h
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/vjbsdhdr.h
+END
+lcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/lcp.c
+END
+chpms.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/chpms.h
+END
+vj.c
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/vj.c
+END
+magic.c
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/magic.c
+END
+chap.h
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/chap.h
+END
+pap.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/pap.c
+END
+ppp_oe.c
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/ppp_oe.c
+END
+lcp.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/lcp.h
+END
+vj.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/vj.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/md5.c
+END
+magic.h
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/magic.h
+END
+fsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/fsm.c
+END
+pap.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/pap.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/md5.h
+END
+fsm.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/fsm.h
+END
+ipcp.c
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/firmware/zpu/lwip/lwip-1.3.1/src/netif/ppp/ipcp.c
+END

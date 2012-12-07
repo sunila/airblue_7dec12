@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/vico-headers
+END
+vico-headers.awb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/vico-headers/vico-headers.awb
+END
+scemi_errors.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/vico-headers/scemi_errors.h
+END
+vico_be_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/vico-headers/vico_be_lib.h
+END
+vico_fw.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/vico-headers/vico_fw.h
+END
+scemi.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/vico-headers/scemi.h
+END
+vico_rrr_layer.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/vico-headers/vico_rrr_layer.h
+END
+vico_extra.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/vico-headers/vico_extra.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/vico-headers/README
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog
+END
+aeMB_core.v
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/aeMB_core.v
+END
+aeMB_edk32.v
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/aeMB_edk32.v
+END
+aeMB_sim.v
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/aeMB_sim.v
+END
+aeMB_bpcu.v
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/aeMB_bpcu.v
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/.gitignore
+END
+aeMB_core_BE.v
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/aeMB_core_BE.v
+END
+aeMB_regf.v
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/aeMB_regf.v
+END
+aeMB_ctrl.v
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/aeMB_ctrl.v
+END
+aeMB_xecu.v
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/aeMB_xecu.v
+END
+aeMB_ibuf.v
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/aemb/rtl/verilog/aeMB_ibuf.v
+END

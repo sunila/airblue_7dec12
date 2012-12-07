@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/airblue/!svn/ver/394/trunk/modules/airblue/lib/ConvDecoder/BCJR/src
+END
+airblue_bcjr_alpha_init.awb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/airblue/!svn/ver/159/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/airblue_bcjr_alpha_init.awb
+END
+BackwardPath.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/394/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/BackwardPath.bsv
+END
+ForwardPathAlphaInit.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/airblue/!svn/ver/394/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/ForwardPathAlphaInit.bsv
+END
+airblue_bcjr_half.awb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/airblue/!svn/ver/176/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/airblue_bcjr_half.awb
+END
+DecisionUnit.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/176/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/DecisionUnit.bsv
+END
+DecisionUnitForwardHalf.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/airblue/!svn/ver/176/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/DecisionUnitForwardHalf.bsv
+END
+BCJR.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/394/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/BCJR.bsv
+END
+ForwardPath.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/airblue/!svn/ver/159/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/ForwardPath.bsv
+END
+airblue_bcjr.awb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/159/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/airblue_bcjr.awb
+END
+BCJRGamma.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/airblue/!svn/ver/151/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/BCJRGamma.bsv
+END
+BCJRParams.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/airblue/!svn/ver/394/trunk/modules/airblue/lib/ConvDecoder/BCJR/src/BCJRParams.bsv
+END

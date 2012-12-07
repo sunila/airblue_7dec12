@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests
+END
+wax_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/wax_test.cpp
+END
+subdev_spec_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/subdev_spec_test.cpp
+END
+warning_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/warning_test.cpp
+END
+time_spec_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/time_spec_test.cpp
+END
+buffer_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/buffer_test.cpp
+END
+tune_helper_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/tune_helper_test.cpp
+END
+addr_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/addr_test.cpp
+END
+vrt_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/vrt_test.cpp
+END
+ranges_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/ranges_test.cpp
+END
+convert_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/convert_test.cpp
+END
+dict_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/dict_test.cpp
+END
+module_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/module_test.cpp
+END
+error_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/error_test.cpp
+END
+gain_group_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/gain_group_test.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/CMakeLists.txt
+END
+byteswap_test.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/tests/byteswap_test.cpp
+END

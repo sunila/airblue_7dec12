@@ -1,0 +1,1726 @@
+
+----------
+mcn02       Date: Wed May 16 16:49:36 EDT 2007  CSN: CSN-ofdm-3
+                  Wed May 16 20:49:36 UTC 2007
+
+
+Directory modules/ofdm
+ README                    Locally Modified            2 
+
+add ofdm bsv files
+----------
+mcn02       Date: Wed May 16 16:54:27 EDT 2007  CSN: CSN-ofdm-4
+                  Wed May 16 20:54:27 UTC 2007
+
+
+Directory config/pm/ofdm
+ wimax_testbench.apm       Locally Added               0 
+ wifi_testbench.apm        Locally Added               0 
+
+Directory modules/ofdm
+ ofdm_wimax_tx_controller.awb Locally Added               0 
+ FFTIFFT.bsv               Locally Added               0 
+ ofdm_wimax_model.awb      Locally Added               0 
+ DemapperTest.bsv          Locally Added               0 
+ ShiftRegs.bsv             Locally Added               0 
+ ofdm_pilot_insert.awb     Locally Added               0 
+ ChannelEstimatorTest.bsv  Locally Added               0 
+ Depuncturer.bsv           Locally Added               0 
+ ofdm_fft.awb              Locally Added               0 
+ ofdm_interleaver.awb      Locally Added               0 
+ ConvEncoder.bsv           Locally Added               0 
+ ReedDecoderTest.bsv       Locally Added               0 
+ ofdm_cp_insert.awb        Locally Added               0 
+ ReceiverPreFFT.bsv        Locally Added               0 
+ PilotInsert.bsv           Locally Added               0 
+ EHRReg.bsv                Locally Added               0 
+ ofdm_wifi_encoder.awb     Locally Added               0 
+ BRAM.bsv                  Locally Added               0 
+ WiFiParameters.bsv        Locally Added               0 
+ ofdm_depuncturer.awb      Locally Added               0 
+ Puncturer.bsv             Locally Added               0 
+ ofdm_reed_decoder.awb     Locally Added               0 
+ WiFiPreambles.bsv         Locally Added               0 
+ WiFiTransmitterTest.bsv   Locally Added               0 
+ Synchronizer.bsv          Locally Added               0 
+ DataTypes.bsv             Locally Added               0 
+ FixedPointLibrary.bsv     Locally Added               0 
+ ofdm_scrambler.awb        Locally Added               0 
+ StreamFIFOTest.bsv        Locally Added               0 
+ Decoder.bsv               Locally Added               0 
+ SParams.bsv               Locally Added               0 
+ WiMAXParameters.bsv       Locally Added               0 
+ RandomGen.bsv             Locally Added               0 
+ Transmitter.bsv           Locally Added               0 
+ FFTIFFT_Library.bsv       Locally Added               0 
+ InterleaverTest.bsv       Locally Added               0 
+ Permute.bsv               Locally Added               0 
+ Descrambler.bsv           Locally Added               0 
+ BRAMFIFOTest.bsv          Locally Added               0 
+ CPInsertTest.bsv          Locally Added               0 
+ ofdm_viterbi.awb          Locally Added               0 
+ FFTIFFTTest.bsv           Locally Added               0 
+ Pipelines.bsv             Locally Added               0 
+ ofdm_wimax_parameters.awb Locally Added               0 
+ Demapper.bsv              Locally Added               0 
+ LibraryFunctions.bsv      Locally Added               0 
+ WiFiEncoder.bsv           Locally Added               0 
+ Makefile.top.template     Locally Added               0 
+ ofdm_transmitter.awb      Locally Added               0 
+ DepuncturerTest.bsv       Locally Added               0 
+ WiMAXTXController.bsv     Locally Added               0 
+ ReedDecoder.bsv           Locally Added               0 
+ ofdm_descrambler.awb      Locally Added               0 
+ ofdm_wimax_encoder.awb    Locally Added               0 
+ Scrambler.bsv             Locally Added               0 
+ WiMAXDecoder.bsv          Locally Added               0 
+ PilotInsertTest.bsv       Locally Added               0 
+ IViterbi.bsv              Locally Added               0 
+ WiFiPreambles.txt         Locally Added               0 
+ Traceback.bsv             Locally Added               0 
+ WiMAXPreambles.bsv        Locally Added               0 
+ Makefile.include.template Locally Added               0 
+ ComplexLibrary.bsv        Locally Added               0 
+ StreamFIFO.bsv            Locally Added               0 
+ ofdm_wifi_parameters.awb  Locally Added               0 
+ WiMAXTweakedPacket.txt    Locally Added               0 
+ CPInsertTest2.bsv         Locally Added               0 
+ Unserializer.bsv          Locally Added               0 
+ ofdm_deinterleaver.awb    Locally Added               0 
+ WiFiTXController.bsv      Locally Added               0 
+ ReedTest.bsv              Locally Added               0 
+ ReedEncoderTest.bsv       Locally Added               0 
+ ofdm_demapper.awb         Locally Added               0 
+ BRAMFIFO.bsv              Locally Added               0 
+ CPInsert.bsv              Locally Added               0 
+ Pipeline2.bsv             Locally Added               0 
+ ofdm_wifi_rx_controller.awb Locally Added               0 
+ ofdm_wifi_tx_controller.awb Locally Added               0 
+ ofdm_reed_encoder.awb     Locally Added               0 
+ WiMAXPacket.txt           Locally Added               0 
+ ofdm_wifi_model.awb       Locally Added               0 
+ CORDIC.bsv                Locally Added               0 
+ Controls.bsv              Locally Added               0 
+ WiMAXRXController.bsv     Locally Added               0 
+ WiMAXPreambles.txt        Locally Added               0 
+ Arith.bsv                 Locally Added               0 
+ ScramblerTest.bsv         Locally Added               0 
+ ReceiverPreDescrambler.bsv Locally Added               0 
+ Encoder.bsv               Locally Added               0 
+ WiMAXTransmitterTest.bsv  Locally Added               0 
+ SynchronizerLibrary.bsv   Locally Added               0 
+ ofdm_channel_estimator.awb Locally Added               0 
+ Makefile                  Locally Added               0 
+ Makefile.sub.template     Locally Added               0 
+ VectorLibrary.bsv         Locally Added               0 
+ ofdm_conv_encoder.awb     Locally Added               0 
+ Viterbi.bsv               Locally Added               0 
+ Receiver.bsv              Locally Added               0 
+ ofdm_wifi_decoder.awb     Locally Added               0 
+ ofdm_mapper.awb           Locally Added               0 
+ Preambles.bsv             Locally Added               0 
+ WiFiRXController.bsv      Locally Added               0 
+ UnserializerTest.bsv      Locally Added               0 
+ ReedEncoder.bsv           Locally Added               0 
+ WiFiTweakedPacket.txt     Locally Added               0 
+ Mapper.bsv                Locally Added               0 
+ Transceiver.bsv           Locally Added               0 
+ WiMAXEncoder.bsv          Locally Added               0 
+ FIFOD.bsv                 Locally Added               0 
+ FPComplex.bsv             Locally Added               0 
+ ChannelEstimator.bsv      Locally Added               0 
+ Parameters.bsv            Locally Added               0 
+ ConvEncoderTest.bsv       Locally Added               0 
+ ofdm_common.awb           Locally Added               0 
+ ofdm_synchronizer.awb     Locally Added               0 
+ WiFiDecoder.bsv           Locally Added               0 
+ PuncturerTest.bsv         Locally Added               0 
+ ofdm_receiver.awb         Locally Added               0 
+ FParams.bsv               Locally Added               0 
+ DeinterleaverTest.bsv     Locally Added               0 
+ WiMAXTransceiver.bsv      Locally Added               0 
+ SynchronizerTest.bsv      Locally Added               0 
+ ofdm_wimax_decoder.awb    Locally Added               0 
+ Preambles.txt             Locally Added               0 
+ ofdm_wimax_preambles.awb  Locally Added               0 
+ VRegFile.bsv              Locally Added               0 
+ ViterbiTest.bsv           Locally Added               0 
+ WiFiTransceiver.bsv       Locally Added               0 
+ VParams.bsv               Locally Added               0 
+ ofdm_puncturer.awb        Locally Added               0 
+ WiFiPacket.txt            Locally Added               0 
+ ofdm_ifft.awb             Locally Added               0 
+ ofdm_wifi_preambles.awb   Locally Added               0 
+ Interleaver.bsv           Locally Added               0 
+ ofdm_serial_to_parallel.awb Locally Added               0 
+ Interfaces.bsv            Locally Added               0 
+ MapperTest.bsv            Locally Added               0 
+ SystemTest.bsv            Locally Added               0 
+ ofdm_wimax_rx_controller.awb Locally Added               0 
+
+add bsv files
+----------
+mcn02       Date: Thu May 17 01:04:21 EDT 2007  CSN: CSN-ofdm-5
+                  Thu May 17 05:04:21 UTC 2007
+
+
+Directory config/pm/ofdm
+ wimax_testbench.apm       Locally Modified            4 
+ wifi_testbench.apm        Locally Modified            4 
+
+Directory modules/ofdm
+ FFTIFFT.bsv               Locally Modified            4 
+ ofdm_wimax_model.awb      Locally Removed             4 
+ Depuncturer.bsv           Locally Modified            4 
+ ofdm_fft.awb              Locally Modified            4 
+ ConvEncoder.bsv           Locally Modified            4 
+ PilotInsert.bsv           Locally Modified            4 
+ WiFiParameters.bsv        Locally Modified            4 
+ Puncturer.bsv             Locally Modified            4 
+ WiFiPreambles.bsv         Locally Modified            4 
+ Synchronizer.bsv          Locally Modified            4 
+ DataTypes.bsv             Locally Removed             4 
+ Types.bsv                 Locally Added               0 
+ SParams.bsv               Locally Modified            4 
+ WiMAXParameters.bsv       Locally Modified            4 
+ Transmitter.bsv           Locally Modified            4 
+ FFTIFFT_Library.bsv       Locally Modified            4 
+ ofdm_wimax_system.awb     Locally Added               0 
+ ofdm_arith_library.awb    Locally Added               0 
+ Permute.bsv               Locally Modified            4 
+ ofdm_data_types.awb       Locally Added               0 
+ Descrambler.bsv           Locally Modified            4 
+ ofdm_viterbi.awb          Locally Modified            4 
+ Demapper.bsv              Locally Modified            4 
+ LibraryFunctions.bsv      Locally Modified            4 
+ WiFiEncoder.bsv           Locally Modified            4 
+ Makefile.top.template     Locally Removed             4 
+ WiMAXTXController.bsv     Locally Modified            4 
+ ReedDecoder.bsv           Locally Modified            4 
+ ofdm_descrambler.awb      Locally Modified            4 
+ Scrambler.bsv             Locally Modified            4 
+ WiMAXDecoder.bsv          Locally Modified            4 
+ IViterbi.bsv              Locally Modified            4 
+ Traceback.bsv             Locally Modified            4 
+ WiMAXPreambles.bsv        Locally Modified            4 
+ Makefile.include.template Locally Removed             4 
+ StreamFIFO.bsv            Locally Modified            4 
+ ofdm_interfaces.awb       Locally Added               0 
+ ofdm_controls_types.awb   Locally Added               0 
+ Unserializer.bsv          Locally Modified            4 
+ WiFiTXController.bsv      Locally Modified            4 
+ BRAMFIFO.bsv              Locally Modified            4 
+ Pipeline2.bsv             Locally Modified            4 
+ CPInsert.bsv              Locally Modified            4 
+ ofdm_types.awb            Locally Added               0 
+ WiMAXRXController.bsv     Locally Modified            4 
+ Controls.bsv              Locally Removed             4 
+ CORDIC.bsv                Locally Modified            4 
+ SynchronizerLibrary.bsv   Locally Modified            4 
+ Makefile.sub.template     Locally Removed             4 
+ ofdm_base.awb             Locally Added               0 
+ Receiver.bsv              Locally Modified            4 
+ Viterbi.bsv               Locally Modified            4 
+ WiFiRXController.bsv      Locally Modified            4 
+ ReedEncoder.bsv           Locally Modified            4 
+ ofdm_types                Locally Added               0 
+ Mapper.bsv                Locally Modified            4 
+ WiMAXEncoder.bsv          Locally Modified            4 
+ FIFOD.bsv                 Locally Modified            4 
+ FPComplex.bsv             Locally Modified            4 
+ ChannelEstimator.bsv      Locally Modified            4 
+ ofdm_common.awb           Locally Modified            4 
+ ofdm_synchronizer.awb     Locally Modified            4 
+ WiFiDecoder.bsv           Locally Modified            4 
+ ofdm_wifi_system.awb      Locally Added               0 
+ FParams.bsv               Locally Modified            4 
+ WiMAXTransceiver.bsv      Locally Modified            4 
+ WiFiTransceiver.bsv       Locally Modified            4 
+ VParams.bsv               Locally Modified            4 
+ ofdm_ifft.awb             Locally Modified            4 
+ Interleaver.bsv           Locally Modified            4 
+ Interfaces.bsv            Locally Removed             4 
+
+newest version
+----------
+mcn02       Date: Thu May 17 15:48:27 EDT 2007  CSN: CSN-ofdm-6
+                  Thu May 17 19:48:27 UTC 2007
+
+
+Directory config/pm/ofdm
+ wifi_testbench.apm        Locally Modified            5 
+
+Directory modules/ofdm
+ FFTIFFT.bsv               Locally Modified            5 
+ ofdm_fft.awb              Locally Removed             5 
+ Deinterleaver.bsv         Locally Added               0 
+ Synchronizer.bsv          Locally Modified            5 
+ ofdm_viterbi_core.awb     Locally Added               0 
+ ofdm_fftifft_params.bsv   Locally Added               0 
+ Decoder.bsv               Locally Removed             5 
+ ofdm_synchronizer_library.awb Locally Added               0 
+ Transmitter.bsv           Locally Modified            5 
+ FFTIFFT_Library.bsv       Locally Modified            5 
+ Descrambler.bsv           Locally Modified            5 
+ ofdm_synchronizer_params.awb Locally Added               0 
+ ofdm_viterbi.awb          Locally Modified            5 
+ ofdm_descrambler.awb      Locally Modified            5 
+ ofdm_fftifft.awb          Locally Added               0 
+ IViterbi.bsv              Locally Modified            5 
+ ofdm_fftifft_params.awb   Locally Added               0 
+ Traceback.bsv             Locally Modified            5 
+ ofdm_viterbi_traceback.awb Locally Added               0 
+ ofdm_deinterleaver.awb    Locally Modified            5 
+ ofdm_wifi_model.awb       Locally Removed             5 
+ Encoder.bsv               Locally Removed             5 
+ SynchronizerLibrary.bsv   Locally Modified            5 
+ ofdm_fftifft_library.awb  Locally Added               0 
+ Receiver.bsv              Locally Modified            5 
+ Viterbi.bsv               Locally Modified            5 
+ Preambles.bsv             Locally Removed             5 
+ ofdm_types                Locally Removed             5 
+ ofdm_viterbi_memory.awb   Locally Added               0 
+ ofdm_viterbi_params.awb   Locally Added               0 
+ Parameters.bsv            Locally Removed             5 
+ ofdm_synchronizer.awb     Locally Modified            5 
+ IFFT.bsv                  Locally Added               0 
+ ofdm_receiver.awb         Locally Modified            5 
+ ofdm_ifft.awb             Locally Modified            5 
+ Interleaver.bsv           Locally Modified            5 
+
+
+----------
+mcn02       Date: Sat May 19 17:48:35 EDT 2007  CSN: CSN-ofdm-7
+                  Sat May 19 21:48:35 UTC 2007
+
+
+Directory config/pm/ofdm
+ wimax_testbench.apm       Locally Modified            6 
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified            6 
+ WiMAXTransceiver.bsv      Locally Modified            6 
+
+some update
+----------
+mcn02       Date: Sun May 20 22:26:31 EDT 2007  CSN: CSN-ofdm-8
+                  Mon May 21 02:26:31 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified            7 
+
+
+
+----------
+mcn02       Date: Mon May 21 13:35:59 EDT 2007  CSN: CSN-ofdm-9
+                  Mon May 21 17:35:59 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified            8 
+
+
+----------
+mcn02       Date: Mon May 21 14:14:28 EDT 2007  CSN: CSN-ofdm-10
+                  Mon May 21 18:14:28 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified            9 
+
+
+----------
+mcn02       Date: Mon May 21 16:23:54 EDT 2007  CSN: CSN-ofdm-11
+                  Mon May 21 20:23:54 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified           10 
+
+
+
+----------
+mcn02       Date: Mon May 21 16:59:09 EDT 2007  CSN: CSN-ofdm-12
+                  Mon May 21 20:59:09 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified           11 
+
+
+
+----------
+mcn02       Date: Mon May 21 20:18:07 EDT 2007  CSN: CSN-ofdm-13
+                  Tue May 22 00:18:07 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified           12 
+ WiFiParameters.bsv        Locally Modified           11 
+ Descrambler.bsv           Locally Modified           11 
+ Types.bsv                 Locally Modified           11 
+
+
+
+----------
+mcn02       Date: Mon May 21 20:29:29 EDT 2007  CSN: CSN-ofdm-14
+                  Tue May 22 00:29:29 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified           13 
+
+
+
+----------
+mcn02       Date: Mon May 21 21:25:01 EDT 2007  CSN: CSN-ofdm-15
+                  Tue May 22 01:25:01 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified           14 
+
+
+----------
+mcn02       Date: Mon May 21 21:27:03 EDT 2007  CSN: CSN-ofdm-16
+                  Tue May 22 01:27:03 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified           15 
+
+
+----------
+mcn02       Date: Tue May 22 02:04:47 EDT 2007  CSN: CSN-ofdm-17
+                  Tue May 22 06:04:47 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiRXController.bsv      Locally Modified           16 
+ WiFiTransceiver.bsv       Locally Modified           16 
+
+
+
+----------
+mcn02       Date: Tue May 22 18:33:18 EDT 2007  CSN: CSN-ofdm-18
+                  Tue May 22 22:33:18 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiTXController.bsv      Locally Modified           16 
+ WiFiRXController.bsv      Locally Modified           17 
+ WiFiDecoder.bsv           Locally Modified           16 
+ WiFiTransceiver.bsv       Locally Modified           17 
+
+
+----------
+mcn02       Date: Tue May 22 21:07:17 EDT 2007  CSN: CSN-ofdm-19
+                  Wed May 23 01:07:17 UTC 2007
+
+
+Directory modules/ofdm
+ WiMAXParameters.bsv       Locally Modified           17 
+ WiFiRXController.bsv      Locally Modified           18 
+ WiFiParameters.bsv        Locally Modified           17 
+ WiFiTransceiver.bsv       Locally Modified           18 
+
+working wifi
+----------
+mcn02       Date: Wed May 23 11:59:36 EDT 2007  CSN: CSN-ofdm-20
+                  Wed May 23 15:59:36 UTC 2007
+
+
+Directory modules/ofdm
+ WiFiTXController.bsv      Locally Modified           18 
+ WiMAXParameters.bsv       Locally Modified           19 
+ WiFiParameters.bsv        Locally Modified           19 
+ ofdm_wifi_parameters.awb  Locally Modified           18 
+ WiFiPreambles.bsv         Locally Modified           18 
+
+Directory config/pm/ofdm
+ wifi_testbench.apm        Locally Modified           18 
+
+parameterized working verson
+----------
+mcn02       Date: Wed May 23 16:21:37 EDT 2007  CSN: CSN-ofdm-21
+                  Wed May 23 20:21:37 UTC 2007
+
+
+Directory config/pm/ofdm
+ wifi_testbench.apm        Locally Modified           20 
+
+Directory modules/ofdm
+ ofdm_wifi_parameters.awb  Locally Modified           20 
+
+what did i update?
+----------
+mcn02       Date: Wed May 23 17:44:19 EDT 2007  CSN: CSN-ofdm-22
+                  Wed May 23 21:44:19 UTC 2007
+
+
+Directory modules/ofdm
+ reed_solomon/             Locally Added               0 
+
+Directory modules/ofdm/reed_solomon
+ build/                    Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build
+ output/                   Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build/output
+ uncorrupted.dat           Locally Added               0 
+ info_4.dat                Locally Added               0 
+ input_100.dat             Locally Added               0 
+ test.dat                  Locally Added               0 
+ a.out                     Locally Added               0 
+ input_2.dat               Locally Added               0 
+ corrupted_new.dat         Locally Added               0 
+ input2.dat                Locally Added               0 
+ input_3.dat               Locally Added               0 
+ input_4.dat               Locally Added               0 
+ input_6.dat               Locally Added               0 
+ CVS/                      Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build/output/CVS
+ Repository                Locally Added               0 
+ Root                      Locally Added               0 
+ Entries                   Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build/output
+ last16error.dat           Locally Added               0 
+ newtrial.dat              Locally Added               0 
+ corrupted_1.dat           Locally Added               0 
+ error.dat                 Locally Added               0 
+ trial_3blocks.dat         Locally Added               0 
+ gftest.dat                Locally Added               0 
+ trial_4blocks.dat         Locally Added               0 
+ uncorrupted_3.dat         Locally Added               0 
+ uncorrupted_4.dat         Locally Added               0 
+ input.dat                 Locally Added               0 
+ output.dat                Locally Added               0 
+ syn                       Locally Added               0 
+ test_enc.dat              Locally Added               0 
+ corrupted.dat             Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build
+ enc-par/                  Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build/enc-par
+ Makefile                  Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build
+ dc-synth/                 Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build/dc-synth
+ Makefile                  Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build
+ bsv/                      Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build/bsv
+ Makefile                  Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build
+ bsc-compile/              Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build/bsc-compile
+ Makefile                  Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/build
+ Makefile                  Locally Added               0 
+
+Directory modules/ofdm/reed_solomon
+ src/                      Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src
+ bluespec/                 Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src/bluespec
+ mkTestBench.bsv           Locally Added               0 
+ file_interface.cpp        Locally Added               0 
+ Arith.bsv                 Locally Added               0 
+ RealReedDecoder.bsv       Locally Added               0 
+ ofdm_real_reed_decoder.awb Locally Added               0 
+ ErrorCorrector.bsv        Locally Added               0 
+ SyndromeParallel.bsv      Locally Added               0 
+ mkReedSolomon.bsv         Locally Added               0 
+ IReedSolomon.bsv          Locally Added               0 
+ Berlekamp.bsv             Locally Added               0 
+ ReedTypes.bsv             Locally Added               0 
+ ChienErrMag.bsv           Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src
+ software/                 Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src/software
+ matlab.mat                Locally Added               0 
+ matlab_input.dat          Locally Added               0 
+ output.dat                Locally Added               0 
+ input_2.dat               Locally Added               0 
+ matlab_input_withparity.dat Locally Added               0 
+ CVS/                      Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src/software/CVS
+ Repository                Locally Added               0 
+ Root                      Locally Added               0 
+ Entries                   Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src/software
+ ccode/                    Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src/software/ccode
+ rs256                     Locally Added               0 
+ a.out                     Locally Added               0 
+ encmsg_rev                Locally Added               0 
+ diff.cpp                  Locally Added               0 
+ preproc.cpp               Locally Added               0 
+ rs256.c                   Locally Added               0 
+ berl_old.cpp              Locally Added               0 
+ chien_errmag.cpp          Locally Added               0 
+ chien_errmag1             Locally Added               0 
+ berl.cpp                  Locally Added               0 
+ berl_2                    Locally Added               0 
+ chien_errmag2             Locally Added               0 
+ gfarith.cpp               Locally Added               0 
+ input.dat                 Locally Added               0 
+ reedsolomon.cpp           Locally Added               0 
+ chien.cpp                 Locally Added               0 
+ encmsg                    Locally Added               0 
+ gfmult_old.c              Locally Added               0 
+ berlmsg2                  Locally Added               0 
+ synmsg                    Locally Added               0 
+ syndrome.cpp              Locally Added               0 
+ berl_old                  Locally Added               0 
+ chien_errmag              Locally Added               0 
+ berl                      Locally Added               0 
+ gfmult_elaborated.out     Locally Added               0 
+ '                         Locally Added               0 
+ chien                     Locally Added               0 
+ reedsolomon               Locally Added               0 
+ GNUmakefile               Locally Added               0 
+ err_correct.cpp           Locally Added               0 
+ syn1                      Locally Added               0 
+ syn2                      Locally Added               0 
+ CVS/                      Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src/software/ccode/CVS
+ Repository                Locally Added               0 
+ Root                      Locally Added               0 
+ Entries                   Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src/software/ccode
+ berlmsg                   Locally Added               0 
+ syn3                      Locally Added               0 
+ syndrome                  Locally Added               0 
+ berl_prev.cpp             Locally Added               0 
+ berl1                     Locally Added               0 
+ berl2                     Locally Added               0 
+ chien1                    Locally Added               0 
+ chien2                    Locally Added               0 
+ syn                       Locally Added               0 
+ gfarith.h                 Locally Added               0 
+ rs256_new.c               Locally Added               0 
+
+Directory modules/ofdm/reed_solomon/src/software
+ test_rs.m                 Locally Added               0 
+ file_rs.m                 Locally Added               0 
+
+
+----------
+mcn02       Date: Thu May 24 11:45:33 EDT 2007  CSN: CSN-ofdm-23
+                  Thu May 24 15:45:33 UTC 2007
+
+
+Directory config/pm/ofdm
+ wimax_testbench.apm       Locally Modified           22 
+ wifi_testbench.apm        Locally Modified           22 
+
+Directory modules/ofdm
+ Depuncturer.bsv           Locally Modified           22 
+ WiFiParameters.bsv        Locally Modified           22 
+ Puncturer.bsv             Locally Modified           22 
+
+Directory modules/ofdm/reed_solomon/src/bluespec
+ Arith.bsv                 Locally Modified           22 
+ RealReedDecoder.bsv       Locally Modified           22 
+ ofdm_real_reed_decoder.awb Locally Modified           22 
+ ErrorCorrector.bsv        Locally Modified           22 
+ SyndromeParallel.bsv      Locally Modified           22 
+ mkReedSolomon.bsv         Locally Modified           22 
+ IReedSolomon.bsv          Locally Modified           22 
+ Berlekamp.bsv             Locally Modified           22 
+ ChienErrMag.bsv           Locally Modified           22 
+
+Directory modules/ofdm
+ WiMAXParameters.bsv       Locally Modified           22 
+ ofdm_wimax_parameters.awb Locally Modified           22 
+ WiMAXTXController.bsv     Locally Modified           22 
+ ofdm_wifi_parameters.awb  Locally Modified           22 
+ FIFOD.bsv                 Locally Modified           22 
+
+hi
+----------
+mcn02       Date: Thu May 24 12:10:56 EDT 2007  CSN: CSN-ofdm-24
+                  Thu May 24 16:10:56 UTC 2007
+
+
+Directory config/pm/ofdm
+ prebuilt_wifi_testbench.apm Locally Added               0 
+
+
+----------
+mcn02       Date: Thu May 24 14:03:59 EDT 2007  CSN: CSN-ofdm-25
+                  Thu May 24 18:03:59 UTC 2007
+
+
+Directory config/pm/ofdm
+ prebuilt_wifi_testbench.apm Locally Modified           24 
+
+Directory modules/ofdm/reed_solomon/src/bluespec
+ ofdm_reed_types.awb       Locally Added               0 
+ ofdm_reed_arith.awb       Locally Added               0 
+ ofdm_reed_decoder_core.awb Locally Added               0 
+ ofdm_reed_commom.awb      Locally Added               0 
+
+add some files
+----------
+mcn02       Date: Thu May 24 15:17:52 EDT 2007  CSN: CSN-ofdm-26
+                  Thu May 24 19:17:52 UTC 2007
+
+
+Directory modules/ofdm
+ WiMAXParameters.bsv       Locally Modified           24 
+ WiMAXTXController.bsv     Locally Modified           24 
+ WiMAXRXController.bsv     Locally Modified           24 
+
+some mods
+----------
+mcn02       Date: Thu May 24 21:27:27 EDT 2007  CSN: CSN-ofdm-27
+                  Fri May 25 01:27:27 UTC 2007
+
+
+Directory modules/ofdm
+ WiMAXParameters.bsv       Locally Modified           26 
+ WiMAXTransceiver.bsv      Locally Modified           25 
+ WiMAXTXController.bsv     Locally Modified           26 
+ WiMAXRXController.bsv     Locally Modified           26 
+
+Directory config/pm/ofdm
+ wimax_testbench.apm       Locally Modified           25 
+
+
+----------
+mcn02       Date: Thu May 24 21:35:02 EDT 2007  CSN: CSN-ofdm-28
+                  Fri May 25 01:35:02 UTC 2007
+
+
+Directory modules/ofdm
+ WiMAXParameters.bsv       Locally Modified           27 
+
+
+----------
+mcn02       Date: Thu May 24 22:50:36 EDT 2007  CSN: CSN-ofdm-29
+                  Fri May 25 02:50:36 UTC 2007
+
+
+Directory config/pm/ofdm
+ wimax_testbench.apm       Locally Modified           28 
+
+Directory modules/ofdm
+ WiMAXTransceiver.bsv      Locally Modified           28 
+
+wimax
+----------
+mcn02       Date: Fri May 25 06:49:14 EDT 2007  CSN: CSN-ofdm-30
+                  Fri May 25 10:49:14 UTC 2007
+
+
+Directory modules/ofdm
+ WiMAXParameters.bsv       Locally Modified           28 
+ Synchronizer.bsv          Locally Modified           28 
+ WiMAXDecoder.bsv          Locally Modified           28 
+ SynchronizerTest.bsv      Locally Modified           28 
+ WiMAXPreambles.bsv        Locally Modified           28 
+
+Directory modules/ofdm/reed_solomon/src/bluespec
+ RealReedDecoder.bsv       Locally Modified           28 
+
+Directory modules/ofdm
+ WiMAXRXController.bsv     Locally Modified           28 
+
+
+----------
+mcn02       Date: Fri May 25 09:56:22 EDT 2007  CSN: CSN-ofdm-31
+                  Fri May 25 13:56:22 UTC 2007
+
+
+Directory modules/ofdm
+ WiMAXParameters.bsv       Locally Modified           30 
+ WiMAXTransceiver.bsv      Locally Modified           29 
+
+
+----------
+mcn02       Date: Fri May 25 13:41:12 EDT 2007  CSN: CSN-ofdm-32
+                  Fri May 25 17:41:12 UTC 2007
+
+
+Directory modules/ofdm
+ WiMAXParameters.bsv       Locally Modified           31 
+
+correct a typo in WiMAXParameters
+----------
+emer        Date: Sun Jun  8 11:29:04 EDT 2008  CSN: CSN-ofdm-34
+                  Sun Jun  8 15:29:04 UTC 2008
+
+
+Directory config/pm/ofdm
+ prebuilt_wifi_testbench.apm Locally Modified           33 
+ wimax_testbench.apm       Locally Modified           33 
+ wifi_testbench.apm        Locally Modified           33 
+
+Directory modules/ofdm
+ WiMAXTransceiver.bsv      Locally Modified           33 
+ WiFiTransceiver.bsv       Locally Modified           33 
+
+Accomodate moved/changed model foundation. There are, however, 
+still build problems.
+
+----------
+mcn02       Date: Sun Feb 21 02:40:47 EST 2010  CSN: CSN-ofdm-86
+                  Sun Feb 21 07:40:47 UTC 2010
+
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_phy_only_loopback_exe.apm Locally Modified           85 
+
+Directory modules/airblue/Phy/WiFi/rx
+ airblue_receiver.awb      Locally Modified           85 
+ RXController.bsv          Locally Modified           85 
+ WiFiReceiver.bsv          Locally Modified           85 
+
+Directory modules/airblue/parameters/WiFi
+ airblue_wifi_parameters.awb Locally Modified           85 
+ Macros.bsv                Locally Removed            85 
+
+Directory modules/airblue/lib/ConvDecoder/BCJR/src
+ DecisionUnit.bsv          Locally Modified           85 
+ BCJR.bsv                  Locally Modified           85 
+ airblue_bcjr.awb          Locally Modified           85 
+ Macros.bsv                Locally Removed            85 
+
+Directory modules/airblue/lib/ConvDecoder/Viterbi/src
+ airblue_viterbi.awb       Locally Modified           85 
+ TracebackUnit.bsv         Locally Modified           85 
+ Macros.bsv                Locally Removed            85 
+ Viterbi.bsv               Locally Modified           85 
+
+Directory modules/airblue/lib/ConvDecoder/common/src
+ VParams.bsv               Locally Modified           85 
+ airblue_convolutional_decoder_common.awb Locally Modified           85 
+ Macros.bsv                Locally Removed            85 
+
+Directory modules/airblue/lib/Types
+ airblue_types.awb         Locally Modified           85 
+ DataTypes.bsv             Locally Modified           85 
+ Macros.bsv                Locally Removed            85 
+
+Remove the Macros.bsv hack for providing soft phy hints. Now we have two alternatives, one with soft hints and one without
+
+----------
+kfleming    Date: Sun Feb 21 17:02:59 EST 2010  CSN: CSN-ofdm-87
+                  Sun Feb 21 22:02:59 UTC 2010
+
+
+Directory experiments
+ ofdm-nightly/             Locally Added               0 
+
+Directory experiments/ofdm-nightly
+ regression/               Locally Added               0 
+
+Directory experiments/ofdm-nightly/regression
+ regression.models         Locally Added               0 
+ regression.benchmarks     Locally Added               0 
+
+Directory experiments
+ ofdm-pipelines/           Locally Added               0 
+
+Directory experiments/ofdm-pipelines
+ regression/               Locally Added               0 
+
+Directory experiments/ofdm-pipelines/regression
+ regression.models         Locally Added               0 
+ regression.benchmarks     Locally Added               0 
+
+Added new regression targets
+
+----------
+kfleming    Date: Sun Feb 21 21:27:04 EST 2010  CSN: CSN-ofdm-88
+                  Mon Feb 22 02:27:04 UTC 2010
+
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_mac_phy_loopback_exe.apm Locally Modified           87 
+
+Directory modules/airblue/Phy/WiFi
+ airblue_wifi_phy.awb      Locally Modified           87 
+
+Directory modules/airblue/lib/PacketGen/src
+ airblue_mac_packet_gen.awb Locally Modified           87 
+
+Directory modules/airblue/MACPhy_Loopback/WiFi
+ airblue_wifi_mac_phy_loopback.awb Locally Modified           87 
+
+Directory modules/airblue/PhyOnly_Loopback/WiFi
+ airblue_wifi_phyonly_loopback.awb Locally Modified           87 
+
+
+Mac test now builds
+
+----------
+kfleming    Date: Sun Feb 21 21:28:39 EST 2010  CSN: CSN-ofdm-88
+                  Mon Feb 22 02:28:39 UTC 2010
+
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_mac_phy_loopback_exe.apm Locally Modified           87 
+
+Directory admin
+ mytags                    Locally Modified           87 
+
+Directory admin/packages
+ ofdm                      Locally Modified           87 
+
+Directory modules/airblue/Phy/WiFi
+ airblue_wifi_phy.awb      Locally Modified           87 
+
+Directory modules/airblue/lib/PacketGen/src
+ airblue_mac_packet_gen.awb Locally Modified           87 
+
+Directory modules/airblue/MACPhy_Loopback/WiFi
+ airblue_wifi_mac_phy_loopback.awb Locally Modified           87 
+
+Directory modules/airblue/PhyOnly_Loopback/WiFi
+ airblue_wifi_phyonly_loopback.awb Locally Modified           87 
+
+Directory .
+ changes                   Locally Modified           87 
+
+MAC pipeline now builds
+
+----------
+mcn02       Date: Mon Feb 22 21:37:23 EST 2010  CSN: CSN-ofdm-89
+                  Tue Feb 23 02:37:23 UTC 2010
+
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_mac_phy_loopback_exe.apm Locally Modified           88 
+ airblue_wifi_phy_only_loopback_exe.apm Locally Modified           88 
+
+Directory config/pm/ofdm/library_tests
+ viterbi_test.apm          Locally Modified           88 
+ mac_crc_test.apm          Locally Modified           88 
+ synchronizer_test.apm     Locally Modified           88 
+ fft_test.apm              Locally Modified           88 
+ channel_estimator_test.apm Locally Modified           88 
+ bcjr_test.apm             Locally Modified           88 
+ inv_sq_root_test.apm      Locally Modified           88 
+
+Directory modules/airblue/MAC/WiFi
+ airblue_mac_with_shim.awb Locally Modified           88 
+ airblue_mac_no_shim.awb   Locally Added               0 
+ BasicSHIM.bsv             Locally Modified           88 
+
+Directory modules/airblue/Phy/WiFi/rx
+ RXControllerSoftHints.bsv Locally Added               0 
+ airblue_receiver_with_soft_hints.awb Locally Added               0 
+ WiFiReceiverSoftHints.bsv Locally Added               0 
+
+Directory modules/airblue/parameters/WiFi
+ BasicMACPhyParameters.bsv Locally Added               0 
+ airblue_wifi_parameters_with_shim.awb Locally Added               - 
+ airblue_wifi_parameters_no_shim.awb Locally Added               0 
+ airblue_wifi_parameters.awb Locally Removed            88 
+
+Directory modules/airblue/lib/ConvDecoder/BCJR/src
+ airblue_bcjr_with_soft_hints.awb Locally Added               0 
+ DecisionUnitSoftHints.bsv Locally Added               0 
+ BCJRSoftHints.bsv         Locally Added               0 
+
+Directory modules/airblue/lib/ConvDecoder/Viterbi/src
+ ViterbiSoftHints.bsv      Locally Added               0 
+ airblue_viterbi_with_soft_hints.awb Locally Added               0 
+ TracebackUnitSoftHints.bsv Locally Added               0 
+
+Directory modules/airblue/lib/ConvDecoder/common/src
+ airblue_convolutional_decoder_common_with_soft_hints.awb Locally Added               0 
+ VParamsSoftHints.bsv      Locally Added               0 
+
+Directory modules/airblue/lib/Synchronizer/test
+ airblue_synchronizer_test.awb Locally Modified           88 
+
+Directory modules/airblue/lib/Types
+ DataTypesSoftHints.bsv    Locally Added               0 
+ airblue_types_with_soft_hints.awb Locally Added               0 
+
+Directory modules/airblue/lib/Channel
+ airblue_channel.awb       Locally Modified           88 
+
+Check in the files required for soft hints. Also now have two MAC versions. One with null SHIM another with concurrent tx SHIM
+
+----------
+kfleming    Date: Tue Feb 23 08:59:59 EST 2010  CSN: CSN-ofdm-90
+                  Tue Feb 23 13:59:59 UTC 2010
+
+
+Directory config/pm/ofdm/library_tests
+ viterbi_test.apm          Locally Modified           89 
+ bcjr_test.apm             Locally Modified           89 
+
+Directory modules/airblue/lib/ConvDecoder/Viterbi/test
+ airblue_viterbi_test.awb  Locally Modified           89 
+
+Directory modules/airblue/lib/ConvDecoder/common/test
+ airblue_convolutional_decoder_test_common.awb Locally Modified           89 
+ ConvolutionalDecoderTest.bsv Locally Modified           89 
+
+
+We can now run bcjr/viterbi tests
+
+----------
+kfleming    Date: Tue Mar 16 00:35:28 EDT 2010  CSN: CSN-ofdm-94
+                  Tue Mar 16 04:35:28 UTC 2010
+
+
+Directory modules/airblue/Phy/WiFi/rx
+ RXController.bsv          Locally Modified           93 
+
+Directory modules/airblue/lib/Common
+ FPComplex.bsv             Locally Modified           93 
+ FixedPointLibrary.bsv     Locally Modified           93 
+
+Directory modules/airblue/lib/ConvDecoder/BCJR/src
+ DecisionUnit.bsv          Locally Modified           93 
+
+Directory modules/airblue/lib/ChannelEstimator/src
+ ChannelEstimator.bsv      Locally Modified           93 
+
+Fixed some ambiguous types.
+
+----------
+kfleming    Date: Sun Mar 21 23:05:30 EDT 2010  CSN: CSN-ofdm-99
+                  Mon Mar 22 03:05:30 UTC 2010
+
+
+Directory modules/airblue/lib/ConvDecoder/BCJR/src
+ BCJRParams.bsv            Locally Modified           97 
+ BCJRForwardPathInit.bsv   Locally Modified           98 
+ airblue_bcjr_alpha_init.awb Locally Modified           98 
+ airblue_bcjr_with_soft_hints.awb Locally Modified           97 
+ BCJR.bsv                  Locally Modified           97 
+ airblue_bcjr.awb          Locally Modified           97 
+ BCJRSoftHints.bsv         Locally Modified           97 
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_phy_only_loopback_exe.apm Locally Modified           97 
+
+Directory config/pm/ofdm/library_tests
+ bcjr_test.apm             Locally Modified           97 
+
+
+Killed some prints, made reversal buffer size a parameter
+
+----------
+kfleming    Date: Wed May 19 10:58:20 EDT 2010  CSN: CSN-ofdm-192
+                  Wed May 19 14:58:20 UTC 2010
+
+
+Directory config/pm/ofdm/submodels
+ huntsman-jtag.apm         Locally Modified          191 
+
+Modifying existing fpgaenvs to have associate build pipelines.
+
+----------
+kfleming    Date: Fri Jul  9 15:55:53 EDT 2010  CSN: CSN-ofdm-256
+                  Fri Jul  9 19:55:53 UTC 2010
+
+
+Directory modules/airblue/lib/HostControl/RRR/CheckBER
+ CheckBERHostControl.cpp   Locally Added               - 
+ SimpleHostControl.cpp     Locally Removed           255 
+ CheckBERHostControl.rrr   Locally Added               - 
+ CheckBERHostControl.h     Locally Added               - 
+ SimpleHostControl.rrr     Locally Removed           255 
+ SimpleHostControl.h       Locally Removed           255 
+ simple_host_control.awb   Locally Modified          255 
+
+Directory modules/airblue/lib/HostControl/Environment
+ check_ber.cpp             Locally Modified          254 
+
+Directory modules/airblue/lib/ConvDecoder/BCJR/test/backend
+ airblue_soft_phy_bucket_backend.awb Locally Modified          254 
+ SoftPhyBucketBackend.bsv  Locally Modified          254 
+
+Directory modules/airblue/lib/ConvDecoder/BCJR/test
+ BCJRTest.bsv              Locally Modified          254 
+
+Directory modules/airblue/lib/ConvDecoder/BCJR/test/backend-packet
+ airblue_soft_phy_packet_backend.awb Locally Modified          254 
+ SoftPhyPacketBackend.bsv  Locally Modified          254 
+
+Directory modules/airblue/lib/ConvDecoder/Viterbi/test
+ ViterbiTest.bsv           Locally Modified          254 
+
+Directory modules/airblue/lib/ConvDecoder/common/test
+ ConvolutionalDecoderTestCommon.bsv Locally Modified          254 
+ ConvolutionalDecoderTest.bsv Locally Modified          254 
+ airblue_convolutional_decoder_backend_common.awb Locally Modified          254 
+ ConvolutionalDecoderTestBackendCommon.bsv Locally Modified          254 
+
+Directory modules/airblue/lib/Channel
+ ChannelRRR.bsv            Locally Modified          254 
+
+Directory modules/airblue/parameters/WiFi
+ ViterbiParameters.bsv     Locally Modified          254 
+
+Directory config/pm/ofdm/library_tests
+ bcjr_test.apm             Locally Modified          254 
+ viterbi_test_softphy_acp.apm Locally Modified          254 
+
+Directory config/pm/ofdm/submodels
+ acp-altera.apm            Locally Modified          254 
+
+Directory config/bm/ofdm
+ soft_phy.cfx              Locally Modified          254 
+
+Refactored the conv decoder tests to permit MCD and synthesis boundaries.
+
+----------
+kfleming    Date: Fri Jul 16 11:12:21 EDT 2010  CSN: CSN-ofdm-257
+                  Fri Jul 16 15:12:21 UTC 2010
+
+
+Directory config/pm/ofdm/submodels
+ acp-altera.apm            Locally Modified          256 
+ huntsman-jtag.apm         Locally Modified          256 
+
+
+Added mcd tool to awb.
+
+----------
+kfleming    Date: Fri Nov  5 15:16:39 EDT 2010  CSN: CSN-ofdm-269
+                  Fri Nov  5 19:16:39 UTC 2010
+
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_phy_rx_exe.apm Locally Added               0 
+
+Directory modules/airblue/device/deviceServices/airblue-service/simulation
+ airblue-service-simulation.bsv Locally Modified          268 
+
+Directory modules/airblue/PhyOnly/WiFi
+ WiFiFPGAPacketGenWiresTest.bsv Locally Modified          268 
+
+Directory modules/airblue/lib/Drivers/ConnectedApp
+ airblue-driver.cpp        Locally Modified          268 
+
+Directory modules/airblue/lib/Drivers
+ RXTraceSimulation/        Locally Added               0 
+
+Directory modules/airblue/lib/Drivers/RXTraceSimulation
+ airblue-driver-rx-simulation.cpp Locally Added               0 
+ airblue-driver-rx-simulation.h Locally Added               0 
+ airblue-driver-rx-simulation.awb Locally Added               0 
+ airblue-driver-rx-simulation.bsv Locally Added               0 
+
+
+
+Added RX only test rig.  This feeds from a captured file.  
+
+----------
+kfleming    Date: Fri Nov  5 15:39:54 EDT 2010  CSN: CSN-ofdm-270
+                  Fri Nov  5 19:39:54 UTC 2010
+
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_phy_rx_exe.apm Locally Modified          269 
+
+
+
+Fixed RX pipeline apm
+
+----------
+kfleming    Date: Mon Dec 20 22:49:36 EST 2010  CSN: CSN-ofdm-282
+                  Tue Dec 21 03:49:36 UTC 2010
+
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_phy_rx_exe.apm Locally Modified          279 
+
+Directory modules/airblue/lib/Drivers/RXTraceSimulation
+ airblue-driver-rx-simulation.cpp Locally Modified          278 
+ airblue-driver-rx-simulation.h Locally Modified          278 
+
+Directory modules/airblue/lib/PacketGen/src/PacketOutput
+ PacketGenRX.h             Locally Modified          278 
+ airblue_phy_packet_gen_rx.awb Locally Modified          278 
+ PacketGenRX.cpp           Locally Modified          278 
+
+
+Re-architected packet processing to the main packet thread.
+
+----------
+kfleming    Date: Thu Dec 23 16:30:01 EST 2010  CSN: CSN-ofdm-284
+                  Thu Dec 23 21:30:01 UTC 2010
+
+
+Directory modules/airblue/MAC/WiFi
+ softMAC/                  Locally Added               0 
+
+Directory modules/airblue/MAC/WiFi/softMAC
+ globalregistry.h          Locally Added               0 
+ packetdissectors.h        Locally Added               0 
+ packet_ieee80211.h        Locally Added               0 
+ macaddr.h                 Locally Added               0 
+ packetsignatures.h        Locally Added               0 
+ util.h                    Locally Added               0 
+ endian_magic.h            Locally Added               0 
+ airblue-softmac.awb       Locally Added               0 
+ packetdissectors.cpp      Locally Added               0 
+ packet.h                  Locally Added               0 
+ util.cpp                  Locally Added               0 
+ packetdissectors.cc       Locally Added               0 
+
+Directory modules/airblue/lib/Drivers/RXTraceSimulation
+ airblue-driver-rx-simulation.cpp Locally Modified          283 
+
+
+
+Added a 802.11 MAC parser in software, and integrated this into the software side parser.
+
+----------
+kfleming    Date: Thu Dec 23 16:56:01 EST 2010  CSN: CSN-ofdm-285
+                  Thu Dec 23 21:56:01 UTC 2010
+
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_phy_rx_exe.apm Locally Modified          284 
+
+Directory modules/airblue/lib/Drivers/RXTraceSimulation
+ airblue-driver-rx-simulation.awb Locally Modified          284 
+
+
+Fixed bugs in main line mac printing.
+
+----------
+kfleming    Date: Thu Jan  6 23:05:10 EST 2011  CSN: CSN-ofdm-286
+                  Fri Jan  7 04:05:10 UTC 2011
+
+
+Directory modules/airblue/lib/PacketGen/src/PacketOutput
+ PacketGenRX.h             Locally Modified          285 
+ PacketGenRX.cpp           Locally Modified          285 
+
+Directory modules/airblue/lib/Drivers/RXTraceSimulation
+ airblue-driver-rx-simulation.cpp Locally Modified          285 
+
+
+Added time out function to PacketGen
+
+----------
+jsemer      Date: Wed Feb 16 12:25:49 EST 2011  CSN: CSN-ofdm-309
+                  Wed Feb 16 17:25:49 UTC 2011
+
+
+Directory config/pm/ofdm/airblue
+ airblue_wifi_phy_only_huntsman.apm Locally Modified          308 
+
+Directory config/pm/ofdm/submodels
+ huntsman-jtag.apm         Locally Modified          308 
+
+Manually fixed the problems with the huntsman .apm files. 
+Fixss are just syntactic - not tested.
+
+----------
+joel        Date: Fri Apr  8 19:57:34 EDT 2011  CSN: CSN-airblue-351
+                  Fri Apr  8 23:57:34 UTC 2011
+
+
+Directory admin/packages
+ airblue                   Locally Added               - 
+ ofdm                      Locally Removed           350 
+
+Some more cleanup to rename the package to be airblue
+rather than ofdm.
+
+----------
+emer        Date: Thu Sep 22 16:38:13 EDT 2011  CSN: CSN-airblue-1
+                  Thu Sep 22 20:38:13 UTC 2011
+
+
+Directory .
+ configure                 Locally Added               0 
+
+Directory debian
+ control                   Locally Added               0 
+ compat                    Locally Added               0 
+ changelog                 Locally Added               0 
+ copyright                 Locally Added               0 
+ rules                     Locally Added               0 
+ README.Debian             Locally Added               0 
+
+Directory .
+ debian/                   Locally Added               0 
+
+Directory aux-scripts
+ missing                   Locally Added               0 
+ install-sh                Locally Added               0 
+
+Directory .
+ aux-scripts/              Locally Added               0 
+ Makefile.in               Locally Added               0 
+
+Directory include
+ config.h.in               Locally Added               0 
+
+Directory .
+ include/                  Locally Added               0 
+ configure.in              Locally Added               0 
+
+Directory modules/airblue/device/huntsman
+ #airblue_device.awb#      Locally Removed           390 
+
+Directory .
+ Makefile.am               Locally Added               0 
+ aclocal.m4                Locally Added               0 
+ ./                        Locally Modified          390 
+
+Added support for building an airblue debian package.
+
+----------
+kfleming    Date: Thu Sep 29 17:00:46 EDT 2011  CSN: CSN-airblue-392
+                  Thu Sep 29 21:00:46 UTC 2011
+
+
+Directory config/pm/airblue/pipelines
+ airblue_wifi_phy_usrp_fixed.apm Locally Modified          391 
+ airblue_wifi_phy_usrp.apm Locally Modified          391 
+ airblue_wifi_phy_loopback.apm Locally Modified          391 
+ airblue_wifi_phy_rx_exe.apm Locally Modified          391 
+ airblue_wifi_phy_rx_xupv5.apm Locally Modified          391 
+
+Directory modules/airblue/device/deviceServices/airblue-service/usrp
+ airblue-service-usrp.bsv  Locally Modified          391 
+
+Directory modules/airblue/Phy/WiFi/rx
+ WiFiReceiver.bsv          Locally Modified          391 
+ Decoder.bsv               Locally Modified          391 
+
+Directory modules/airblue/Phy/WiFi/tx
+ WiFiTransmitter.bsv       Locally Modified          391 
+
+Directory modules/airblue/PhyOnly/WiFi
+ WiFiFPGAPacketGenWiresTest.bsv Locally Modified          391 
+
+Directory modules/airblue/lib/Common
+ Pipeline2.bsv             Locally Modified          391 
+ airblue_common.awb        Locally Modified          391 
+
+Directory modules/airblue/lib/ConvDecoder/Viterbi/src
+ Viterbi.bsv               Locally Modified          391 
+
+Directory modules/airblue/lib/ConvDecoder/common/src
+ ConvDecoder.bsv           Locally Modified          391 
+
+Directory modules/airblue/lib/Synchronizer/src
+ Synchronizer.bsv          Locally Modified          391 
+
+Directory modules/airblue/lib/PacketGen/src
+ PacketGenRRR.bsv          Locally Modified          391 
+ PacketCheckRRR.bsv        Locally Modified          391 
+ PacketGenFixed.bsv        Locally Modified          391 
+ PacketCheckFixed.bsv      Locally Modified          391 
+
+Directory modules/airblue/lib/Unserializer/src
+ Unserializer.bsv          Locally Modified          391 
+
+Directory modules/airblue/lib/Drivers/ConnectedApp
+ airblue-driver.cpp        Locally Modified          391 
+
+Directory modules/airblue/lib/FFT/src
+ FFTIFFT_Library.bsv       Locally Modified          391 
+
+Directory modules/airblue/lib
+ airblue_shared.awb        Locally Modified          391 
+
+
+removed dependency on bsv-libraries, finally
+
+----------
+emer        Date: Thu Sep 29 20:55:05 EDT 2011  CSN: CSN-airblue-393
+                  Fri Sep 30 00:55:05 UTC 2011
+
+
+Directory debian
+ changelog                 Locally Modified          392 
+
+Update debian changelog.
+
+----------
+kfleming    Date: Fri Sep 30 20:56:07 EDT 2011  CSN: CSN-airblue-394
+                  Sat Oct  1 00:56:07 UTC 2011
+
+
+Directory config/pm/airblue
+ debug/                    Locally Removed           393 
+
+Directory config/pm/airblue/debug
+ airblue_wifi_phy_loopback_dynrange.apm Locally Removed           393 
+
+Directory config/pm/airblue/library_tests
+ viterbi_test.apm          Locally Modified          393 
+ soft_phy_rate_test_exe.apm Locally Removed           393 
+ soft_phy_packet_test_viterbi_exe.apm Locally Removed           393 
+ soft_phy_bucket_test_exe_viterbi.apm Locally Removed           393 
+ bcjr_test_arriaII.apm     Locally Removed           393 
+ interleaver_test.apm      Locally Modified          393 
+ soft_phy_packet_test_exe.apm Locally Removed           393 
+ bcjr_test_softphy_half.apm Locally Removed           393 
+ puncturer_test.apm        Locally Modified          393 
+ soft_phy_rate_test_acp.apm Locally Removed           393 
+ soft_phy_bucket_test_exe.apm Locally Removed           393 
+ deinterleaver_test.apm    Locally Modified          393 
+ bcjr_test_softphy.apm     Locally Removed           393 
+ inv_sq_root_test.apm      Locally Modified          393 
+ soft_phy_half_bucket_test_acp.apm Locally Removed           393 
+ soft_phy_bucket_test_acp.apm Locally Removed           393 
+ fft_test.apm              Locally Modified          393 
+ bcjr_test.apm             Locally Modified          393 
+ mac_crc_test.apm          Locally Modified          393 
+ soft_phy_bucket_test_arriaII.apm Locally Removed           393 
+ soft_phy_rate_test_viterbi_exe.apm Locally Removed           393 
+ channel_estimator_test.apm Locally Modified          393 
+ bcjr_test_acp.apm         Locally Removed           393 
+
+Directory config/pm/airblue/pipelines
+ airblue_wifi_phy_loopback_agc.apm Locally Removed           393 
+ airblue_wifi_phy_loopback_softphy.apm Locally Removed           393 
+ airblue_wifi_phy_usrp_fixed.apm Locally Removed           393 
+ airblue_wifi_phy_rx_xupv5_usrp.apm Locally Removed           393 
+ airblue_wifi_phy_loopback_fixed.apm Locally Removed           393 
+ airblue_wifi_phy_usrp_packetgen.apm Locally Removed           393 
+ airblue_wifi_phy_rx_acp.apm Locally Removed           393 
+ airblue_wifi_phy_usrp_packetcheck.apm Locally Removed           393 
+ airblue_wifi_phy_rx_vexe.apm Locally Removed           393 
+ airblue_wifi_phy_usrp_fixed_tx.apm Locally Removed           393 
+
+Directory modules/airblue/lib/ConvDecoder/BCJR/src
+ BackwardPath.bsv          Locally Modified          393 
+ ForwardPathAlphaInit.bsv  Locally Modified          393 
+ BCJR.bsv                  Locally Modified          393 
+ BCJRParams.bsv            Locally Modified          393 
+
+Directory modules/airblue/lib/HostControl/RRR/Simple
+ simple_host_control.awb   Locally Modified          393 
+
+
+Updated Airblue to compile against head of leap, with the ported
+bsv-libraries.  Also, removed unsupported apm from release repository.
+
+
+----------
+kfleming    Date: Sat Oct  1 23:35:05 EDT 2011  CSN: CSN-airblue-396
+                  Sun Oct  2 03:35:05 UTC 2011
+
+
+Directory config/pm/airblue/library_tests
+ bit_stream_fifo_test.apm  Locally Modified          394 
+ synchronizer_test.apm     Locally Modified          394 
+ fft_test.apm              Locally Modified          394 
+ channel_estimator_test.apm Locally Modified          394 
+ bcjr_test.apm             Locally Modified          394 
+ interleaver_test.apm      Locally Modified          394 
+ inv_sq_root_test.apm      Locally Modified          394 
+ viterbi_test.apm          Locally Modified          394 
+ mac_crc_test.apm          Locally Modified          394 
+ puncturer_test.apm        Locally Modified          394 
+ deinterleaver_test.apm    Locally Modified          394 
+
+Directory config/pm/airblue/pipelines
+ airblue_wifi_phy_loopback.apm Locally Modified          394 
+ airblue_wifi_phy_rx_exe.apm Locally Modified          394 
+ airblue_wifi_phy_only_loopback_exe.apm Locally Removed           394 
+
+Directory config/pm/airblue/submodels
+ acp-altera.apm            Locally Removed           394 
+ huntsman-jtag.apm         Locally Removed           394 
+
+Directory config/pm/airblue
+ submodels/                Locally Removed           394 
+
+Directory modules/airblue/Phy/WiFi/fft
+ WiFiFFT.bsv               Locally Modified          394 
+
+Directory modules/airblue/lib/Puncturer/test
+ airblue_puncturer_test.awb Locally Modified          394 
+
+Directory modules/airblue/lib/Common
+ LibraryFunctions.bsv      Locally Modified          394 
+
+Directory modules/airblue/lib/FIFOs/test
+ airblue_bit_stream_fifo_test.awb Locally Modified          394 
+
+Directory modules/airblue/lib
+ CRC/                      Locally Added               0 
+
+Directory modules/airblue/lib/CRC
+ build/                    Locally Added               0 
+
+Directory modules/airblue/lib/CRC/build
+ Makefile                  Locally Added               0 
+
+Directory modules/airblue/lib/CRC
+ test/                     Locally Added               0 
+
+Directory modules/airblue/lib/CRC/test
+ CRCTest.bsv               Locally Added               0 
+ crc_test.awb              Locally Added               0 
+
+Directory modules/airblue/lib/CRC
+ src/                      Locally Added               0 
+
+Directory modules/airblue/lib/CRC/src
+ crc.awb                   Locally Added               0 
+ CRC.bsv                   Locally Added               0 
+
+Directory modules/airblue/lib/FFT/test
+ FFTIFFTTest.bsv           Locally Modified          394 
+ airblue_fft_test.awb      Locally Modified          394 
+
+Directory modules/airblue/lib/Interleaver/test
+ airblue_deinterleaver_test.awb Locally Modified          394 
+ airblue_interleaver_test.awb Locally Modified          394 
+
+Directory modules/airblue/lib/MACCRC/test
+ airblue_mac_crc_test.awb  Locally Modified          394 
+
+Directory modules/airblue/lib/MACCRC/src
+ MACCRC.bsv                Locally Modified          394 
+
+Directory modules/airblue/lib/ChannelEstimator/test
+ airblue_channel_estimator_test.awb Locally Modified          394 
+
+Directory modules/airblue/lib/NewtonRaphson/InverseSqRoot/test
+ airblue_inverse_sq_root_test.awb Locally Modified          394 
+
+
+Unbroke all apms, and can build/run all except fft, which has some
+problem building the import BDPI.  I thought I fixed this issue, but
+maybe I did not.
+
+----------
+kfleming    Date: Sun Oct  2 09:33:14 EDT 2011  CSN: CSN-airblue-397
+                  Sun Oct  2 13:33:14 UTC 2011
+
+
+Directory modules/airblue/lib/FFT/test
+ airblue_fft_test.awb      Locally Modified          396 
+
+
+Fixed missing bas in the airblue test bench.  Now it works. 
+
+
+----------
+kfleming    Date: Sun Oct  2 10:05:16 EDT 2011  CSN: CSN-airblue-398
+                  Sun Oct  2 14:05:16 UTC 2011
+
+
+Directory debian
+ changelog                 Locally Modified          397 
+ rules                     Locally Modified          397 
+
+
+Updated to the 11.12 release. 
+
+----------
+kfleming    Date: Mon Oct  3 10:49:08 EDT 2011  CSN: CSN-airblue-399
+                  Mon Oct  3 14:49:08 UTC 2011
+
+
+Directory config/pm/airblue/pipelines
+ airblue_wifi_phy_loopback.apm Locally Removed           398 
+ airblue_wifi_phy_loopback_exe.apm Locally Added               - 
+
+
+Changed names to fit with general naming scheme. 
+
+----------
+kfleming    Date: Mon Oct  3 10:53:56 EDT 2011  CSN: CSN-airblue-400
+                  Mon Oct  3 14:53:56 UTC 2011
+
+
+Directory config/pm/airblue/library_tests
+ viterbi_test.apm          Locally Removed           399 
+ viterbi_test_exe.apm      Locally Added               - 
+ fft_test.apm              Locally Removed           399 
+ fft_test_exe.apm          Locally Added               - 
+ interleaver_test.apm      Locally Removed           399 
+ bcjr_test.apm             Locally Removed           399 
+ bcjr_test_exe.apm         Locally Added               - 
+ interleaver_test_exe.apm  Locally Added               - 
+ puncturer_test.apm        Locally Removed           399 
+ mac_crc_test.apm          Locally Removed           399 
+ puncturer_test_exe.apm    Locally Added               - 
+ mac_crc_test_exe.apm      Locally Added               - 
+ deinterleaver_test.apm    Locally Removed           399 
+ deinterleaver_test_exe.apm Locally Added               - 
+ bit_stream_fifo_test.apm  Locally Removed           399 
+ synchronizer_test.apm     Locally Removed           399 
+ bit_stream_fifo_test_exe.apm Locally Added               - 
+ synchronizer_test_exe.apm Locally Added               - 
+ channel_estimator_test.apm Locally Removed           399 
+ channel_estimator_test_exe.apm Locally Added               - 
+ inv_sq_root_test.apm      Locally Removed           399 
+ inv_sq_root_test_exe.apm  Locally Added               - 
+
+
+Changed names of library test benches.
+
+----------
+kfleming    Date: Thu Oct 13 23:30:50 EDT 2011  CSN: CSN-airblue-408
+                  Fri Oct 14 03:30:50 UTC 2011
+
+
+Directory config/pm/airblue/pipelines
+ airblue_wifi_phy_rx_stats_usrp.apm Locally Modified          407 
+
+Directory modules/airblue/device/deviceServices/airblue-service/usrp
+ airblue-service-usrp.bsv  Locally Modified          407 
+
+Directory modules/airblue/Phy/WiFi
+ WiFiTransceiver.bsv       Locally Modified          407 
+
+Directory modules/airblue/parameters/WiFi
+ ProtocolParameters.bsv    Locally Modified          407 
+
+Directory modules/airblue/lib/MACCRC/src
+ MACCRCCheck.bsv           Locally Modified          407 
+
+
+Last few release changes.
+
+----------
+kfleming    Date: Tue Nov 15 18:15:50 EST 2011  CSN: CSN-airblue-410
+                  Tue Nov 15 23:15:50 UTC 2011
+
+
+Directory modules/airblue/Phy/WiFi
+ WiFiPhyLoopbackTest.bsv   Locally Modified          409 
+
+Directory modules/airblue/lib/Types
+ airblue_types.awb         Locally Modified          409 
+ Typeclasses.bsv           Locally Added               0 
+ airblue_types_with_soft_hints.awb Locally Modified          409 
+
+Directory modules/airblue/lib/MACCRC/src
+ MACCRCCheck.bsv           Locally Modified          409 
+ MACCRC.bsv                Locally Modified          409 
+ airblue_mac_crc.awb       Locally Modified          409 
+ airblue_crc_checker.awb   Locally Modified          409 
+
+
+Added some parameterization to the CRC checkers by way of a new typeclass.
+
+----------
+kfleming    Date: Fri Nov 25 13:06:57 EST 2011  CSN: CSN-airblue-411
+                  Fri Nov 25 18:06:57 UTC 2011
+
+
+Directory config/pm/airblue/library_tests
+ mac_crc_test_exe.apm      Locally Modified          410 
+
+Directory modules/airblue/parameters/WiFi
+ BasicMACPhyParameters.bsv Locally Modified          410 
+
+Directory modules/airblue/lib/MACCRC/test
+ MACCRCTest.bsv            Locally Modified          410 
+ airblue_mac_crc_test.awb  Locally Modified          410 
+
+Directory modules/airblue/lib/MACCRC/src
+ MACCRC.bsv                Locally Modified          410 
+
+
+Fixed bug in 80211 MAC CRC code - for some reason the encoder was not
+80211 compatible.  I also upgraded the MAC testbenches based on last
+week's parameterization.
+
+----------
+kfleming    Date: Mon Dec 12 17:30:56 EST 2011  CSN: CSN-airblue-412
+                  Mon Dec 12 22:30:56 UTC 2011
+
+
+Directory config/pm/airblue/library_tests
+ viterbi_test_exe.apm      Locally Modified          411 
+ mac_crc_test_exe.apm      Locally Modified          411 
+ puncturer_test_exe.apm    Locally Modified          411 
+ deinterleaver_test_exe.apm Locally Modified          411 
+ bit_stream_fifo_test_exe.apm Locally Modified          411 
+ synchronizer_test_exe.apm Locally Modified          411 
+ channel_estimator_test_exe.apm Locally Modified          411 
+ fft_test_exe.apm          Locally Modified          411 
+ bcjr_test_exe.apm         Locally Modified          411 
+ interleaver_test_exe.apm  Locally Modified          411 
+ inv_sq_root_test_exe.apm  Locally Modified          411 
+
+Directory config/pm/airblue/pipelines
+ airblue_wifi_phy_usrp.apm Locally Modified          411 
+ airblue_wifi_phy_rx_exe.apm Locally Modified          411 
+ airblue_wifi_phy_loopback_exe.apm Locally Modified          411 
+ airblue_wifi_phy_rx_stats_usrp.apm Locally Modified          411 
+ airblue_wifi_phy_rx_xupv5.apm Locally Modified          411 
+
+Directory modules/airblue/Phy/WiFi
+ WiFiTransceiver.bsv       Locally Modified          411 
+
+Directory modules/airblue/PhyOnly/WiFi
+ Transceiver.bsv           Locally Modified          411 
+
+Directory modules/airblue/lib/PacketGen/src
+ PacketGenRRR.bsv          Locally Modified          411 
+ PacketCheckRRR.bsv        Locally Modified          411 
+ PacketCheckFixed.bsv      Locally Modified          411 
+
+
+Re-racked apm to reflect new LEAP organization. 
+
+Changed PacketCheck to use soft connections.
+Removed bug in PacketGen that was causing deadlock.
+
+----------
+emer        Date: Thu Jan 26 13:53:41 EST 2012  CSN: CSN-airblue-421
+                  Thu Jan 26 18:53:41 UTC 2012
+
+
+Directory admin/packages
+ airblue                   Locally Modified          420 
+
+Mark package as a 'prerelease'.
+
+----------
+kfleming    Date: Wed Feb  1 11:47:00 EST 2012  CSN: CSN-airblue-422
+                  Wed Feb  1 16:47:00 UTC 2012
+
+
+Directory config/pm/airblue/pipelines
+ airblue_wifi_phy_usrp.apm Locally Modified          421 
+
+Directory modules/airblue/device/deviceServices/airblue-service/usrp
+ airblue-service-usrp.bsv  Locally Modified          421 
+ airblue-service-usrp.rrr  Locally Modified          421 
+
+Directory modules/airblue/Phy/WiFi/rx
+ airblue_receiver.awb      Locally Modified          421 
+ Receiver.bsv              Locally Modified          421 
+
+
+Added a couple of RRR methods.  Also, fixed main line receiver to compile with new channel estimator hooks.

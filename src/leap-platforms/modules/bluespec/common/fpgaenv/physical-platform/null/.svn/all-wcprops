@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/null
+END
+null-physical-platfrom.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/null/null-physical-platfrom.bsv
+END
+null-physical-platfrom.awb
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/null/null-physical-platfrom.awb
+END

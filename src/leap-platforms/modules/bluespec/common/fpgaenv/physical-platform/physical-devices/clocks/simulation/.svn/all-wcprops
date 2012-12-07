@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/simulation
+END
+sim-clocks-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/simulation/sim-clocks-device.awb
+END
+sim-clocks-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/clocks/simulation/sim-clocks-device.bsv
+END

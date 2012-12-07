@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi/sim/rtl_sim/run
+END
+rtl.fl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi/sim/rtl_sim/run/rtl.fl
+END
+sim.fl
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi/sim/rtl_sim/run/sim.fl
+END
+run_sim
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi/sim/rtl_sim/run/run_sim
+END

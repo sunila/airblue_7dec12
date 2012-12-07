@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps
+END
+common.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/common.py
+END
+gen_ad9777_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_ad9777_regs.py
+END
+gen_tuner_4937di5_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_tuner_4937di5_regs.py
+END
+gen_max2112_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_max2112_regs.py
+END
+gen_max2118_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_max2118_regs.py
+END
+gen_ad9510_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_ad9510_regs.py
+END
+gen_ad5623_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_ad5623_regs.py
+END
+gen_adf4350_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_adf4350_regs.py
+END
+gen_ad9522_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_ad9522_regs.py
+END
+gen_ads62p44_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_ads62p44_regs.py
+END
+gen_adf4360_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_adf4360_regs.py
+END
+gen_ad7922_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_ad7922_regs.py
+END
+gen_max2829_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_max2829_regs.py
+END
+gen_ad9862_regs.py
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/gen_ad9862_regs.py
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/host/lib/ic_reg_maps/CMakeLists.txt
+END

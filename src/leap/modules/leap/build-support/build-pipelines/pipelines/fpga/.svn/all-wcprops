@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/pipelines/fpga
+END
+fpga-build-pipeline.awb
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/pipelines/fpga/fpga-build-pipeline.awb
+END
+FPGAPipeline.py
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/pipelines/fpga/FPGAPipeline.py
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/build-support/build-pipelines/pipelines/fpga/README
+END

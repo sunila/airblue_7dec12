@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/airblue/!svn/ver/384/trunk/modules/airblue/lib/AGC/src/platforms
+END
+genGainTable.c
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/384/trunk/modules/airblue/lib/AGC/src/platforms/genGainTable.c
+END
+gainFactors.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/384/trunk/modules/airblue/lib/AGC/src/platforms/gainFactors.bsv
+END
+usrp-agc.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/384/trunk/modules/airblue/lib/AGC/src/platforms/usrp-agc.bsv
+END
+usrp_agc.awb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/384/trunk/modules/airblue/lib/AGC/src/platforms/usrp_agc.awb
+END

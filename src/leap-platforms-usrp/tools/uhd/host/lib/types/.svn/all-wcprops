@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types
+END
+ranges.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/ranges.cpp
+END
+serial.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/serial.cpp
+END
+clock_config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/clock_config.cpp
+END
+types.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/types.cpp
+END
+time_spec.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/time_spec.cpp
+END
+device_addr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/device_addr.cpp
+END
+mac_addr.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/mac_addr.cpp
+END
+tune.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/tune.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/CMakeLists.txt
+END
+sensors.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/lib/types/sensors.cpp
+END

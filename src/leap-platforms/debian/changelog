@@ -1,0 +1,13 @@
+leap-platforms (11.09+fixes~svn20111009r570+lucid) lucid; urgency=low
+
+  [ Michael Pellauer ]
+  * Packaging 11.09 release.
+
+  [ Joel Emer ]
+  * r555
+      Improvements to leap-fpga-ctrl.
+      Installation fixes.
+  * r560
+      leap-platforms-xup package with dkms driver
+
+ -- Joel Emer <emer@csail.mit.edu>  Sun, 09 Oct 2011 19:43:53 -0400

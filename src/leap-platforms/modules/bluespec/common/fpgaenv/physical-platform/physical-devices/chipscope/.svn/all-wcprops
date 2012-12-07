@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/chipscope
+END
+XUPV5_CHIPSCOPES.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/chipscope/XUPV5_CHIPSCOPES.bsv
+END
+chipscope.awb
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/chipscope/chipscope.awb
+END
+chipscope_ip.v
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/chipscope/chipscope_ip.v
+END
+shared_vio.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/chipscope/shared_vio.ngc
+END
+ila.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/chipscope/ila.ngc
+END
+icon.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/chipscope/icon.ngc
+END

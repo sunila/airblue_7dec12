@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/leap/!svn/ver/156/branches/v11.09/experiments/leap/nightly
+END
+nightly.models
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/leap/!svn/ver/156/branches/v11.09/experiments/leap/nightly/nightly.models
+END
+nightly.benchmarks
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/leap/!svn/ver/156/branches/v11.09/experiments/leap/nightly/nightly.benchmarks
+END

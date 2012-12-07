@@ -1,0 +1,19 @@
+
+%name USRP RX Test application
+%desc Application for interfacing with the airblue system
+
+%provides connected_application
+
+%requires airblue_types
+%requires airblue_parameters
+%requires airblue_shared
+
+%public  sample-grab.h
+%public  sample-grab.bsv
+%public  sample-grab.rrr
+%private sample-grab.cpp
+
+%param SYNTH_BOUNDARY mkConnectedApplication "name of synthesis boundary"
+
+
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl
+END
+chip-full-a.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/chip-full-a.vhd
+END
+chip-full-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/chip-full-c.vhd
+END
+chip-e.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/chip-e.vhd
+END
+chip-minimal-a.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/chip-minimal-a.vhd
+END
+chip-sd-a.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/chip-sd-a.vhd
+END
+chip-minimal-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/chip-minimal-c.vhd
+END
+chip-sd-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/chip-sd-c.vhd
+END
+spi_boot_pack-p.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/spi_boot_pack-p.vhd
+END
+spi_counter-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/spi_counter-c.vhd
+END
+spi_counter.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/spi_counter.vhd
+END
+chip-mmc-a.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/chip-mmc-a.vhd
+END
+chip-mmc-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/chip-mmc-c.vhd
+END
+spi_boot-c.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/spi_boot-c.vhd
+END
+spi_boot.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/tx-chain/opencores/spi_boot/rtl/vhdl/spi_boot.vhd
+END

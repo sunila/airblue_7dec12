@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/xpc4drvr2_4/xpc4drvr
+END
+xpc4.c
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/xpc4drvr2_4/xpc4drvr/xpc4.c
+END
+install_drv
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/xpc4drvr2_4/xpc4drvr/install_drv
+END
+ioctl_3_64.a
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/xpc4drvr2_4/xpc4drvr/ioctl_3_64.a
+END
+xpc4.h
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/xpc4drvr2_4/xpc4drvr/xpc4.h
+END
+ioctl_2.a
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/xpc4drvr2_4/xpc4drvr/ioctl_2.a
+END
+ioctl_3.a
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/xpc4drvr2_4/xpc4drvr/ioctl_3.a
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/drivers/linux/Xilinx_Platform_Cable/windriver/linux_drivers/xpc4drvr2_4/xpc4drvr/Makefile
+END

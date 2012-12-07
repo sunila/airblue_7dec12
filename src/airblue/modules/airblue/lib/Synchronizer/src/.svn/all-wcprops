@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/airblue/!svn/ver/392/trunk/modules/airblue/lib/Synchronizer/src
+END
+SParams.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/airblue/!svn/ver/50/trunk/modules/airblue/lib/Synchronizer/src/SParams.bsv
+END
+Synchronizer.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/392/trunk/modules/airblue/lib/Synchronizer/src/Synchronizer.bsv
+END
+airblue_synchronizer.awb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/airblue/!svn/ver/304/trunk/modules/airblue/lib/Synchronizer/src/airblue_synchronizer.awb
+END
+SynchronizerLibrary.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/airblue/!svn/ver/50/trunk/modules/airblue/lib/Synchronizer/src/SynchronizerLibrary.bsv
+END

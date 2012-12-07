@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services
+END
+platform-services-null-mem.awb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/platform-services-null-mem.awb
+END
+platform-services-null-mem.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/platform-services-null-mem.bsv
+END
+platform-services-null.awb
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/platform-services-null.awb
+END
+platform-services-null.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/platform-services-null.bsv
+END
+platform-services-standard.awb
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/platform-services-standard.awb
+END
+platform-services-standard.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/platform-services-standard.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/README
+END

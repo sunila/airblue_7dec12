@@ -1,0 +1,14 @@
+K 10
+svn:ignore
+V 132
+files
+*.log
+*.substvars
+*.debhelper
+leap-platforms
+leap-platforms-bin
+leap-platforms-HEAD
+leap-platforms-xupv5
+leap-platforms-??.??
+
+END

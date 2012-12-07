@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/CPInsert/test
+END
+CPInsertTest.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/CPInsert/test/CPInsertTest.bsv
+END
+airblue_cyclic_prefix_insert_test.awb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/CPInsert/test/airblue_cyclic_prefix_insert_test.awb
+END
+CPInsertTest2.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/CPInsert/test/CPInsertTest2.bsv
+END

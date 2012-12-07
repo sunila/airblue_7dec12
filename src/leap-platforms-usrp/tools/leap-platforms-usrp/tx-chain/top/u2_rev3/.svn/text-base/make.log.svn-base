@@ -1,0 +1,5 @@
+/afs/csail.mit.edu/u/k/kfleming/fpgaMine/usrp2/top/u2_rev3/build/u2_rev3.xise
+xtclsh /afs/csail.mit.edu/u/k/kfleming/fpgaMine/usrp2/top/tcl/ise_helper.tcl ""
+>>> Opening project: /afs/csail.mit.edu/u/k/kfleming/fpgaMine/usrp2/top/u2_rev3/build/u2_rev3.xise
+Changed current working directory to the project directory:
+"/afs/csail.mit.edu/u/k/kfleming/fpgaMine/usrp2/top/u2_rev3/build" 

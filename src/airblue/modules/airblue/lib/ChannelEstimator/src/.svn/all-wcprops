@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/airblue/!svn/ver/420/trunk/modules/airblue/lib/ChannelEstimator/src
+END
+ChannelEstimator.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/airblue/!svn/ver/419/trunk/modules/airblue/lib/ChannelEstimator/src/ChannelEstimator.rrr
+END
+NullChannelEstimator.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/ChannelEstimator/src/NullChannelEstimator.bsv
+END
+airblue_channel_estimator_null.awb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/airblue/!svn/ver/163/trunk/modules/airblue/lib/ChannelEstimator/src/airblue_channel_estimator_null.awb
+END
+ChannelEstimator.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/airblue/!svn/ver/420/trunk/modules/airblue/lib/ChannelEstimator/src/ChannelEstimator.bsv
+END
+airblue_channel_estimator.awb
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/airblue/!svn/ver/419/trunk/modules/airblue/lib/ChannelEstimator/src/airblue_channel_estimator.awb
+END
+ChannelEstimatorTypes.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/airblue/!svn/ver/37/trunk/modules/airblue/lib/ChannelEstimator/src/ChannelEstimatorTypes.bsv
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap/!svn/ver/170/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid
+END
+hybrid-mem-scratch.dic
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/hybrid-mem-scratch.dic
+END
+hybrid-mem-scratch-multi.awb
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/hybrid-mem-scratch-multi.awb
+END
+hybrid-mem-scratch-multi.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap/!svn/ver/170/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/hybrid-mem-scratch-multi.bsv
+END
+hybrid-mem-scratch.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/hybrid-mem-scratch.cpp
+END
+hybrid-mem-scratch.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/hybrid-mem-scratch.rrr
+END
+hybrid-mem-scratch.h
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/hybrid-mem-scratch.h
+END
+hybrid-mem-scratch.awb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/hybrid-mem-scratch.awb
+END
+hybrid-mem-scratch.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap/!svn/ver/170/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/hybrid-mem-scratch.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/README
+END
+hybrid-mem-scratch-multi.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/scratchpad-memory/hybrid/hybrid-mem-scratch-multi.rrr
+END

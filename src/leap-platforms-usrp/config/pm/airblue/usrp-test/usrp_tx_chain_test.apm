@@ -1,0 +1,168 @@
+
+[Global]
+SaveParameters=0
+DefaultBenchmark=
+Version=2.2
+Type=Leap
+File=usrp_tx_chain_test
+Class=Asim::Model
+Name=WiFi Phy RX Testbench
+Description=Wifi Phy RX Testbench 
+DefaultRunOpts=
+RootName=HW/SW Hybrid Pipeline Build
+RootProvides=model
+
+[Model]
+DefaultAttributes=airblue
+model=HW/SW Hybrid Pipeline Build
+
+[Airblue Shifted Registers]
+File=modules/airblue/lib/ShiftRegs/src/airblue_shift_regs.awb
+Packagehint=ofdm
+
+[Airblue Shared Libraries/Requires]
+stream_capture_fifo=StreamCaptureFIFO
+spi=SPI
+commit_fifo=CommitFIFO
+reversal_buffer=ReversalBuffer
+client_server_utils=ClientServer Utilities
+airblue_special_fifos=Airblue Special FIFOs
+airblue_common=Airblue common library
+stat_min=Min collector
+airblue_shift_regs=Airblue Shifted Registers
+stat_averager=Averager collector
+
+[ClientServer Utilities]
+File=modules/bsv-libraries/bluespec/ClientServerUtils/client_server_utils.awb
+Packagehint=bsv-libraries
+
+[Min collector]
+File=modules/bsv-libraries/bluespec/Stats/Min/src/stat_min.awb
+Packagehint=bsv-libraries
+
+[SPI]
+File=modules/bsv-libraries/bluespec/SPI/src/spi.awb
+Packagehint=bsv-libraries
+
+[ReversalBuffer]
+File=modules/bsv-libraries/bluespec/ReversalBuffer/src/reversal_buffer.awb
+Packagehint=bsv-libraries
+
+[Airblue Shared Libraries]
+File=modules/airblue/lib/airblue_shared.awb
+Packagehint=ofdm
+
+[StreamCaptureFIFO]
+File=modules/bsv-libraries/bluespec/StreamCaptureFIFO/src/stream_capture_fifo.awb
+Packagehint=bsv-libraries
+
+[Airblue Special FIFOs]
+File=modules/airblue/lib/FIFOs/src/airblue_special_fifos.awb
+Packagehint=ofdm
+
+[Airblue common library]
+File=modules/airblue/lib/Common/airblue_common.awb
+Packagehint=ofdm
+
+[CommitFIFO]
+File=modules/bsv-libraries/bluespec/CommitFIFO/src/commit_fifo.awb
+Packagehint=bsv-libraries
+
+[Averager collector]
+File=modules/bsv-libraries/bluespec/Stats/Averager/src/stat_averager.awb
+Packagehint=bsv-libraries
+
+[Airblue types (no SoftHints)]
+File=modules/airblue/lib/Types/airblue_types.awb
+Packagehint=ofdm
+
+[Airblue WiFi parameters (with standard null SHIM)]
+File=modules/airblue/parameters/WiFi/airblue_wifi_parameters_no_shim.awb
+Packagehint=ofdm
+
+[HW/SW Hybrid Pipeline Build]
+File=modules/leap/build-support/project/project-pipeline.awb
+Packagehint=leap
+
+[HW/SW Hybrid Pipeline Build/Requires]
+project_common=Default Hybrid Project Common Utilities
+fpgaenv=Hybrid XUP-v5 PCIE SATA FPGA Test Environment
+application_env=Soft Services Hybrid Application Environment
+
+[Soft Services Hybrid Application Environment/Requires]
+platform_services=Airblue Services
+connected_application=USRP TX Test application
+soft_services=Soft Services
+
+[Soft Services Hybrid Application Environment]
+File=modules/leap/build-support/project/application-env/hybrid/soft-services/application-env-hybrid-soft-service.awb
+Packagehint=leap
+
+[Soft Services]
+File=config/pm/hasim/submodels/common/soft-services.apm
+Packagehint=leap
+
+[Common Services/Requires]
+stats_service=Stats Service
+assertions_service=Assertions Service
+debug_scan_service=Debug Scan Services
+streams_service=Streams Service
+dynamic_parameters_service=Dynamic Parameter Service
+
+[Streams Service]
+File=modules/leap/virtual-platform/virtual-devices/backwards-compat/platform-services/common-services/streams-service/streams-service.awb
+Packagehint=leap
+
+[Stats Service]
+File=modules/leap/virtual-platform/virtual-devices/backwards-compat/platform-services/common-services/stats-service/stats-service.awb
+Packagehint=leap
+
+[Common Services]
+File=modules/leap/virtual-platform/virtual-devices/backwards-compat/platform-services/common-services/common-services-standard.awb
+Packagehint=leap
+
+[Assertions Service]
+File=modules/leap/virtual-platform/virtual-devices/backwards-compat/platform-services/common-services/assertions-service/assertions-service.awb
+Packagehint=leap
+
+[Airblue Services/Requires]
+common_services=Common Services
+airblue_service=Airblue Service (USRP)
+
+[Debug Scan Services]
+File=modules/leap/virtual-platform/virtual-devices/backwards-compat/platform-services/common-services/debug-scan-service/debug-scan-service.awb
+Packagehint=leap
+
+[Dynamic Parameter Service]
+File=modules/leap/virtual-platform/virtual-devices/backwards-compat/platform-services/common-services/dynamic-parameters-service/dynamic-parameters-service.awb
+Packagehint=leap
+
+[Airblue Services]
+File=modules/airblue/device/deviceServices/airblue-services.awb
+Packagehint=ofdm
+
+[Default Hybrid Project Common Utilities]
+File=config/pm/hasim/submodels/common/project-common-default.apm
+Packagehint=leap
+
+[Airblue Service (USRP)]
+File=modules/airblue/device/deviceServices/airblue-service/usrp/airblue-service.awb
+Packagehint=ofdm
+
+[Hybrid XUP-v5 PCIE SATA FPGA Test Environment]
+File=config/pm/hasim/submodels/fpgaenv/fpgaenv-hybrid-xup-v5-pcie-sata.apm
+Packagehint=leap
+
+[Hybrid XUP-v5 PCIE SATA FPGA Test Environment/Params]
+MODEL_CLOCK_DIVIDER=20
+MODEL_CLOCK_MULTIPLIER=5
+MODEL_CLOCK_FREQ=25
+
+[USRP TX Test application/Requires]
+airblue_types=Airblue types (no SoftHints)
+airblue_shared=Airblue Shared Libraries
+airblue_parameters=Airblue WiFi parameters (with standard null SHIM)
+
+[USRP TX Test application]
+File=modules/bluespec/airblue/usrp/sata/tx-chain-driver.awb
+Packagehint=platforms-usrp

@@ -1,0 +1,4 @@
+
+BEGIN MODEL "SyncFIFO"
+    NET "fifoMem" syn_ramstyle = select_ram;
+END;

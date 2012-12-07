@@ -1,0 +1,191 @@
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram
+END
+ddr2_phy_io.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_phy_io.vhd
+END
+ddr2_phy_ctl_io.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_phy_ctl_io.vhd
+END
+ddr2-sdram-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2-sdram-device.bsv
+END
+ddr2_usr_top.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_usr_top.vhd
+END
+ddr2_sdram.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_sdram.sdc
+END
+ddr2_top.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_top.vhd
+END
+ddr2_ctrl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_ctrl.vhd
+END
+ddr2_sdram.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_sdram.vhd
+END
+ddr2_phy_write.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_phy_write.vhd
+END
+ddr2-pll.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2-pll.bsv
+END
+ddr2_infrastructure.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_infrastructure.vhd
+END
+ddr2_usr_wr.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_usr_wr.vhd
+END
+ddr2_phy_top.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_phy_top.vhd
+END
+ddr2-sdram-device-synplify.awb
+K 25
+svn:wc:ra_dav:version-url
+V 157
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2-sdram-device-synplify.awb
+END
+ddr2-sdram-sync-tig-synplify.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2-sdram-sync-tig-synplify.ucf
+END
+ddr2-pll.v
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2-pll.v
+END
+ddr2_phy_calib.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_phy_calib.vhd
+END
+ddr2_idelay_ctrl.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_idelay_ctrl.vhd
+END
+ddr2_usr_rd.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_usr_rd.vhd
+END
+ddr2_phy_dqs_iob.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_phy_dqs_iob.vhd
+END
+ddr2-sdram-vhdl-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2-sdram-vhdl-import.bsv
+END
+ddr2_sdram.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_sdram.ucf
+END
+ddr2_usr_addr_fifo.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_usr_addr_fifo.vhd
+END
+ddr2-sdram-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2-sdram-device.awb
+END
+ddr2_phy_dm_iob.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_phy_dm_iob.vhd
+END
+ddr2-sdram-sync-tig.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2-sdram-sync-tig.ucf
+END
+ddr2_sdram-synplify.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_sdram-synplify.ucf
+END
+ddr2_phy_dq_iob.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_phy_dq_iob.vhd
+END
+ddr2_chipscope.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_chipscope.vhd
+END
+ddr2_mem_if_top.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_mem_if_top.vhd
+END
+ddr2_phy_init.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr2-sdram/ddr2_phy_init.vhd
+END

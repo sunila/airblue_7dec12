@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/airblue/!svn/ver/227/trunk/scripts/softhints
+END
+analyze-softphy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/airblue/!svn/ver/169/trunk/scripts/softhints/analyze-softphy.pl
+END
+plot-ber.gp
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/airblue/!svn/ver/169/trunk/scripts/softhints/plot-ber.gp
+END
+computer-ber.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/airblue/!svn/ver/227/trunk/scripts/softhints/computer-ber.py
+END

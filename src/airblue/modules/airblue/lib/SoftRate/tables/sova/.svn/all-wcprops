@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova
+END
+table_r1.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r1.h
+END
+table_r2.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r2.h
+END
+table_r0.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r0.bsv
+END
+table_r3.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r3.h
+END
+table_r1.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r1.bsv
+END
+table_log_r0.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_log_r0.bsv
+END
+table_r4.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r4.h
+END
+table_r2.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r2.bsv
+END
+table_log_r1.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_log_r1.bsv
+END
+table_r5.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r5.h
+END
+table_r3.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r3.bsv
+END
+table_log_r2.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_log_r2.bsv
+END
+table_r6.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r6.h
+END
+table_log_r3.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_log_r3.bsv
+END
+table_r4.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r4.bsv
+END
+table_r7.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r7.h
+END
+table_log_r4.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_log_r4.bsv
+END
+table_r5.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r5.bsv
+END
+table_log_r5.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_log_r5.bsv
+END
+table_r6.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r6.bsv
+END
+table_log_r6.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_log_r6.bsv
+END
+table_r7.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r7.bsv
+END
+table_log_r7.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_log_r7.bsv
+END
+airblue_softhint_table_sova.awb
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/airblue/!svn/ver/389/trunk/modules/airblue/lib/SoftRate/tables/sova/airblue_softhint_table_sova.awb
+END
+table_r0.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/246/trunk/modules/airblue/lib/SoftRate/tables/sova/table_r0.h
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/airblue_cycloneiii
+END
+jtag.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/airblue_cycloneiii/jtag.sdf
+END
+airblue_cycloneiii-jtag.awb
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/airblue_cycloneiii/airblue_cycloneiii-jtag.awb
+END
+airblue_cycloneiii-jtag.qsf
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/airblue_cycloneiii/airblue_cycloneiii-jtag.qsf
+END
+airblue_cycloneiii-jtag-pins.qsf
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/airblue_cycloneiii/airblue_cycloneiii-jtag-pins.qsf
+END
+jtag.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/airblue_cycloneiii/jtag.sdc
+END

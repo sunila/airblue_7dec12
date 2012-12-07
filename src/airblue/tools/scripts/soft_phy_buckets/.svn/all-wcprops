@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/airblue/!svn/ver/216/trunk/tools/scripts/soft_phy_buckets
+END
+run.soft_phy_bucket.bmark
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/airblue/!svn/ver/212/trunk/tools/scripts/soft_phy_buckets/run.soft_phy_bucket.bmark
+END
+analyze-softphy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/airblue/!svn/ver/216/trunk/tools/scripts/soft_phy_buckets/analyze-softphy.pl
+END
+setup-softphy-buckets
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/airblue/!svn/ver/191/trunk/tools/scripts/soft_phy_buckets/setup-softphy-buckets
+END
+plot-ber.gp
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/airblue/!svn/ver/191/trunk/tools/scripts/soft_phy_buckets/plot-ber.gp
+END

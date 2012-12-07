@@ -1,0 +1,9 @@
+
+[Global]
+Buildorder=1000
+Version=1
+Lock=asim-platforms-usrp
+Description=Description of leap-platforms-usrp
+Name=leap-platforms-usrp
+Tag=HEAD
+CSN=CSN-leap-platforms-usrp-18

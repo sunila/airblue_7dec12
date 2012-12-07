@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/airblue/!svn/ver/238/trunk/tools/build
+END
+Synplify_build_all_vs.py
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/airblue/!svn/ver/238/trunk/tools/build/Synplify_build_all_vs.py
+END
+Synplify.py
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/airblue/!svn/ver/238/trunk/tools/build/Synplify.py
+END
+synplify.awb
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/airblue/!svn/ver/238/trunk/tools/build/synplify.awb
+END
+synplify.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/airblue/!svn/ver/238/trunk/tools/build/synplify.sdc
+END
+build_all_vs.awb
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/airblue/!svn/ver/238/trunk/tools/build/build_all_vs.awb
+END

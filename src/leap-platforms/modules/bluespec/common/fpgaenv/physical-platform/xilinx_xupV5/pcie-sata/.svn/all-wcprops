@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata
+END
+xilinx-xup-pcie-sata.h
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx-xup-pcie-sata.h
+END
+xilinx-xup-pcie-sata.awb
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx-xup-pcie-sata.awb
+END
+xilinx.download
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx.download
+END
+xilinx-xup-pcie-sata.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx-xup-pcie-sata.bsv
+END
+xilinx.ut
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx.ut
+END
+xilinx.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx.sdc
+END
+xilinx-xup-pcie-sata.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx-xup-pcie-sata.ucf
+END
+xilinx.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx.sdf
+END
+xilinx.xst
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx.xst
+END
+xilinx-xup-pcie-sata.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/xilinx_xupV5/pcie-sata/xilinx-xup-pcie-sata.cpp
+END

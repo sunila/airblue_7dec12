@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/leap-platforms/!svn/ver/569/branches/v11.09/tools/platforms/leap-fpga-ctrl
+END
+leap-fpga-ctrl.c
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/leap-platforms/!svn/ver/562/branches/v11.09/tools/platforms/leap-fpga-ctrl/leap-fpga-ctrl.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/tools/platforms/leap-fpga-ctrl/Makefile.in
+END
+iniparser.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/tools/platforms/leap-fpga-ctrl/iniparser.h
+END
+dictionary.c
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/tools/platforms/leap-fpga-ctrl/dictionary.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/tools/platforms/leap-fpga-ctrl/Makefile.am
+END
+dictionary.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/tools/platforms/leap-fpga-ctrl/dictionary.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/tools/platforms/leap-fpga-ctrl/README
+END
+iniparser.c
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/tools/platforms/leap-fpga-ctrl/iniparser.c
+END

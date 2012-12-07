@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service
+END
+scratchpad-memory-service-multi.awb
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-service-multi.awb
+END
+scratchpad-memory-service-null.awb
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-service-null.awb
+END
+scratchpad-memory-connector.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-connector.bsv
+END
+scratchpad-memory-service-multi-rrr.awb
+K 25
+svn:wc:ra_dav:version-url
+V 158
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-service-multi-rrr.awb
+END
+scratchpad-memory-connector-rrr.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-connector-rrr.bsv
+END
+scratchpad-memory-service.awb
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-service.awb
+END
+scratchpad-memory-service.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-service.bsv
+END
+platform-scratchpad-multi-cached-memory.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 162
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/platform-scratchpad-multi-cached-memory.bsv
+END
+platform-scratchpad-memory-utils.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/platform-scratchpad-memory-utils.bsv
+END
+scratchpad-memory-connector-null.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-connector-null.bsv
+END
+scratchpad-memory-service.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-service.bsh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/README
+END
+platform-scratchpad-memory.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/platform-scratchpad-memory.bsv
+END
+scratchpad-memory-service.dic
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/libraries/platform-services/mem-services/scratchpad-memory-service/scratchpad-memory-service.dic
+END

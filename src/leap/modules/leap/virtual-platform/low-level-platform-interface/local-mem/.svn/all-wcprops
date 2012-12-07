@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/local-mem
+END
+local-mem-null.awb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/local-mem/local-mem-null.awb
+END
+local-mem-ddr2.awb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/local-mem/local-mem-ddr2.awb
+END
+local-mem-null.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/local-mem/local-mem-null.bsv
+END
+local-mem-ddr2.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/local-mem/local-mem-ddr2.bsv
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/local-mem/README
+END
+local-mem-bram.awb
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/local-mem/local-mem-bram.awb
+END
+local-mem-interface.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/local-mem/local-mem-interface.bsv
+END
+local-mem-bram.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/low-level-platform-interface/local-mem/local-mem-bram.bsv
+END

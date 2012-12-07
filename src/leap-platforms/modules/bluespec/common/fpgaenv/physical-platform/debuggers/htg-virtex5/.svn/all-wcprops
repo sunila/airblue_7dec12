@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/htg-virtex5
+END
+htg-debugger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/htg-virtex5/htg-debugger.cpp
+END
+htg-debugger.h
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/htg-virtex5/htg-debugger.h
+END
+htg-debugger.awb
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/htg-virtex5/htg-debugger.awb
+END
+htg-debugger.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/debuggers/htg-virtex5/htg-debugger.bsv
+END

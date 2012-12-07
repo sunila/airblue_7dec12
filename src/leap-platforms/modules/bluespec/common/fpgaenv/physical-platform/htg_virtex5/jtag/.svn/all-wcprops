@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag
+END
+xilinx.download
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/xilinx.download
+END
+xilinx.ut
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/xilinx.ut
+END
+htg-v5-jtag.h
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/htg-v5-jtag.h
+END
+htg-v5-jtag.awb
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/htg-v5-jtag.awb
+END
+htg-v5-jtag.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/htg-v5-jtag.sdc
+END
+htg-v5-jtag.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/htg-v5-jtag.bsv
+END
+xilinx.sdf
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/xilinx.sdf
+END
+xilinx.xst
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/xilinx.xst
+END
+htg-v5-jtag.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/htg-v5-jtag.ucf
+END
+htg-v5-jtag.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/htg_virtex5/jtag/htg-v5-jtag.cpp
+END

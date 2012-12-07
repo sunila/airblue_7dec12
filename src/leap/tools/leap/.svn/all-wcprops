@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/leap/!svn/ver/156/branches/v11.09/tools/leap
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/leap/!svn/ver/156/branches/v11.09/tools/leap/Makefile.in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/leap/!svn/ver/156/branches/v11.09/tools/leap/Makefile.am
+END

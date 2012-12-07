@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/NewtonRaphson/InverseSqRoot/src
+END
+InverseSqRootParams.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/airblue/!svn/ver/56/trunk/modules/airblue/lib/NewtonRaphson/InverseSqRoot/src/InverseSqRootParams.bsv
+END
+InverseSqRoot.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/airblue/!svn/ver/305/trunk/modules/airblue/lib/NewtonRaphson/InverseSqRoot/src/InverseSqRoot.bsv
+END
+airblue_inverse_sq_root.awb
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/airblue/!svn/ver/131/trunk/modules/airblue/lib/NewtonRaphson/InverseSqRoot/src/airblue_inverse_sq_root.awb
+END

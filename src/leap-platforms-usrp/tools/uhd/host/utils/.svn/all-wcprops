@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils
+END
+usrp2_recovery.py
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/usrp2_recovery.py
+END
+uhd_usrp_probe.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/uhd_usrp_probe.cpp
+END
+usrp_n2xx_net_burner.py
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/usrp_n2xx_net_burner.py
+END
+uhd_find_devices.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/uhd_find_devices.cpp
+END
+usrp1_init_eeprom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/usrp1_init_eeprom.cpp
+END
+usrp_burn_mb_eeprom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/usrp_burn_mb_eeprom.cpp
+END
+usrp2_card_burner.py
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/usrp2_card_burner.py
+END
+usrp2_card_burner_gui.py
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/usrp2_card_burner_gui.py
+END
+usrp_burn_db_eeprom.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/usrp_burn_db_eeprom.cpp
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/uhd/host/utils/CMakeLists.txt
+END

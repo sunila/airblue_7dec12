@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi/rtl/verilog
+END
+spi_top.v
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi/rtl/verilog/spi_top.v
+END
+spi_clgen.v
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi/rtl/verilog/spi_clgen.v
+END
+spi_top16.v
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi/rtl/verilog/spi_top16.v
+END
+spi_defines.v
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi/rtl/verilog/spi_defines.v
+END
+spi_shift.v
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/opencores/spi/rtl/verilog/spi_shift.v
+END

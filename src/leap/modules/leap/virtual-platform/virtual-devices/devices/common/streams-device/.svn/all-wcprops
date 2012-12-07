@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device
+END
+streams-common.bsh
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device/streams-common.bsh
+END
+hybrid-streams-services.rrr
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device/hybrid-streams-services.rrr
+END
+hybrid-streams.h
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device/hybrid-streams.h
+END
+hybrid-streams.awb
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device/hybrid-streams.awb
+END
+hybrid-streams.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device/hybrid-streams.bsv
+END
+streamid.dic
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device/streamid.dic
+END
+streams.dic
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device/streams.dic
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device/README
+END
+hybrid-streams.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap/!svn/ver/156/branches/v11.09/modules/leap/virtual-platform/virtual-devices/devices/common/streams-device/hybrid-streams.cpp
+END

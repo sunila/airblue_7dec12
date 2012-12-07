@@ -1,0 +1,749 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen
+END
+fifo_xlnx_16x40_2clk.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x40_2clk.ngc
+END
+fifo_xlnx_512x36_2clk_prog_full.xise
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full.xise
+END
+icon.veo
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.veo
+END
+icon.asy
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.asy
+END
+fifo_xlnx_64x36_2clk.v
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_64x36_2clk.v
+END
+fifo_xlnx_512x36_2clk.xco
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk.xco
+END
+fifo_xlnx_512x36_2clk_18to36.ncf
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36.ncf
+END
+fifo_xlnx_512x36_2clk_36to18.ncf
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18.ncf
+END
+fifo_xlnx_512x36_2clk_18to36.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36.ngc
+END
+fifo_xlnx_512x36_2clk_36to18.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18.ngc
+END
+fifo_xlnx_512x36_2clk_18to36.xise
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36.xise
+END
+coregen.cgp
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/coregen.cgp
+END
+fifo_xlnx_512x36_2clk_36to18.xise
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18.xise
+END
+fifo_xlnx_512x36_2clk_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_readme.txt
+END
+fifo_xlnx_16x40_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x40_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+END
+fifo_xlnx_2Kx36_2clk.veo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk.veo
+END
+ila.xco
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.xco
+END
+fifo_xlnx_512x36_2clk_prog_full.gise
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full.gise
+END
+fifo_xlnx_2Kx36_2clk.asy
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk.asy
+END
+fifo_xlnx_64x36_2clk_fifo_generator_v4_3_xst_1.lso
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_64x36_2clk_fifo_generator_v4_3_xst_1.lso
+END
+fifo_xlnx_16x40_2clk.xco
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x40_2clk.xco
+END
+fifo_xlnx_32x36_2clk.veo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk.veo
+END
+ila_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila_xmdf.tcl
+END
+fifo_xlnx_512x36_2clk.sym
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk.sym
+END
+fifo_xlnx_16x40_2clk_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x40_2clk_xmdf.tcl
+END
+fifo_xlnx_512x36_2clk_18to36.gise
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36.gise
+END
+fifo_xlnx_512x36_2clk_36to18.gise
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18.gise
+END
+fifo_xlnx_512x36_2clk_18to36.xco
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36.xco
+END
+fifo_xlnx_512x36_2clk_36to18.xco
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18.xco
+END
+fifo_xlnx_512x36_2clk_18to36_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36_readme.txt
+END
+fifo_xlnx_512x36_2clk_36to18_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18_readme.txt
+END
+fifo_xlnx_512x36_2clk.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk.vhd
+END
+fifo_generator_release_notes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_generator_release_notes.txt
+END
+icon_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon_readme.txt
+END
+ila.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.vhd
+END
+fifo_xlnx_64x36_2clk.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_64x36_2clk.ngc
+END
+icon_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon_xmdf.tcl
+END
+fifo_xlnx_512x36_2clk.vho
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk.vho
+END
+icon.ncf
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.ncf
+END
+fifo_xlnx_16x19_2clk_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x19_2clk_flist.txt
+END
+icon.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.ngc
+END
+fifo_xlnx_2Kx36_2clk_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk_readme.txt
+END
+fifo_xlnx_512x36_2clk_prog_full.veo
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full.veo
+END
+ila.vho
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.vho
+END
+fifo_xlnx_16x19_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x19_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+END
+fifo_xlnx_2Kx36_2clk_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk_xmdf.tcl
+END
+fifo_xlnx_64x36_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_64x36_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+END
+fifo_xlnx_32x36_2clk_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk_readme.txt
+END
+fifo_xlnx_16x19_2clk.veo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x19_2clk.veo
+END
+icon_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon_flist.txt
+END
+fifo_xlnx_64x36_2clk.xco
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_64x36_2clk.xco
+END
+fifo_xlnx_2Kx36_2clk.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk.ngc
+END
+fifo_xlnx_32x36_2clk_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk_xmdf.tcl
+END
+ila.xise
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.xise
+END
+fifo_xlnx_16x19_2clk_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x19_2clk_xmdf.tcl
+END
+fifo_xlnx_512x36_2clk_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_flist.txt
+END
+fifo_xlnx_64x36_2clk_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_64x36_2clk_xmdf.tcl
+END
+icon.xco
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.xco
+END
+fifo_xlnx_32x36_2clk.ncf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk.ncf
+END
+fifo_xlnx_512x36_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+K 25
+svn:wc:ra_dav:version-url
+V 153
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+END
+fifo_xlnx_32x36_2clk.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk.ngc
+END
+fifo_xlnx_2Kx36_2clk_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk_flist.txt
+END
+fifo_xlnx_16x19_2clk.v
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x19_2clk.v
+END
+ila_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila_flist.txt
+END
+Makefile.srcs
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/Makefile.srcs
+END
+fifo_xlnx_512x36_2clk.veo
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk.veo
+END
+fifo_xlnx_16x40_2clk_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x40_2clk_flist.txt
+END
+fifo_generator_ug175.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_generator_ug175.pdf
+END
+fifo_xlnx_512x36_2clk.asy
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk.asy
+END
+fifo_xlnx_32x36_2clk_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk_flist.txt
+END
+ila.gise
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.gise
+END
+fifo_xlnx_2Kx36_2clk.xco
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk.xco
+END
+icon.v
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.v
+END
+fifo_xlnx_16x19_2clk_fifo_generator_v4_3_xst_1.lso
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x19_2clk_fifo_generator_v4_3_xst_1.lso
+END
+ila.cdc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.cdc
+END
+ila.veo
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.veo
+END
+fifo_xlnx_512x36_2clk_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_xmdf.tcl
+END
+icon.xise
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.xise
+END
+ila.asy
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.asy
+END
+ila_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila_readme.txt
+END
+fifo_xlnx_16x40_2clk.veo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x40_2clk.veo
+END
+fifo_xlnx_512x36_2clk_18to36_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36_flist.txt
+END
+fifo_xlnx_512x36_2clk_36to18_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18_flist.txt
+END
+fifo_xlnx_512x36_2clk.v
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk.v
+END
+fifo_xlnx_512x36_2clk_prog_full_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full_readme.txt
+END
+fifo_xlnx_32x36_2clk.xco
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk.xco
+END
+fifo_xlnx_16x40_2clk_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x40_2clk_readme.txt
+END
+fifo_xlnx_512x36_2clk_prog_full_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full_xmdf.tcl
+END
+fifo_xlnx_2Kx36_2clk.v
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk.v
+END
+icon.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.vhd
+END
+ila.v
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.v
+END
+fifo_xlnx_512x36_2clk_18to36.veo
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36.veo
+END
+fifo_xlnx_2Kx36_2clk.sym
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk.sym
+END
+fifo_xlnx_512x36_2clk_36to18.veo
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18.veo
+END
+fifo_xlnx_16x40_2clk.v
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x40_2clk.v
+END
+fifo_xlnx_512x36_2clk_fifo_generator_v4_3_xst_1.lso
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_fifo_generator_v4_3_xst_1.lso
+END
+fifo_xlnx_512x36_2clk_prog_full.ncf
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full.ncf
+END
+fifo_xlnx_512x36_2clk_prog_full.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full.ngc
+END
+icon.gise
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.gise
+END
+fifo_xlnx_32x36_2clk.v
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk.v
+END
+fifo_xlnx_2Kx36_2clk_fifo_generator_v4_3_xst_1.lso
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk_fifo_generator_v4_3_xst_1.lso
+END
+fifo_xlnx_512x36_2clk_18to36_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36_xmdf.tcl
+END
+fifo_xlnx_512x36_2clk_36to18_xmdf.tcl
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18_xmdf.tcl
+END
+fifo_xlnx_32x36_2clk.xise
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk.xise
+END
+icon.vho
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/icon.vho
+END
+fifo_xlnx_2Kx36_2clk.vhd
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk.vhd
+END
+fifo_xlnx_16x19_2clk.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x19_2clk.ngc
+END
+fifo_xlnx_2Kx36_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk_fifo_generator_v4_3_xst_1.ngc_xst.xrpt
+END
+fifo_xlnx_512x36_2clk_18to36.v
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_18to36.v
+END
+fifo_xlnx_512x36_2clk_36to18.v
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_36to18.v
+END
+fifo_xlnx_512x36_2clk_prog_full_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full_flist.txt
+END
+fifo_xlnx_2Kx36_2clk.vho
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_2Kx36_2clk.vho
+END
+fifo_xlnx_512x36_2clk_prog_full.xco
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full.xco
+END
+fifo_xlnx_64x36_2clk_flist.txt
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_64x36_2clk_flist.txt
+END
+fifo_xlnx_32x36_2clk.gise
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_32x36_2clk.gise
+END
+fifo_xlnx_512x36_2clk.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk.ngc
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/.gitignore
+END
+fifo_xlnx_16x19_2clk.xco
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x19_2clk.xco
+END
+fifo_xlnx_64x36_2clk.veo
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_64x36_2clk.veo
+END
+fifo_xlnx_16x19_2clk_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_16x19_2clk_readme.txt
+END
+ila.ncf
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.ncf
+END
+ila.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/ila.ngc
+END
+fifo_xlnx_512x36_2clk_prog_full.v
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_512x36_2clk_prog_full.v
+END
+fifo_xlnx_64x36_2clk_readme.txt
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/leap-platforms-usrp/!svn/ver/22/branches/v11.10/tools/leap-platforms-usrp/usrp2/coregen/fifo_xlnx_64x36_2clk_readme.txt
+END

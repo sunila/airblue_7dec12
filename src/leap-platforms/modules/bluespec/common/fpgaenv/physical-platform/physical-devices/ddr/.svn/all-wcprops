@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr
+END
+ddr-sdram-device.awb
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr-sdram-device.awb
+END
+ddr-sdram-verilog-import.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr-sdram-verilog-import.bsv
+END
+NPICommon.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/NPICommon.bsv
+END
+NPIMaster.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/NPIMaster.bsv
+END
+ddr-sdram-device-synplify.awb
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr-sdram-device-synplify.awb
+END
+ddr_sdram_xilinx.v
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr_sdram_xilinx.v
+END
+clock_generator_ddr_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/clock_generator_ddr_wrapper.ngc
+END
+proc_sys_reset_ddr_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/proc_sys_reset_ddr_wrapper.ngc
+END
+ddr_sdram_wrapper.v
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr_sdram_wrapper.v
+END
+ddr_sdram.v
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr_sdram.v
+END
+ddr-sdram-device.bsv
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr-sdram-device.bsv
+END
+ddr_sdram_wrapper.ngc
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr_sdram_wrapper.ngc
+END
+ddr_sdram.sdc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr_sdram.sdc
+END
+ddr_sdram_synplify.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr_sdram_synplify.ucf
+END
+ddr_sdram_tig_synplify.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr_sdram_tig_synplify.ucf
+END
+ddr_sdram.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr_sdram.ucf
+END
+ddr_sdram_tig.ucf
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/leap-platforms/!svn/ver/546/branches/v11.09/modules/bluespec/common/fpgaenv/physical-platform/physical-devices/ddr/ddr_sdram_tig.ucf
+END

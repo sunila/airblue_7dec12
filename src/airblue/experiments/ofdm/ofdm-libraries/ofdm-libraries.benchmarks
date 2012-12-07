@@ -1,0 +1,12 @@
+# ***************
+#
+# OFDM benchmarks
+#
+# ***************
+
+experiments = maccrc synchronizer synchronizer2 bcjr viterbi
+config/bm/bsv-libraries/pass_check.cfx/benchmarks/pass_check.cfg
+
+#experiments = inv_sq_root
+#config/bm/bsv-libraries/pass_check.cfx/benchmarks/pass_check.cfg
+

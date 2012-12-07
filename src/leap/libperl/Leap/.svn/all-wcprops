@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap
+END
+MANIFEST
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/MANIFEST
+END
+Makefile.PL
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/Makefile.PL
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/leap/!svn/ver/156/branches/v11.09/libperl/Leap/README
+END

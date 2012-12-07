@@ -1,0 +1,3 @@
+
+// Include base device
+`include "awb/provides/scratchpad_memory.bsh"
